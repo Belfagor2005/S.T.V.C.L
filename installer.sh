@@ -18,8 +18,8 @@ else
 fi
 
 # Cleanup previous installations
-[ -d $TMPPATH ] && rm -rf $TMPPATH
-[ -f $FILEPATH ] && rm -f $FILEPATH
+[ -d "$TMPPATH" ] && rm -rf "$TMPPATH"
+[ -f "$FILEPATH" ] && rm -f "$FILEPATH"
 
 # Check package manager type
 if [ -f /var/lib/dpkg/status ]; then
@@ -39,10 +39,10 @@ echo ""
 # Install wget if missing
 if ! command -v wget >/dev/null 2>&1; then
     echo "Installing wget..."
-    if [ $OSTYPE = "DreamOs" ]; then
-        apt-get update && apt-get install wget -y
+    if [ "$OSTYPE" = "DreamOs" ]; then
+        apt-get update && apt-get install wget -y || { echo "Failed to install wget"; exit 1; }
     else
-        opkg update && opkg install wget
+        opkg update && opkg install wget || { echo "Failed to install wget"; exit 1; }
     fi
 fi
 
@@ -61,58 +61,61 @@ fi
 # Install required packages
 install_dep() {
     local pkg=$1
-    if ! grep -qs "Package: $pkg" $STATUS; then
+    if ! grep -qs "Package: $pkg" "$STATUS"; then
         echo "Installing $pkg..."
-        if [ $OSTYPE = "DreamOs" ]; then
-            apt-get update && apt-get install $pkg -y
+        if [ "$OSTYPE" = "DreamOs" ]; then
+            apt-get update && apt-get install $pkg -y || { echo "Failed to install $pkg"; exit 1; }
         else
-            opkg update && opkg install $pkg
+            opkg update && opkg install $pkg || { echo "Failed to install $pkg"; exit 1; }
         fi
+    else
+        echo "$pkg already installed"
     fi
 }
 
-[ $PYTHON = "PY3" ] && install_dep $Packagesix
-install_dep $Packagerequests
+[ "$PYTHON" = "PY3" ] && install_dep "$Packagesix"
+install_dep "$Packagerequests"
 
 # Download and install plugin
-mkdir -p $TMPPATH
-cd $TMPPATH
+mkdir -p "$TMPPATH"
+cd "$TMPPATH" || { echo "Failed to cd to $TMPPATH"; exit 1; }
 set -e
 
 echo -e "\n# Your image is ${OSTYPE}\n"
 
 # Install additional dependencies for non-DreamOs systems
-if [ $OSTYPE != "DreamOs" ]; then
+if [ "$OSTYPE" != "DreamOs" ]; then
     for pkg in ffmpeg gstplayer exteplayer3 enigma2-plugin-systemplugins-serviceapp; do
-        install_dep $pkg
+        install_dep "$pkg"
     done
 fi
 
 echo "Downloading S.T.V.C.L-..."
-wget --no-check-certificate 'https://github.com/Belfagor2005/S.T.V.C.L-/archive/refs/heads/main.tar.gz' -O $FILEPATH
+wget --no-check-certificate 'https://github.com/Belfagor2005/S.T.V.C.L-/archive/refs/heads/main.tar.gz' -O "$FILEPATH"
 if [ $? -ne 0 ]; then
     echo "Failed to download S.T.V.C.L- package!"
     exit 1
 fi
 
-tar -xzf $FILEPATH
+tar -xzf "$FILEPATH"
 if [ $? -ne 0 ]; then
     echo "Failed to extract S.T.V.C.L- package!"
     exit 1
 fi
 
-cp -r 'stvcl--main/usr' '/'
+cp -r stvcl--main/usr/ /
+
 set +e
 
 # Verify installation
-if [ ! -d $PLUGINPATH ]; then
+if [ ! -d "$PLUGINPATH" ]; then
     echo "Error: Plugin installation failed!"
-    rm -rf $TMPPATH $FILEPATH
+    rm -rf "$TMPPATH" "$FILEPATH"
     exit 1
 fi
 
 # Cleanup
-rm -rf $TMPPATH $FILEPATH
+rm -rf "$TMPPATH" "$FILEPATH"
 sync
 
 # System info
