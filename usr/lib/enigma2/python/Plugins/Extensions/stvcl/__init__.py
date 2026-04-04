@@ -10,6 +10,7 @@ PluginLanguageDomain = 'stvcl'
 PluginLanguagePath = 'Extensions/stvcl/res/locale'
 __version__ = "1.4"
 
+
 def paypal():
     conthelp = "If you like what I do you\n"
     conthelp += "can contribute with a coffee\n"
