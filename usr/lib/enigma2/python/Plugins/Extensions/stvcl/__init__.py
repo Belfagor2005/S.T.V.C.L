@@ -8,7 +8,7 @@ import os
 from os import environ as os_environ
 PluginLanguageDomain = 'stvcl'
 PluginLanguagePath = 'Extensions/stvcl/res/locale'
-
+__version__ = "1.4"
 
 def paypal():
     conthelp = "If you like what I do you\n"

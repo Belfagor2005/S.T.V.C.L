@@ -21,12 +21,12 @@ from Tools.Directories import SCOPE_PLUGINS, resolveFilename
 from Components.config import config
 
 # Local imports
+from . import _, __version__
 from . import mainx
 from . import Utils
 
-currversion = '1.4'
 title_plug = 'Smart Tv Channels List'
-desc_plugin = '..:: Smart Tv Channels List  V.%s ::.. ' % currversion
+desc_plugin = '..:: Smart Tv Channels List  V.%s ::.. ' % __version__
 plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('stvcl'))
 _ = gettext.gettext
 

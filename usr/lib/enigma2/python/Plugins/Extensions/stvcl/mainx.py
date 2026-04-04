@@ -84,7 +84,7 @@ from Tools.Directories import SCOPE_PLUGINS, resolveFilename
 from Tools.Downloader import downloadWithProgress
 
 # === Moduli locali ===
-from . import _, paypal, scramble, installer_url, developer_url
+from . import _, __version__, paypal, scramble, installer_url, developer_url
 from . import Utils
 from . import html_conv
 from .Console import Console as xConsole
@@ -167,9 +167,8 @@ def downloadFilest(url, target):
 global Path_Movies, defpic
 # ================
 sessions = []
-currversion = '1.4'
 title_plug = 'Smart Tv Channels List'
-name_plug = '..:: Smart Tv Channels List  V.%s ::.. ' % currversion
+name_plug = '..:: Smart Tv Channels List  V.%s ::.. ' % __version__
 plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('stvcl'))
 Maintainer2 = 'Maintener @Lululla'
 dir_enigma2 = '/etc/enigma2/'
@@ -520,7 +519,7 @@ class StvclMain(Screen):
             self.new_changelog = remote_changelog
 
             # Compare with current version
-            if currversion < remote_version:
+            if __version__ < remote_version:
                 self.Update = True
                 self["key_yellow"].show()
                 self.session.open(
