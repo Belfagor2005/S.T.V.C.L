@@ -13,7 +13,6 @@
 
 # Standard library imports
 import os
-import gettext
 
 # Third-party imports
 from Plugins.Plugin import PluginDescriptor
@@ -28,7 +27,6 @@ from . import Utils
 title_plug = 'Smart Tv Channels List'
 desc_plugin = '..:: Smart Tv Channels List  V.%s ::.. ' % __version__
 plugin_path = resolveFilename(SCOPE_PLUGINS, "Extensions/{}".format('stvcl'))
-_ = gettext.gettext
 
 
 def mainw(session, **kwargs):
