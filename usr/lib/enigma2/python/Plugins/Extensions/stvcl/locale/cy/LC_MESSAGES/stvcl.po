@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:26+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Welsh\n"
+"Language: cy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Ychwanegu IPTV Stream"
+
+msgid "All cache fold are empty!"
+msgstr "Mae pob plygiad cache yn wag!"
+
+msgid "Back"
+msgstr "Yn ol"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Gwiriwch yn eich Ategyn Config - Ffilm Llwybr"
+
+msgid "Check out the favorites list ..."
+msgstr "Edrychwch ar y rhestr ffefrynnau..."
+
+msgid "Choose Directory"
+msgstr "Dewiswch Cyfeiriadur"
+
+msgid "Choose Directory:"
+msgstr "Dewiswch Cyfeiriadur:"
+
+msgid "Configure Service Player Reference"
+msgstr "Ffurfweddu Cyfeirnod Chwaraewr Gwasanaeth"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Ffurfweddu ffolder lleoliad ar gyfer Thumbpics dros dro"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Ffurfweddu lleoliad tuswau'r rhestrau wedi'u trosi"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Llongyfarchiadau! Mae gennych y fersiwn diweddaraf yn barod..."
+
+msgid "Conversion Failed!!!"
+msgstr "Methodd y Trosi!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Trosi ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Trosi Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "LAWRLWYTHO FIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Ydych chi eisiau Trosi Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Ydych chi eisiau Trosi Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ydych chi am osod diweddariad ( %s ) nawr?"
+
+msgid "Download Failed!!!"
+msgstr "Wedi methu llwytho i lawr!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Lawrlwythwch thumpics yn Player M3U (yn Araf iawn)?"
+
+msgid "Download thumpics?"
+msgstr "Lawrlwythwch thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Cache Pic Gwag"
+
+msgid "Enter Name"
+msgstr "Rhowch Enw"
+
+msgid "Enter pin code"
+msgstr "Rhowch god pin"
+
+msgid "Error checking developer version: %s"
+msgstr "Gwall wrth wirio fersiwn datblygwr: %s"
+
+msgid "Error checking version: %s"
+msgstr "Gwall wrth wirio fersiwn: %s"
+
+msgid "Exit"
+msgstr "Ymadael"
+
+msgid "Exteplayer3(5002)"
+msgstr "Chwaraewr Exte3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Hidlo math regex cyswllt M3U"
+
+msgid "Filter this category..."
+msgstr "Hidlo'r categori hwn..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Cache Ffolder ar gyfer Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Llwybr ffolder %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Llwybr ffolder yn cynnwys y ffeiliau .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Caledwedd(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Mae Rhestr Ffefrynnau HasBahCa wedi'i dileu"
+
+msgid "IPTV bouquets location"
+msgstr "Lleoliad tuswau IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Dolen yn y Ddewislen Estyniadau:"
+
+msgid "Link in Main Menu:"
+msgstr "Dolen yn y Brif Ddewislen:"
+
+msgid "M3u list folder not detected!"
+msgstr "Ffolder rhestr M3u heb ei ganfod!"
+
+msgid "Ok"
+msgstr "Iawn"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Dim ond VOD Movie a ganiateir neu beidio. est Hidlo!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Rhestr ffolder chwaraewr <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Rhowch y cod pin rheolaeth rhieni"
+
+msgid "Really close without saving the settings?"
+msgstr "Cau iawn heb arbed y gosodiadau?"
+
+msgid "Remove"
+msgstr "Dileu"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Dileu pob S.T.V.C.L. Hoff Tusw?"
+
+msgid "Save"
+msgstr "Arbed"
+
+msgid "Search"
+msgstr "Chwiliwch"
+
+msgid "Select"
+msgstr "Dewiswch"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Dewiswch y Tusw a gwasgwch OK i ychwanegu"
+
+msgid "Service Reference used %s"
+msgstr "Defnyddiwyd Cyfeirnod Gwasanaeth %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "GwasanaethMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Gwasanaethau Chwaraewr Math o gyfeirnod"
+
+msgid "Set On for line link m3u full"
+msgstr "Gosod Ar gyfer cyswllt llinell m3u llawn"
+
+msgid "Settings saved correctly!"
+msgstr "Gosodiadau wedi'u cadw'n gywir!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Dangos Ategyn yn y Ddewislen Estyniadau"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Dangos Ategyn yn y Brif Ddewislen"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Dangos Thumbpics ? Mae angen ailgychwyn Enigma"
+
+msgid "Show thumpics?"
+msgstr "Dangos thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Cymysgu Rhestr Hoff ar y Gweill"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Mae'r cod pin a roesoch yn anghywir."
+
+msgid "Update"
+msgstr "Diweddariad"
+
+msgid "Update Aborted!"
+msgstr "Diweddariad wedi'i Erthylu!"
+
+msgid "Upgrading..."
+msgstr "Wrthi'n uwchraddio..."
+
+msgid "Wait please ..."
+msgstr "Arhoswch os gwelwch yn dda..."
+
+msgid "You are already downloading!!!"
+msgstr "Rydych chi'n llwytho i lawr yn barod!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eWasanaethUri(8193)"
+
+msgid "stvcl Config"
+msgstr ""

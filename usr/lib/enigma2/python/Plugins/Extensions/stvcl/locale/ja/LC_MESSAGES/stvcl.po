@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:48+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Japanese <translation-team-ja@lists.sourceforge.net>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add Stream IPTV"
+msgstr "ストリームIPTVを追加"
+
+msgid "All cache fold are empty!"
+msgstr "すべてのキャッシュ フォールドが空です。"
+
+msgid "Back"
+msgstr "戻る"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "構成プラグインをチェックインする - パスムービー"
+
+msgid "Check out the favorites list ..."
+msgstr "お気に入りリストをチェックしてください..."
+
+msgid "Choose Directory"
+msgstr "ディレクトリの選択"
+
+msgid "Choose Directory:"
+msgstr "ディレクトリを選択してください:"
+
+msgid "Configure Service Player Reference"
+msgstr "Service Player リファレンスの構成"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "一時的なサムピクスの位置フォルダーを構成する"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "変換されたリストの花束の位置を構成します"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "おめでとうございます！すでに最新バージョンをお持ちです..."
+
+msgid "Conversion Failed!!!"
+msgstr "変換に失敗しました!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 を変換する"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer を変換する"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ビデオをダウンロードしますか?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Bouquet GSTREAMER を変換しますか?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Bouquet IPTV を変換したいですか?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "今すぐアップデート ( %s ) をインストールしますか?"
+
+msgid "Download Failed!!!"
+msgstr "ダウンロードに失敗しました!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Player M3U でサンピスをダウンロードします (非常に遅い)?"
+
+msgid "Download thumpics?"
+msgstr "サンピスをダウンロードしますか?"
+
+msgid "Empty Pic Cache"
+msgstr "写真キャッシュを空にする"
+
+msgid "Enter Name"
+msgstr "名前を入力してください"
+
+msgid "Enter pin code"
+msgstr "PINコードを入力してください"
+
+msgid "Error checking developer version: %s"
+msgstr "開発者バージョンのチェック中にエラーが発生しました: %s"
+
+msgid "Error checking version: %s"
+msgstr "バージョンチェック中にエラーが発生しました: %s"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Exteplayer3(5002)"
+msgstr "エクステプレイヤー3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "M3U リンクの正規表現タイプをフィルターする"
+
+msgid "Filter this category..."
+msgstr "このカテゴリをフィルタリング..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "サムピク用のフォルダー キャッシュ:"
+
+msgid "Folder path %s"
+msgstr "フォルダーパス %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u ファイルを含むフォルダー パス"
+
+msgid "Gstreamer(5001)"
+msgstr "Gストリーマー(5001)"
+
+msgid "Hardware(1)"
+msgstr "ハードウェア(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa お気に入りリストが削除されました"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV ブーケの場所"
+
+msgid "Link in Extensions Menu:"
+msgstr "拡張機能メニューのリンク:"
+
+msgid "Link in Main Menu:"
+msgstr "メインメニューのリンク:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u リスト フォルダーが検出されません!"
+
+msgid "Ok"
+msgstr "わかりました"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD 映画のみが許可されているか、.ext フィルタリングが許可されていません。"
+
+msgid "Player folder List <.m3u>:"
+msgstr "プレーヤーフォルダーリスト <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "ペアレンタルコントロールのPINコードを入力してください"
+
+msgid "Really close without saving the settings?"
+msgstr "本当に設定を保存せずに閉じますか?"
+
+msgid "Remove"
+msgstr "取り除く"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "S.T.V.C.L をすべて削除します。お気に入りの花束?"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "花束を選択し、OKを押して追加します"
+
+msgid "Service Reference used %s"
+msgstr "%s を使用したサービス参照"
+
+msgid "ServiceMp3(4097)"
+msgstr "サービスMP3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "サービス プレーヤーの参照タイプ"
+
+msgid "Set On for line link m3u full"
+msgstr "ラインリンク m3u フルの場合はオンに設定します"
+
+msgid "Settings saved correctly!"
+msgstr "設定は正しく保存されました。"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "拡張機能メニューにプラグインを表示"
+
+msgid "Show Plugin in Main Menu"
+msgstr "メインメニューにプラグインを表示"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "サムピクスを表示しますか?エニグマの再起動が必要です"
+
+msgid "Show thumpics?"
+msgstr "サムピスを表示しますか?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "お気に入りリストをシャッフル中です"
+
+msgid "Streamlink(5002)"
+msgstr "ストリームリンク(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "入力したPINコードが間違っています。"
+
+msgid "Update"
+msgstr "アップデート"
+
+msgid "Update Aborted!"
+msgstr "アップデートが中止されました!"
+
+msgid "Upgrading..."
+msgstr "アップグレード中..."
+
+msgid "Wait please ..."
+msgstr "お待ちください..."
+
+msgid "You are already downloading!!!"
+msgstr "すでにダウンロード中です!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl 構成"

@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:30+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
+"Language: eo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Aldonu Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Ĉiuj kaŝmemorfaldoj estas malplenaj!"
+
+msgid "Back"
+msgstr "Reen"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Kontrolu vian Konfiguran Kromprogramon - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Rigardu la plej ŝatatajn liston..."
+
+msgid "Choose Directory"
+msgstr "Elektu Dosierujon"
+
+msgid "Choose Directory:"
+msgstr "Elektu Dosierujon:"
+
+msgid "Configure Service Player Reference"
+msgstr "Agordi Servan Ludantan Referencon"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Agordu pozicio-dosierujon por provizoraj Thumbpics"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Agordu pozicion de la bukedoj de la konvertitaj listoj"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gratulon! Vi jam havas la lastan version..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertiĝo Malsukcesis!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Konverti ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Konverti Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ELĈU VIDEON?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Ĉu vi volas Konverti Bukedon GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Ĉu vi volas Konverti Bukedon IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ĉu vi volas instali ĝisdatigon ( %s ) nun?"
+
+msgid "Download Failed!!!"
+msgstr "Elŝuto malsukcesis!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Elŝutu thumpics en Player M3U (estas tre Malrapida)?"
+
+msgid "Download thumpics?"
+msgstr "Ĉu elŝuti thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Malplena Pic Cache"
+
+msgid "Enter Name"
+msgstr "Enigu Nomon"
+
+msgid "Enter pin code"
+msgstr "Enigu pin-kodon"
+
+msgid "Error checking developer version: %s"
+msgstr "Eraro dum kontrolado de programista versio: %s"
+
+msgid "Error checking version: %s"
+msgstr "Eraro kontrolante version: %s"
+
+msgid "Exit"
+msgstr "Eliro"
+
+msgid "Exteplayer3(5002)"
+msgstr "Eksteludanto3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filtru M3U-ligan regex-tipo"
+
+msgid "Filter this category..."
+msgstr "Filtri ĉi tiun kategorion..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Dosierujo-Kaŝmemoro por Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Pado de dosierujo %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Dosierujo vojo enhavanta la .m3u dosierojn"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Aparataro (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Listo de ŝatatoj de HasBahCa estis forigita"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV-bukedoj loko"
+
+msgid "Link in Extensions Menu:"
+msgstr "Ligo en Etendaĵoj-Menuo:"
+
+msgid "Link in Main Menu:"
+msgstr "Ligo en Ĉefa Menuo:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u listdosierujo ne detektita!"
+
+msgid "Ok"
+msgstr "Bone"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Nur VOD-Filmo permesita aŭ ne .ext Filtrita!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Listo de dosierujoj de ludiloj <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Bonvolu enigi la kodon de gepatra kontrolo"
+
+msgid "Really close without saving the settings?"
+msgstr "Ĉu vere fermi sen konservi la agordojn?"
+
+msgid "Remove"
+msgstr "Forigi"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Forigi ĉiujn S.T.V.C.L. Ŝatata Bukedo?"
+
+msgid "Save"
+msgstr "Konservu"
+
+msgid "Search"
+msgstr "Serĉu"
+
+msgid "Select"
+msgstr "Elektu"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Elektu la Bukedon kaj premu OK por aldoni"
+
+msgid "Service Reference used %s"
+msgstr "Serva Referenco uzis %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServoMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Servoj Ludanta Referenca tipo"
+
+msgid "Set On for line link m3u full"
+msgstr "Aktivigu por linio ligo m3u plena"
+
+msgid "Settings saved correctly!"
+msgstr "Agordoj ĝuste konservitaj!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Montru Kromprogramon en Etendoj-Menuo"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Montru kromprogramon en Ĉefa Menuo"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Montri Thumbpics? Enigma rekomenco necesas"
+
+msgid "Show thumpics?"
+msgstr "Montri tamburojn?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Miŝu Favoritan Liston en Progreso"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "La pinkodo, kiun vi enigis, estas malĝusta."
+
+msgid "Update"
+msgstr "Ĝisdatigo"
+
+msgid "Update Aborted!"
+msgstr "Ĝisdatigo interrompita!"
+
+msgid "Upgrading..."
+msgstr "Ĝisdatigante..."
+
+msgid "Wait please ..."
+msgstr "Atendu bonvolu..."
+
+msgid "You are already downloading!!!"
+msgstr "Vi jam elŝutas!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl Agordo"

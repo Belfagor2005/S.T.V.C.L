@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tajik <rkovacs@khujand.org>\n"
+"Language: tg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Иловаи ҷараёни IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Ҳама ҷузвдони кэш холӣанд!"
+
+msgid "Back"
+msgstr "Бозгашт"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Васлкунаки танзимоти худро санҷед - Филми роҳ"
+
+msgid "Check out the favorites list ..."
+msgstr "Рӯйхати дӯстдоштаҳоро санҷед ..."
+
+msgid "Choose Directory"
+msgstr "Директорияро интихоб кунед"
+
+msgid "Choose Directory:"
+msgstr "Директорияро интихоб кунед:"
+
+msgid "Configure Service Player Reference"
+msgstr "Конфигуратсияи Player Service Reference"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Папкаи мавқеъро барои Thumbpics муваққатӣ танзим кунед"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Ҷойгиркунии гулдастаҳои рӯйхатҳои табдилшударо танзим кунед"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Табрик! Шумо аллакай версияи охиринро доред..."
+
+msgid "Conversion Failed!!!"
+msgstr "Табдил дода нашуд!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Табдил додани ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Табдил додани Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ВИДЕОРО СКАЧАТ КУНЕД?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Оё шумо мехоҳед, ки гулдастаи GSTREAMER-ро табдил диҳед?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Оё шумо мехоҳед IPTV-ро табдил диҳед?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Оё шумо мехоҳед навсозиро ( %s ) ҳозир насб кунед?"
+
+msgid "Download Failed!!!"
+msgstr "Зеркашӣ нашуд!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Зеркашии thumpics дар Player M3U (хеле суст аст)?"
+
+msgid "Download thumpics?"
+msgstr "thumpics зеркашӣ кунед?"
+
+msgid "Empty Pic Cache"
+msgstr "Кэши тасвири холӣ"
+
+msgid "Enter Name"
+msgstr "Номро ворид кунед"
+
+msgid "Enter pin code"
+msgstr "Рамзи пинро ворид кунед"
+
+msgid "Error checking developer version: %s"
+msgstr "Хатогӣ ҳангоми тафтиши версияи таҳиягар: %s"
+
+msgid "Error checking version: %s"
+msgstr "Хатогӣ дар тафтиши версия: %s"
+
+msgid "Exit"
+msgstr "Баромадгоҳ"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Филтри пайванди M3U навъи regex"
+
+msgid "Filter this category..."
+msgstr "Филтр кардани ин категория..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Кэши ҷузвдон барои тасвирҳои ангуштшумор:"
+
+msgid "Folder path %s"
+msgstr "Роҳи папкаи %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Роҳи ҷузвдони дорои файлҳои .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Сахтафзор(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Рӯйхати дӯстдоштаҳои HasBahCa хориҷ карда шуданд"
+
+msgid "IPTV bouquets location"
+msgstr "Ҷойгиршавии гулдастаҳои IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Истинод дар менюи васеъшавӣ:"
+
+msgid "Link in Main Menu:"
+msgstr "Истинод дар менюи асосӣ:"
+
+msgid "M3u list folder not detected!"
+msgstr "Папкаи рӯйхати M3u ошкор нашудааст!"
+
+msgid "Ok"
+msgstr "Дуруст"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Танҳо филми VOD иҷозат дода шудааст ё не .ext Филтр карда шудааст!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Рӯйхати ҷузвдони плеер <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Лутфан рамзи PIN назорати волидайнро ворид кунед"
+
+msgid "Really close without saving the settings?"
+msgstr "Дар ҳақиқат бе захира кардани танзимот пӯшида мешавад?"
+
+msgid "Remove"
+msgstr "Хориҷ кунед"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Ҳама S.T.V.C.L-ро хориҷ кунед Гулдастаи дӯстдошта?"
+
+msgid "Save"
+msgstr "Захира кунед"
+
+msgid "Search"
+msgstr "Ҷустуҷӯ"
+
+msgid "Select"
+msgstr "Интихоб кунед"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Гулдастаро интихоб кунед ва барои илова кардан OK -ро пахш кунед"
+
+msgid "Service Reference used %s"
+msgstr "Истиноди хидматӣ %s истифода шудааст"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Навъи истинод ба хидматҳо"
+
+msgid "Set On for line link m3u full"
+msgstr "Барои истиноди хати m3u пур кунед"
+
+msgid "Settings saved correctly!"
+msgstr "Танзимотҳо дуруст захира карда шуданд!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Нишон додани плагинро дар менюи васеъшавӣ"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Нишон додани плагин дар менюи асосӣ"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Нишон додани ангуштшумор? Enigma аз нав оғоз кардан лозим аст"
+
+msgid "Show thumpics?"
+msgstr "Тумпикҳоро нишон диҳед?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Рӯйхати дӯстдоштаҳоро омехта кунед"
+
+msgid "Streamlink(5002)"
+msgstr "Пайванди ҷараён (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Рамзи пин-коди воридкардаи шумо нодуруст аст."
+
+msgid "Update"
+msgstr "Навсозӣ"
+
+msgid "Update Aborted!"
+msgstr "Навсозӣ қатъ карда шуд!"
+
+msgid "Upgrading..."
+msgstr "Навсозӣ..."
+
+msgid "Wait please ..."
+msgstr "Интизор шавед, лутфан ..."
+
+msgid "You are already downloading!!!"
+msgstr "Шумо аллакай зеркашӣ карда истодаед!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "Танзимоти stvcl"

@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:46+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
+"Language: is\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Bættu við Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Allt skyndiminnisafn er tómt!"
+
+msgid "Back"
+msgstr "Til baka"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Athugaðu í Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Skoðaðu uppáhaldslistann..."
+
+msgid "Choose Directory"
+msgstr "Veldu Directory"
+
+msgid "Choose Directory:"
+msgstr "Veldu möppu:"
+
+msgid "Configure Service Player Reference"
+msgstr "Stilla tilvísun þjónustuspilara"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Stilla stöðumöppu fyrir tímabundnar smámyndir"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Stilltu staðsetningu kransa á breyttu listunum"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Til hamingju! Þú ert nú þegar með nýjustu útgáfuna..."
+
+msgid "Conversion Failed!!!"
+msgstr "Umbreyting mistókst!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Umbreyttu ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Umbreyttu Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "HAÐA MYNDBAND?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Viltu breyta vönd GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Viltu umbreyta Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Viltu setja upp uppfærslu ( %s ) núna?"
+
+msgid "Download Failed!!!"
+msgstr "Niðurhal mistókst!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Sækja thumpics í Player M3U (er mjög hægt)?"
+
+msgid "Download thumpics?"
+msgstr "Sækja thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Tómt mynd skyndiminni"
+
+msgid "Enter Name"
+msgstr "Sláðu inn Nafn"
+
+msgid "Enter pin code"
+msgstr "Sláðu inn PIN-númer"
+
+msgid "Error checking developer version: %s"
+msgstr "Villa við að athuga þróunarútgáfu: %s"
+
+msgid "Error checking version: %s"
+msgstr "Villa við að athuga útgáfu: %s"
+
+msgid "Exit"
+msgstr "Hætta"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Sía M3U hlekkur regex gerð"
+
+msgid "Filter this category..."
+msgstr "Sía þennan flokk..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Möppuskyndiminni fyrir smámyndir:"
+
+msgid "Folder path %s"
+msgstr "Möppuslóð %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Möppuslóð sem inniheldur .m3u skrárnar"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Vélbúnaður (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Uppáhaldslisti HasBahCa hefur verið fjarlægður"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV kransa staðsetning"
+
+msgid "Link in Extensions Menu:"
+msgstr "Tengill í viðbótavalmynd:"
+
+msgid "Link in Main Menu:"
+msgstr "Tengill í aðalvalmynd:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u listamappa fannst ekki!"
+
+msgid "Ok"
+msgstr "Allt í lagi"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Aðeins VOD kvikmynd leyfð eða ekki .ext síuð!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Leikmannamöppulisti <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Vinsamlega sláðu inn PIN-númer foreldraeftirlitsins"
+
+msgid "Really close without saving the settings?"
+msgstr "Virkilega loka án þess að vista stillingarnar?"
+
+msgid "Remove"
+msgstr "Fjarlægja"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Fjarlægðu allar S.T.V.C.L. Uppáhaldsvöndur?"
+
+msgid "Save"
+msgstr "Vista"
+
+msgid "Search"
+msgstr "Leita"
+
+msgid "Select"
+msgstr "Veldu"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Veldu vöndinn og ýttu á OK til að bæta við"
+
+msgid "Service Reference used %s"
+msgstr "Þjónustutilvísun notuð %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Þjónusta Player Reference tegund"
+
+msgid "Set On for line link m3u full"
+msgstr "Stilltu á fyrir línutengil m3u fullan"
+
+msgid "Settings saved correctly!"
+msgstr "Stillingar vistaðar rétt!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Sýna viðbót í viðbætur valmynd"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Sýna viðbót í aðalvalmynd"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Sýna þumalmyndir? Enigma endurræsa krafist"
+
+msgid "Show thumpics?"
+msgstr "Sýna thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Uppstokkun eftirlætislista í gangi"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "PIN-númerið sem þú slóst inn er rangt."
+
+msgid "Update"
+msgstr "Uppfærsla"
+
+msgid "Update Aborted!"
+msgstr "Uppfærsla hætt!"
+
+msgid "Upgrading..."
+msgstr "Uppfærir..."
+
+msgid "Wait please ..."
+msgstr "Bíddu vinsamlega..."
+
+msgid "You are already downloading!!!"
+msgstr "Þú ert nú þegar að hlaða niður!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

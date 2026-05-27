@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:21+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Telugu <(nothing)>\n"
+"Language: te\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "స్ట్రీమ్ IPTVని జోడించండి"
+
+msgid "All cache fold are empty!"
+msgstr "అన్ని కాష్ ఫోల్డ్‌లు ఖాళీగా ఉన్నాయి!"
+
+msgid "Back"
+msgstr "వెనుకకు"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "మీ కాన్ఫిగరేషన్ ప్లగిన్ - పాత్ మూవీని తనిఖీ చేయండి"
+
+msgid "Check out the favorites list ..."
+msgstr "ఇష్టమైన వాటి జాబితాను చూడండి..."
+
+msgid "Choose Directory"
+msgstr "డైరెక్టరీని ఎంచుకోండి"
+
+msgid "Choose Directory:"
+msgstr "డైరెక్టరీని ఎంచుకోండి:"
+
+msgid "Configure Service Player Reference"
+msgstr "సర్వీస్ ప్లేయర్ సూచనను కాన్ఫిగర్ చేయండి"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "తాత్కాలిక Thumbpics కోసం స్థానం ఫోల్డర్‌ను కాన్ఫిగర్ చేయండి"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "మార్చబడిన జాబితాల పుష్పగుచ్ఛాల స్థానాన్ని కాన్ఫిగర్ చేయండి"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "అభినందనలు! మీరు ఇప్పటికే తాజా వెర్షన్‌ని కలిగి ఉన్నారు..."
+
+msgid "Conversion Failed!!!"
+msgstr "మార్పిడి విఫలమైంది!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3ని మార్చండి"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamerని మార్చండి"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "వీడియోను డౌన్‌లోడ్ చేయాలా?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "మీరు బొకే GSTREAMERని మార్చాలనుకుంటున్నారా?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "మీరు బొకే IPTVని మార్చాలనుకుంటున్నారా?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "మీరు ఇప్పుడే (%s) నవీకరణను ఇన్‌స్టాల్ చేయాలనుకుంటున్నారా?"
+
+msgid "Download Failed!!!"
+msgstr "డౌన్‌లోడ్ విఫలమైంది!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "ప్లేయర్ M3Uలో థంపిక్‌లను డౌన్‌లోడ్ చేయాలా (చాలా నెమ్మదిగా ఉంది)?"
+
+msgid "Download thumpics?"
+msgstr "థంపిక్‌లను డౌన్‌లోడ్ చేయాలా?"
+
+msgid "Empty Pic Cache"
+msgstr "ఖాళీ పిక్ కాష్"
+
+msgid "Enter Name"
+msgstr "పేరు నమోదు చేయండి"
+
+msgid "Enter pin code"
+msgstr "పిన్ కోడ్‌ని నమోదు చేయండి"
+
+msgid "Error checking developer version: %s"
+msgstr "డెవలపర్ సంస్కరణను తనిఖీ చేయడంలో లోపం: %s"
+
+msgid "Error checking version: %s"
+msgstr "సంస్కరణను తనిఖీ చేయడంలో లోపం: %s"
+
+msgid "Exit"
+msgstr "నిష్క్రమించు"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "M3U లింక్ రీజెక్స్ రకాన్ని ఫిల్టర్ చేయండి"
+
+msgid "Filter this category..."
+msgstr "ఈ వర్గాన్ని ఫిల్టర్ చేయండి..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Thumbpics కోసం ఫోల్డర్ కాష్:"
+
+msgid "Folder path %s"
+msgstr "ఫోల్డర్ మార్గం %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u ఫైల్‌లను కలిగి ఉన్న ఫోల్డర్ పాత్"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "హార్డ్‌వేర్(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa ఇష్టమైన వాటి జాబితా తీసివేయబడింది"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV బొకేట్స్ స్థానం"
+
+msgid "Link in Extensions Menu:"
+msgstr "పొడిగింపుల మెనులో లింక్:"
+
+msgid "Link in Main Menu:"
+msgstr "ప్రధాన మెనూలో లింక్:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u జాబితా ఫోల్డర్ కనుగొనబడలేదు!"
+
+msgid "Ok"
+msgstr "సరే"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD సినిమా మాత్రమే అనుమతించబడిందా లేదా .ext ఫిల్టర్ చేయబడింది!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "ప్లేయర్ ఫోల్డర్ జాబితా <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "దయచేసి తల్లిదండ్రుల నియంత్రణ పిన్ కోడ్‌ను నమోదు చేయండి"
+
+msgid "Really close without saving the settings?"
+msgstr "సెట్టింగ్‌లను సేవ్ చేయకుండానే మూసివేయాలా?"
+
+msgid "Remove"
+msgstr "తొలగించు"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "అన్ని S.T.V.C.Lలను తీసివేయండి ఇష్టమైన బొకే?"
+
+msgid "Save"
+msgstr "సేవ్ చేయండి"
+
+msgid "Search"
+msgstr "శోధించండి"
+
+msgid "Select"
+msgstr "ఎంచుకోండి"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "బొకేని ఎంచుకుని, జోడించడానికి సరే నొక్కండి"
+
+msgid "Service Reference used %s"
+msgstr "సేవా సూచన %s ఉపయోగించబడింది"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "సేవలు ప్లేయర్ సూచన రకం"
+
+msgid "Set On for line link m3u full"
+msgstr "లైన్ లింక్ m3u పూర్తి కోసం ఆన్ సెట్ చేయండి"
+
+msgid "Settings saved correctly!"
+msgstr "సెట్టింగ్‌లు సరిగ్గా సేవ్ చేయబడ్డాయి!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "పొడిగింపుల మెనులో ప్లగిన్‌ని చూపించు"
+
+msgid "Show Plugin in Main Menu"
+msgstr "మెయిన్ మెనూలో ప్లగిన్‌ని చూపించు"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "థంబ్పిక్స్ చూపించాలా? ఎనిగ్మా పునఃప్రారంభం అవసరం"
+
+msgid "Show thumpics?"
+msgstr "థంపిక్‌లను చూపించాలా?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "షఫుల్ ఇష్టమైన జాబితా ప్రోగ్రెస్‌లో ఉంది"
+
+msgid "Streamlink(5002)"
+msgstr "స్ట్రీమ్‌లింక్(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "మీరు నమోదు చేసిన పిన్ కోడ్ తప్పు."
+
+msgid "Update"
+msgstr "నవీకరించు"
+
+msgid "Update Aborted!"
+msgstr "నవీకరణ రద్దు చేయబడింది!"
+
+msgid "Upgrading..."
+msgstr "అప్‌గ్రేడ్ అవుతోంది..."
+
+msgid "Wait please ..."
+msgstr "దయచేసి వేచి ఉండండి..."
+
+msgid "You are already downloading!!!"
+msgstr "మీరు ఇప్పటికే డౌన్‌లోడ్ చేస్తున్నారు!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl కాన్ఫిగరేషన్"

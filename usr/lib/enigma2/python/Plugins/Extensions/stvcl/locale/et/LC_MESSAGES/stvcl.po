@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Estonian <linux-ee@lists.eenet.ee>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Lisa Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Kõik vahemälu voltid on tühjad!"
+
+msgid "Back"
+msgstr "Tagasi"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Kontrollige oma konfiguratsioonipluginat – Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Vaata lemmikute nimekirja..."
+
+msgid "Choose Directory"
+msgstr "Valige Kataloog"
+
+msgid "Choose Directory:"
+msgstr "Valige kataloog:"
+
+msgid "Configure Service Player Reference"
+msgstr "Seadistage Service Playeri viide"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Ajutiste pisipiltide positsioonikausta seadistamine"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konverteerige teisendatud loendite kimpude asukoht"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Õnnitlused! Teil on juba uusim versioon..."
+
+msgid "Conversion Failed!!!"
+msgstr "Teisendamine ebaõnnestus!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Teisendage ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Teisendage Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "LAADI VIDEO ALLA?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Kas soovite teisendada kimbu GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Kas soovite teisendada Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Kas soovite värskenduse ( %s ) kohe installida?"
+
+msgid "Download Failed!!!"
+msgstr "Allalaadimine ebaõnnestus!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Kas laadida alla thumpics Playeris M3U (on väga aeglane)?"
+
+msgid "Download thumpics?"
+msgstr "Kas laadida alla thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Tühjenda pildi vahemälu"
+
+msgid "Enter Name"
+msgstr "Sisesta Nimi"
+
+msgid "Enter pin code"
+msgstr "Sisestage pin-kood"
+
+msgid "Error checking developer version: %s"
+msgstr "Viga arendaja versiooni kontrollimisel: %s"
+
+msgid "Error checking version: %s"
+msgstr "Viga versiooni kontrollimisel: %s"
+
+msgid "Exit"
+msgstr "Välju"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filtri M3U lingi regex tüüp"
+
+msgid "Filter this category..."
+msgstr "Filtreeri see kategooria..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Kausta vahemälu pisipiltide jaoks:"
+
+msgid "Folder path %s"
+msgstr "Kausta tee %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "M3u-faile sisaldava kausta tee"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Riistvara (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa lemmikute loend on eemaldatud"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV kimpude asukoht"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link laienduste menüüs:"
+
+msgid "Link in Main Menu:"
+msgstr "Link peamenüüs:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u loendi kausta ei tuvastatud!"
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Ainult VOD film on lubatud või mitte .ext Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Mängija kaustade loend <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Sisestage vanemliku järelevalve PIN-kood"
+
+msgid "Really close without saving the settings?"
+msgstr "Kas tõesti sulgeda seadeid salvestamata?"
+
+msgid "Remove"
+msgstr "Eemalda"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Eemaldage kõik S.T.V.C.L. Lemmik kimp?"
+
+msgid "Save"
+msgstr "Salvesta"
+
+msgid "Search"
+msgstr "Otsi"
+
+msgid "Select"
+msgstr "Valige"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Valige kimp ja vajutage lisamiseks OK"
+
+msgid "Service Reference used %s"
+msgstr "Kasutatud teenuse viidet %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "Teenused Mängija viitetüüp"
+
+msgid "Set On for line link m3u full"
+msgstr "Seadistage Sees, kui rea link m3u on täis"
+
+msgid "Settings saved correctly!"
+msgstr "Seaded salvestati õigesti!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Kuva pistikprogramm laienduste menüüs"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Kuva plugin peamenüüs"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Kas näidata pöidlapilte? Nõutav on Enigma taaskäivitamine"
+
+msgid "Show thumpics?"
+msgstr "Kas näidata tümpsu?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Juhuslik lemmikute loend on pooleli"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Sisestatud PIN-kood on vale."
+
+msgid "Update"
+msgstr "Värskenda"
+
+msgid "Update Aborted!"
+msgstr "Värskendus katkestatud!"
+
+msgid "Upgrading..."
+msgstr "Täiendamine..."
+
+msgid "Wait please ..."
+msgstr "Oota palun..."
+
+msgid "You are already downloading!!!"
+msgstr "Te juba laadite alla!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr "stvcl konfiguratsioon"

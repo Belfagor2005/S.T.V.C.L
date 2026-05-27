@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:24+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Catalan <ca@dodds.net>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Afegeix Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Tots els plecs de la memòria cau estan buits!"
+
+msgid "Back"
+msgstr "Enrere"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Comproveu el vostre connector de configuració: pel·lícula del camí"
+
+msgid "Check out the favorites list ..."
+msgstr "Consulta la llista de favorits..."
+
+msgid "Choose Directory"
+msgstr "Trieu Directori"
+
+msgid "Choose Directory:"
+msgstr "Trieu el directori:"
+
+msgid "Configure Service Player Reference"
+msgstr "Configura la referència del reproductor de servei"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Configura la carpeta de posició per a Thumbpics temporals"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Configureu la posició dels rams de les llistes convertides"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitats! Ja tens la darrera versió..."
+
+msgid "Conversion Failed!!!"
+msgstr "La conversió ha fallat!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Converteix ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Converteix Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "DESCARREGAR VÍDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Vols convertir Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Vols convertir Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Voleu instal·lar l'actualització ( %s ) ara?"
+
+msgid "Download Failed!!!"
+msgstr "La descàrrega ha fallat!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Descarregar thumpics al reproductor M3U (és molt lent)?"
+
+msgid "Download thumpics?"
+msgstr "Descarregar thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Buida la memòria cau de fotos"
+
+msgid "Enter Name"
+msgstr "Introduïu el nom"
+
+msgid "Enter pin code"
+msgstr "Introduïu el codi PIN"
+
+msgid "Error checking developer version: %s"
+msgstr "S'ha produït un error en comprovar la versió del desenvolupador: %s"
+
+msgid "Error checking version: %s"
+msgstr "Error en comprovar la versió: %s"
+
+msgid "Exit"
+msgstr "Sortida"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filtreu el tipus d'expressió regular d'enllaç M3U"
+
+msgid "Filter this category..."
+msgstr "Filtra aquesta categoria..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Memòria cau de carpetes per a Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Camí de la carpeta %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Camí de la carpeta que conté els fitxers .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Maquinari (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "La llista de favorits de HasBahCa s'ha eliminat"
+
+msgid "IPTV bouquets location"
+msgstr "Ubicació de rams d'IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Enllaç al menú d'extensions:"
+
+msgid "Link in Main Menu:"
+msgstr "Enllaç al menú principal:"
+
+msgid "M3u list folder not detected!"
+msgstr "No s'ha detectat la carpeta de la llista M3u!"
+
+msgid "Ok"
+msgstr "D'acord"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Només pel·lícula VOD permesa o no .ext filtrat!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Llista de carpetes del reproductor <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Introduïu el codi PIN de control parental"
+
+msgid "Really close without saving the settings?"
+msgstr "Tanqueu realment sense desar la configuració?"
+
+msgid "Remove"
+msgstr "Eliminar"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Eliminar tots els S.T.V.C.L. Ram preferit?"
+
+msgid "Save"
+msgstr "Desa"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Select"
+msgstr "Seleccioneu"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Seleccioneu el ram i premeu D'acord per afegir-lo"
+
+msgid "Service Reference used %s"
+msgstr "La referència del servei ha utilitzat %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "Serveis Tipus de referència del jugador"
+
+msgid "Set On for line link m3u full"
+msgstr "Activeu l'enllaç de línia m3u complet"
+
+msgid "Settings saved correctly!"
+msgstr "La configuració s'ha desat correctament!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Mostra el connector al menú d'extensions"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Mostra el connector al menú principal"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Mostra les imatges del polze? Cal reiniciar Enigma"
+
+msgid "Show thumpics?"
+msgstr "Mostrar thupics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Barreja la llista de preferits en curs"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "El codi PIN que heu introduït és incorrecte."
+
+msgid "Update"
+msgstr "Actualització"
+
+msgid "Update Aborted!"
+msgstr "Actualització avortada!"
+
+msgid "Upgrading..."
+msgstr "S'està actualitzant..."
+
+msgid "Wait please ..."
+msgstr "Espereu si us plau..."
+
+msgid "You are already downloading!!!"
+msgstr "Ja esteu baixant!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr ""

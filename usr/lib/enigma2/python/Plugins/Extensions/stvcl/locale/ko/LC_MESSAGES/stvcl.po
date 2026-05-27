@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:53+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Korean <translation-team-ko@googlegroups.com>\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add Stream IPTV"
+msgstr "스트림 IPTV 추가"
+
+msgid "All cache fold are empty!"
+msgstr "모든 캐시 폴더가 비어 있습니다!"
+
+msgid "Back"
+msgstr "뒤쪽에"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "구성 플러그인 체크인 - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "즐겨찾기 목록을 확인해보세요..."
+
+msgid "Choose Directory"
+msgstr "디렉토리 선택"
+
+msgid "Choose Directory:"
+msgstr "디렉토리 선택:"
+
+msgid "Configure Service Player Reference"
+msgstr "서비스 플레이어 참조 구성"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "임시 Thumbpics에 대한 위치 폴더 구성"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "변환된 목록의 꽃다발 위치를 구성합니다."
+
+msgid "Congrats! You already have the latest version..."
+msgstr "축하해요! 이미 최신 버전이 있습니다..."
+
+msgid "Conversion Failed!!!"
+msgstr "변환 실패!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 변환"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer 변환"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "비디오를 다운로드하시겠습니까?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "부케 GSTREAMER를 변환하시겠습니까?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "부케 IPTV를 변환하시겠습니까?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "지금 업데이트( %s )를 설치하시겠습니까?"
+
+msgid "Download Failed!!!"
+msgstr "다운로드 실패!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Player M3U에서 thumpics를 다운로드하세요(매우 느림)?"
+
+msgid "Download thumpics?"
+msgstr "쿵픽스를 다운로드하시겠습니까?"
+
+msgid "Empty Pic Cache"
+msgstr "사진 캐시 비우기"
+
+msgid "Enter Name"
+msgstr "이름을 입력하세요"
+
+msgid "Enter pin code"
+msgstr "핀 코드를 입력하세요"
+
+msgid "Error checking developer version: %s"
+msgstr "개발자 버전 확인 오류: %s"
+
+msgid "Error checking version: %s"
+msgstr "버전 확인 오류: %s"
+
+msgid "Exit"
+msgstr "출구"
+
+msgid "Exteplayer3(5002)"
+msgstr "익스테플레이어3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "M3U 링크 정규식 유형 필터링"
+
+msgid "Filter this category..."
+msgstr "이 카테고리 필터링..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "썸픽스용 폴더 캐시:"
+
+msgid "Folder path %s"
+msgstr "폴더 경로 %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u 파일이 포함된 폴더 경로"
+
+msgid "Gstreamer(5001)"
+msgstr "지스트리머(5001)"
+
+msgid "Hardware(1)"
+msgstr "하드웨어(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa 즐겨찾기 목록이 제거되었습니다."
+
+msgid "IPTV bouquets location"
+msgstr "IPTV 부케 위치"
+
+msgid "Link in Extensions Menu:"
+msgstr "확장 메뉴의 링크:"
+
+msgid "Link in Main Menu:"
+msgstr "메인 메뉴 링크:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u 목록 폴더가 감지되지 않습니다!"
+
+msgid "Ok"
+msgstr "좋아요"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD 영화만 허용되거나 .ext 필터링되지 않습니다!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "플레이어 폴더 목록 <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "자녀 보호 핀 코드를 입력하세요."
+
+msgid "Really close without saving the settings?"
+msgstr "설정을 저장하지 않고 닫으시겠습니까?"
+
+msgid "Remove"
+msgstr "제거하다"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "모든 S.T.V.C.L을 제거합니다. 좋아하는 꽃다발?"
+
+msgid "Save"
+msgstr "구하다"
+
+msgid "Search"
+msgstr "찾다"
+
+msgid "Select"
+msgstr "선택하다"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "꽃다발을 선택하고 확인을 눌러 추가하세요."
+
+msgid "Service Reference used %s"
+msgstr "서비스 참조는 %s을(를) 사용했습니다."
+
+msgid "ServiceMp3(4097)"
+msgstr "서비스Mp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "서비스 플레이어 참조 유형"
+
+msgid "Set On for line link m3u full"
+msgstr "라인 링크 m3u full에 대해 On으로 설정"
+
+msgid "Settings saved correctly!"
+msgstr "설정이 올바르게 저장되었습니다!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "확장 메뉴에 플러그인 표시"
+
+msgid "Show Plugin in Main Menu"
+msgstr "메인 메뉴에 플러그인 표시"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "엄지손가락을 표시하시겠습니까? Enigma를 다시 시작해야 합니다."
+
+msgid "Show thumpics?"
+msgstr "쿵쿵거려?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "즐겨찾기 목록 셔플 진행 중"
+
+msgid "Streamlink(5002)"
+msgstr "스트림링크(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "입력한 핀 코드가 잘못되었습니다."
+
+msgid "Update"
+msgstr "업데이트"
+
+msgid "Update Aborted!"
+msgstr "업데이트가 중단되었습니다!"
+
+msgid "Upgrading..."
+msgstr "업그레이드 중..."
+
+msgid "Wait please ..."
+msgstr "기다려주세요 ..."
+
+msgid "You are already downloading!!!"
+msgstr "이미 다운로드 중입니다!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl 구성"

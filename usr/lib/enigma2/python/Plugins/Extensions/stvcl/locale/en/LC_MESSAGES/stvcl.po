@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:30+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Add Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "All cache fold are empty!"
+
+msgid "Back"
+msgstr "Back"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Check in your Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Check out the favorites list ..."
+
+msgid "Choose Directory"
+msgstr "Choose Directory"
+
+msgid "Choose Directory:"
+msgstr "Choose Directory:"
+
+msgid "Configure Service Player Reference"
+msgstr "Configure Service Player Reference"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Configure position folder for temporary Thumbpics"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Configure position of the bouquets of the converted lists"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Congrats! You already have the latest version..."
+
+msgid "Conversion Failed!!!"
+msgstr "Conversion Failed!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Convert ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Convert Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "DOWNLOAD VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Do you want to Convert Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Do you want to Convert Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Do you want to install update ( %s ) now?"
+
+msgid "Download Failed!!!"
+msgstr "Download Failed!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Download thumpics in Player M3U (is very Slow)?"
+
+msgid "Download thumpics?"
+msgstr "Download thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Empty Pic Cache"
+
+msgid "Enter Name"
+msgstr "Enter Name"
+
+msgid "Enter pin code"
+msgstr "Enter pin code"
+
+msgid "Error checking developer version: %s"
+msgstr "Error checking developer version: %s"
+
+msgid "Error checking version: %s"
+msgstr "Error checking version: %s"
+
+msgid "Exit"
+msgstr "Exit"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filter M3U link regex type"
+
+msgid "Filter this category..."
+msgstr "Filter this category..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Folder Cache for Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Folder path %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Folder path containing the .m3u files"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer(5001)"
+
+msgid "Hardware(1)"
+msgstr "Hardware(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa Favorites List have been removed"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV bouquets location"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link in Extensions Menu:"
+
+msgid "Link in Main Menu:"
+msgstr "Link in Main Menu:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u list folder not detected!"
+
+msgid "Ok"
+msgstr "Ok"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Only VOD Movie allowed or not .ext Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Player folder List <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Please enter the parental control pin code"
+
+msgid "Really close without saving the settings?"
+msgstr "Really close without saving the settings?"
+
+msgid "Remove"
+msgstr "Remove"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Remove all S.T.V.C.L. Favorite Bouquet ?"
+
+msgid "Save"
+msgstr "Save"
+
+msgid "Search"
+msgstr "Search"
+
+msgid "Select"
+msgstr "Select"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Select the Bouquet and press OK to add"
+
+msgid "Service Reference used %s"
+msgstr "Service Reference used %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Services Player Reference type"
+
+msgid "Set On for line link m3u full"
+msgstr "Set On for line link m3u full"
+
+msgid "Settings saved correctly!"
+msgstr "Settings saved correctly!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Show Plugin in Extensions Menu"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Show Plugin in Main Menu"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Show Thumbpics ? Enigma restart required"
+
+msgid "Show thumpics?"
+msgstr "Show thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Shuffle Favorite List in Progress"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "The pin code you entered is wrong."
+
+msgid "Update"
+msgstr "Update"
+
+msgid "Update Aborted!"
+msgstr "Update Aborted!"
+
+msgid "Upgrading..."
+msgstr "Upgrading..."
+
+msgid "Wait please ..."
+msgstr "Wait please ..."
+
+msgid "You are already downloading!!!"
+msgstr "You are already downloading!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri(8193)"
+
+msgid "stvcl Config"
+msgstr "stvcl Config"

@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:34+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language zh-CN\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "添加流IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "所有缓存文件夹都是空的！"
+
+msgid "Back"
+msgstr "后退"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "检查您的配置插件 - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "查看收藏夹列表..."
+
+msgid "Choose Directory"
+msgstr "选择目录"
+
+msgid "Choose Directory:"
+msgstr "选择目录："
+
+msgid "Configure Service Player Reference"
+msgstr "配置服务播放器参考"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "配置临时缩略图的位置文件夹"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "配置转换列表的花束的位置"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "恭喜！您已经拥有最新版本..."
+
+msgid "Conversion Failed!!!"
+msgstr "转换失败！！！"
+
+msgid "Convert ExtePlayer3"
+msgstr "转换ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "转换 Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "下载视频？"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "您想转换花束 GSTREAMER 吗？"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "你想转换花束IPTV吗？"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "您想立即安装更新 (%s) 吗？"
+
+msgid "Download Failed!!!"
+msgstr "下载失败！！！"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "在 Player M3U 中下载 thumpics（非常慢）？"
+
+msgid "Download thumpics?"
+msgstr "下载图钉？"
+
+msgid "Empty Pic Cache"
+msgstr "清空图片缓存"
+
+msgid "Enter Name"
+msgstr "输入姓名"
+
+msgid "Enter pin code"
+msgstr "输入密码"
+
+msgid "Error checking developer version: %s"
+msgstr "检查开发者版本时出错：%s"
+
+msgid "Error checking version: %s"
+msgstr "检查版本时出错：%s"
+
+msgid "Exit"
+msgstr "出口"
+
+msgid "Exteplayer3(5002)"
+msgstr "外部播放器3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "过滤 M3U 链接正则表达式类型"
+
+msgid "Filter this category..."
+msgstr "过滤此类别..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "缩略图的文件夹缓存："
+
+msgid "Folder path %s"
+msgstr "文件夹路径 %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "包含 .m3u 文件的文件夹路径"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "硬件(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa 收藏夹列表已被删除"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV花束地点"
+
+msgid "Link in Extensions Menu:"
+msgstr "扩展菜单中的链接："
+
+msgid "Link in Main Menu:"
+msgstr "主菜单中的链接："
+
+msgid "M3u list folder not detected!"
+msgstr "未检测到 M3u 列表文件夹！"
+
+msgid "Ok"
+msgstr "好的"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "仅允许 VOD 电影或不允许 .ext 过滤！！！"
+
+msgid "Player folder List <.m3u>:"
+msgstr "播放器文件夹列表<.m3u>："
+
+msgid "Please enter the parental control pin code"
+msgstr "请输入家长控制密码"
+
+msgid "Really close without saving the settings?"
+msgstr "真的关闭而不保存设置吗？"
+
+msgid "Remove"
+msgstr "消除"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "删除所有 S.T.V.C.L.最喜欢的花束？"
+
+msgid "Save"
+msgstr "节省"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Select"
+msgstr "选择"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "选择花束，然后按确定添加"
+
+msgid "Service Reference used %s"
+msgstr "使用的服务参考 %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "服务Mp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "服务播放器参考类型"
+
+msgid "Set On for line link m3u full"
+msgstr "为线路链接 m3u full 设置为 On"
+
+msgid "Settings saved correctly!"
+msgstr "设置已正确保存！"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "在扩展菜单中显示插件"
+
+msgid "Show Plugin in Main Menu"
+msgstr "在主菜单中显示插件"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "显示缩略图？ Enigma 需要重新启动"
+
+msgid "Show thumpics?"
+msgstr "显示重击？"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "正在进行中随机播放收藏夹列表"
+
+msgid "Streamlink(5002)"
+msgstr "流连(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "您输入的 PIN 码错误。"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update Aborted!"
+msgstr "更新中止！"
+
+msgid "Upgrading..."
+msgstr "正在升级..."
+
+msgid "Wait please ..."
+msgstr "请稍等..."
+
+msgid "You are already downloading!!!"
+msgstr "你已经在下载了！！！"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl配置"

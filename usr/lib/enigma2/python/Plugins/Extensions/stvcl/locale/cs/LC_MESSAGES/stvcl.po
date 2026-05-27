@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Czech <translation-team-cs@lists.sourceforge.net>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+msgid "Add Stream IPTV"
+msgstr "Přidat Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Všechny složky mezipaměti jsou prázdné!"
+
+msgid "Back"
+msgstr "Zadní"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Zkontrolujte svůj modul Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Podívejte se na seznam oblíbených..."
+
+msgid "Choose Directory"
+msgstr "Zvolte Adresář"
+
+msgid "Choose Directory:"
+msgstr "Vyberte adresář:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurace servisního přehrávače Reference"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Nakonfigurujte složku pozice pro dočasné miniatury"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Nakonfigurujte pozici kytic převedených seznamů"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "gratuluji! Už máte nejnovější verzi..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konverze se nezdařila!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Převést ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Převést Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "STÁHNOUT VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Chcete převést kytici GSREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Chcete převést Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Chcete nyní nainstalovat aktualizaci ( %s )?"
+
+msgid "Download Failed!!!"
+msgstr "Stahování se nezdařilo!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Stáhnout thumpics v Player M3U (je velmi pomalé)?"
+
+msgid "Download thumpics?"
+msgstr "Stáhnout thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Prázdná mezipaměť obrázků"
+
+msgid "Enter Name"
+msgstr "Zadejte jméno"
+
+msgid "Enter pin code"
+msgstr "Zadejte kód PIN"
+
+msgid "Error checking developer version: %s"
+msgstr "Chyba při kontrole verze vývojáře: %s"
+
+msgid "Error checking version: %s"
+msgstr "Chyba při kontrole verze: %s"
+
+msgid "Exit"
+msgstr "Výstup"
+
+msgid "Exteplayer3(5002)"
+msgstr "Extemper3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Typ regulárního výrazu odkazu M3U"
+
+msgid "Filter this category..."
+msgstr "Filtrovat tuto kategorii..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Mezipaměť složek pro Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Cesta ke složce %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Cesta ke složce obsahující soubory .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Hardware (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Seznam oblíbených HasBahCa byl odstraněn"
+
+msgid "IPTV bouquets location"
+msgstr "Umístění IPTV kytic"
+
+msgid "Link in Extensions Menu:"
+msgstr "Odkaz v nabídce Rozšíření:"
+
+msgid "Link in Main Menu:"
+msgstr "Odkaz v hlavní nabídce:"
+
+msgid "M3u list folder not detected!"
+msgstr "Složka seznamu M3u nebyla zjištěna!"
+
+msgid "Ok"
+msgstr "Dobře"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Pouze VOD film povolen nebo ne .ext Filtrováno!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Seznam složek přehrávače <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Zadejte prosím PIN kód rodičovské kontroly"
+
+msgid "Really close without saving the settings?"
+msgstr "Opravdu zavřít bez uložení nastavení?"
+
+msgid "Remove"
+msgstr "Odstranit"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Odstraňte všechny S.T.V.C.L. Oblíbená kytice?"
+
+msgid "Save"
+msgstr "Uložit"
+
+msgid "Search"
+msgstr "Vyhledávání"
+
+msgid "Select"
+msgstr "Vybrat"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Vyberte kytici a stiskněte OK pro přidání"
+
+msgid "Service Reference used %s"
+msgstr "Použitá reference služby %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Typ reference přehrávače služeb"
+
+msgid "Set On for line link m3u full"
+msgstr "Nastavte Zapnuto pro linkový odkaz m3u plný"
+
+msgid "Settings saved correctly!"
+msgstr "Nastavení uloženo správně!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Zobrazit plugin v nabídce Rozšíření"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Zobrazit plugin v hlavní nabídce"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Zobrazit miniatury? Je vyžadován restart Enigmy"
+
+msgid "Show thumpics?"
+msgstr "Ukázat údery?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Probíhá náhodné přehrávání seznamu oblíbených"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Zadaný PIN kód je nesprávný."
+
+msgid "Update"
+msgstr "Aktualizovat"
+
+msgid "Update Aborted!"
+msgstr "Aktualizace zrušena!"
+
+msgid "Upgrading..."
+msgstr "Upgrade..."
+
+msgid "Wait please ..."
+msgstr "Počkejte prosím..."
+
+msgid "You are already downloading!!!"
+msgstr "Už stahujete!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

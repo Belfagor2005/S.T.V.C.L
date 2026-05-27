@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:25+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Tagalog\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Magdagdag ng Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Walang laman ang lahat ng cache fold!"
+
+msgid "Back"
+msgstr "Bumalik"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Tingnan ang iyong Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Tingnan ang listahan ng mga paborito..."
+
+msgid "Choose Directory"
+msgstr "Piliin ang Direktoryo"
+
+msgid "Choose Directory:"
+msgstr "Pumili ng Direktoryo:"
+
+msgid "Configure Service Player Reference"
+msgstr "I-configure ang Service Player Reference"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "I-configure ang folder ng posisyon para sa pansamantalang Thumbpics"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "I-configure ang posisyon ng mga bouquet ng mga na-convert na listahan"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Congrats! Mayroon ka nang pinakabagong bersyon..."
+
+msgid "Conversion Failed!!!"
+msgstr "Nabigo ang Conversion!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "I-convert ang ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "I-convert ang Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr ""
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Gusto mo bang I-convert ang Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Gusto mo bang I-convert ang Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Gusto mo bang mag-install ng update ( %s ) ngayon?"
+
+msgid "Download Failed!!!"
+msgstr "Nabigo ang pag-download!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Mag-download ng thumpics sa Player M3U (napakabagal)?"
+
+msgid "Download thumpics?"
+msgstr "Mag-download ng thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Walang laman ang Pic Cache"
+
+msgid "Enter Name"
+msgstr "Ipasok ang Pangalan"
+
+msgid "Enter pin code"
+msgstr "Ilagay ang pin code"
+
+msgid "Error checking developer version: %s"
+msgstr "Error sa pagsuri sa bersyon ng developer: %s"
+
+msgid "Error checking version: %s"
+msgstr "Error sa pagsuri sa bersyon: %s"
+
+msgid "Exit"
+msgstr "Lumabas"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "I-filter ang uri ng regex ng link ng M3U"
+
+msgid "Filter this category..."
+msgstr "I-filter ang kategoryang ito..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Folder Cache para sa Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Daanan ng folder %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Folder path na naglalaman ng mga .m3u file"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr ""
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Ang Listahan ng Mga Paborito ng HasBahCa ay tinanggal"
+
+msgid "IPTV bouquets location"
+msgstr "Lokasyon ng IPTV bouquets"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link sa Menu ng Mga Extension:"
+
+msgid "Link in Main Menu:"
+msgstr "Link sa Main Menu:"
+
+msgid "M3u list folder not detected!"
+msgstr "Hindi nakita ang folder ng listahan ng M3u!"
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD Movie lang ang pinapayagan o hindi .ext Na-filter!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Listahan ng folder ng player <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Pakilagay ang parental control pin code"
+
+msgid "Really close without saving the settings?"
+msgstr "Talagang isara nang hindi sine-save ang mga setting?"
+
+msgid "Remove"
+msgstr "Alisin"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Alisin ang lahat ng S.T.V.C.L. Paboritong Bouquet ?"
+
+msgid "Save"
+msgstr "I-save"
+
+msgid "Search"
+msgstr "Maghanap"
+
+msgid "Select"
+msgstr "Pumili"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Piliin ang Bouquet at pindutin ang OK upang magdagdag"
+
+msgid "Service Reference used %s"
+msgstr "Ginamit ang Reference ng Serbisyo %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Mga Serbisyong Uri ng Sanggunian ng Manlalaro"
+
+msgid "Set On for line link m3u full"
+msgstr "Itakda ang On para sa line link m3u puno na"
+
+msgid "Settings saved correctly!"
+msgstr "Na-save nang tama ang mga setting!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Ipakita ang Plugin sa Menu ng Mga Extension"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Ipakita ang Plugin sa Main Menu"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Ipakita ang Thumbpics ? Kinakailangang i-restart ang Enigma"
+
+msgid "Show thumpics?"
+msgstr "Magpakita ng thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "I-shuffle ang Paboritong Listahan sa Isinasagawa"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Mali ang pin code na iyong inilagay."
+
+msgid "Update"
+msgstr ""
+
+msgid "Update Aborted!"
+msgstr "Na-abort ang Update!"
+
+msgid "Upgrading..."
+msgstr "Ina-upgrade..."
+
+msgid "Wait please ..."
+msgstr "Wait please..."
+
+msgid "You are already downloading!!!"
+msgstr "Nagda-download ka na!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

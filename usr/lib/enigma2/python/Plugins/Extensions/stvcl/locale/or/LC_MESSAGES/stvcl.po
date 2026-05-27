@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:07+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Oriya <translation-team-or@lists.sourceforge.net>\n"
+"Language: or\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "ଷ୍ଟ୍ରିମ୍ IPTV ଯୋଡନ୍ତୁ |"
+
+msgid "All cache fold are empty!"
+msgstr "ସମସ୍ତ କ୍ୟାଚ୍ ଫୋଲ୍ଡ ଖାଲି ଅଛି!"
+
+msgid "Back"
+msgstr "ପଛକୁ"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "ଆପଣଙ୍କର କନଫିଗ୍ ପ୍ଲଗଇନ୍ - ପଥ ଚଳଚ୍ଚିତ୍ରରେ ଯାଞ୍ଚ କରନ୍ତୁ |"
+
+msgid "Check out the favorites list ..."
+msgstr "ପ୍ରିୟ ତାଲିକା ଦେଖନ୍ତୁ ..."
+
+msgid "Choose Directory"
+msgstr "ଡିରେକ୍ଟୋରୀ ବାଛନ୍ତୁ |"
+
+msgid "Choose Directory:"
+msgstr "ଡିରେକ୍ଟୋରୀ ବାଛନ୍ତୁ:"
+
+msgid "Configure Service Player Reference"
+msgstr "ସେବା ପ୍ଲେୟାର ସନ୍ଦର୍ଭକୁ ବିନ୍ୟାସ କରନ୍ତୁ |"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "ଅସ୍ଥାୟୀ ଥମ୍ବପିକ୍ସ ପାଇଁ ପୋଜିସନ୍ ଫୋଲ୍ଡର୍ ବିନ୍ୟାସ କରନ୍ତୁ |"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "ରୂପାନ୍ତରିତ ତାଲିକାଗୁଡ଼ିକର ପୁଷ୍ପଗୁଡ଼ିକର ସ୍ଥିତି ବିନ୍ୟାସ କରନ୍ତୁ |"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ଅଭିନନ୍ଦନ! ଆପଣଙ୍କ ପାଖରେ ସର୍ବଶେଷ ସଂସ୍କରଣ ଅଛି ..."
+
+msgid "Conversion Failed!!!"
+msgstr "ରୂପାନ୍ତର ବିଫଳ ହେଲା !!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 କୁ ରୂପାନ୍ତର କରନ୍ତୁ |"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer କୁ ରୂପାନ୍ତର କରନ୍ତୁ |"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ଭିଡିଓ ଡାଉନଲୋଡ୍ କରନ୍ତୁ?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "ଆପଣ ପୁଷ୍ପ GSTREAMER କୁ ରୂପାନ୍ତର କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "ଆପଣ ବୁକେଟ୍ IPTV କୁ ରୂପାନ୍ତର କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ଆପଣ ବର୍ତ୍ତମାନ ଅଦ୍ୟତନ (% s) ସଂସ୍ଥାପନ କରିବାକୁ ଚାହୁଁଛନ୍ତି କି?"
+
+msgid "Download Failed!!!"
+msgstr "ଡାଉନଲୋଡ୍ ବିଫଳ !!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "ପ୍ଲେୟାର M3U ରେ ଥମ୍ପିକ୍ସ ଡାଉନଲୋଡ୍ କରନ୍ତୁ (ବହୁତ ଧୀର)?"
+
+msgid "Download thumpics?"
+msgstr "ଥମ୍ପିକ୍ସ ଡାଉନଲୋଡ୍ କରନ୍ତୁ?"
+
+msgid "Empty Pic Cache"
+msgstr "ଖାଲି ପିକ୍ କ୍ୟାଚ୍ |"
+
+msgid "Enter Name"
+msgstr "ନାମ ପ୍ରବେଶ କରନ୍ତୁ |"
+
+msgid "Enter pin code"
+msgstr "ପିନ୍ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ |"
+
+msgid "Error checking developer version: %s"
+msgstr "ବିକାଶକାରୀ ସଂସ୍କରଣ ଯାଞ୍ଚ କରିବାରେ ତ୍ରୁଟି:% s |"
+
+msgid "Error checking version: %s"
+msgstr "ସଂସ୍କରଣ ଯାଞ୍ଚରେ ତ୍ରୁଟି:% s"
+
+msgid "Exit"
+msgstr "ପ୍ରସ୍ଥାନ"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "ଫିଲ୍ଟର୍ M3U ଲିଙ୍କ୍ ରେଜେକ୍ସ ପ୍ରକାର |"
+
+msgid "Filter this category..."
+msgstr "ଏହି ବର୍ଗ ଫିଲ୍ଟର୍ କରନ୍ତୁ ..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "ଥମ୍ବପିକ୍ସ ପାଇଁ ଫୋଲ୍ଡର କ୍ୟାଚ୍:"
+
+msgid "Folder path %s"
+msgstr "ଫୋଲ୍ଡର ପଥ% s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".M3u ଫାଇଲଗୁଡ଼ିକୁ ଧାରଣ କରିଥିବା ଫୋଲ୍ଡର ପଥ"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "ହାର୍ଡୱେର୍ (୧)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa ପସନ୍ଦ ତାଲିକା ଅପସାରିତ ହୋଇଛି |"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV ପୁଷ୍ପ ଅବସ୍ଥାନ |"
+
+msgid "Link in Extensions Menu:"
+msgstr "ଏକ୍ସଟେନ୍ସନ୍ ମେନୁରେ ଲିଙ୍କ୍:"
+
+msgid "Link in Main Menu:"
+msgstr "ମୁଖ୍ୟ ମେନୁରେ ଲିଙ୍କ୍:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u ତାଲିକା ଫୋଲ୍ଡର ଚିହ୍ନଟ ହୋଇନାହିଁ!"
+
+msgid "Ok"
+msgstr "ଠିକ ଅଛି |"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "କେବଳ VOD ଚଳଚ୍ଚିତ୍ର ଅନୁମୋଦିତ କି ନୁହେଁ .ଏକ୍ସ ଫିଲ୍ଟର୍ !!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "ପ୍ଲେୟାର ଫୋଲ୍ଡର ତାଲିକା <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "ଦୟାକରି ପିତାମାତା ନିୟନ୍ତ୍ରଣ ପିନ କୋଡ୍ ପ୍ରବେଶ କରନ୍ତୁ |"
+
+msgid "Really close without saving the settings?"
+msgstr "ସେଟିଂସମୂହ ସଞ୍ଚୟ ନକରି ପ୍ରକୃତରେ ବନ୍ଦ?"
+
+msgid "Remove"
+msgstr "ଅପସାରଣ କରନ୍ତୁ |"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "ସମସ୍ତ S.T.V.C.L. କୁ ହଟାନ୍ତୁ | ପ୍ରିୟ ପୁଷ୍ପ?"
+
+msgid "Save"
+msgstr "ସଞ୍ଚୟ କରନ୍ତୁ |"
+
+msgid "Search"
+msgstr "ସନ୍ଧାନ କର |"
+
+msgid "Select"
+msgstr "ଚୟନ କରନ୍ତୁ |"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "ପୁଷ୍ପ ଚୟନ କରନ୍ତୁ ଏବଂ ଯୋଡିବାକୁ ଓକେ ଦବାନ୍ତୁ |"
+
+msgid "Service Reference used %s"
+msgstr "ସେବା ସନ୍ଦର୍ଭ% s ବ୍ୟବହୃତ ହୋଇଛି |"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "ସେବା ପ୍ଲେୟାର୍ ରେଫରେନ୍ସ ପ୍ରକାର |"
+
+msgid "Set On for line link m3u full"
+msgstr "ଲାଇନ୍ ଲିଙ୍କ୍ m3u ପୂର୍ଣ୍ଣ ପାଇଁ ସେଟ୍ କରନ୍ତୁ |"
+
+msgid "Settings saved correctly!"
+msgstr "ସେଟିଂସମୂହ ସଠିକ୍ ଭାବରେ ସଞ୍ଚୟ ହୋଇଛି!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "ଏକ୍ସଟେନ୍ସନ୍ ମେନୁରେ ପ୍ଲଗଇନ୍ ଦେଖାନ୍ତୁ |"
+
+msgid "Show Plugin in Main Menu"
+msgstr "ମୁଖ୍ୟ ମେନୁରେ ପ୍ଲଗଇନ୍ ଦେଖାନ୍ତୁ |"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "ଥମ୍ପପିକ୍ସ ଦେଖାନ୍ତୁ? ଏନିଗମା ପୁନ rest ଆରମ୍ଭ ଆବଶ୍ୟକ |"
+
+msgid "Show thumpics?"
+msgstr "ଥମ୍ପିକ୍ସ ଦେଖାନ୍ତୁ?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "ପ୍ରଗତିରେ ପ୍ରିୟ ତାଲିକା ବଦଳାନ୍ତୁ |"
+
+msgid "Streamlink(5002)"
+msgstr "ଷ୍ଟ୍ରିମ୍ ଲିଙ୍କ୍ (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "ଆପଣ ପ୍ରବେଶ କରିଥିବା ପିନ୍ କୋଡ୍ ଭୁଲ ଅଟେ |"
+
+msgid "Update"
+msgstr "ଅଦ୍ୟତନ କରନ୍ତୁ |"
+
+msgid "Update Aborted!"
+msgstr "ପରିତ୍ୟାଗ କରାଯାଇଥିବା ଅଦ୍ୟତନ!"
+
+msgid "Upgrading..."
+msgstr "ଅପଗ୍ରେଡ୍ ..."
+
+msgid "Wait please ..."
+msgstr "ଦୟାକରି ଅପେକ୍ଷା କର ..."
+
+msgid "You are already downloading!!!"
+msgstr "ଆପଣ ପୂର୍ବରୁ ଡାଉନଲୋଡ୍ କରୁଛନ୍ତି !!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr "stvcl ବିନ୍ୟାସ କରନ୍ତୁ |"

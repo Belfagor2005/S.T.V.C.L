@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:19+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Azerbaijani\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Stream IPTV əlavə edin"
+
+msgid "All cache fold are empty!"
+msgstr "Bütün keş qovluğu boşdur!"
+
+msgid "Back"
+msgstr "Geri"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Config Plugin - Path Movie-də yoxlayın"
+
+msgid "Check out the favorites list ..."
+msgstr "Sevimlilər siyahısına baxın ..."
+
+msgid "Choose Directory"
+msgstr "Directory seçin"
+
+msgid "Choose Directory:"
+msgstr "Kataloq seçin:"
+
+msgid "Configure Service Player Reference"
+msgstr "Service Player Referansını konfiqurasiya edin"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Müvəqqəti Thumbpics üçün mövqe qovluğunu konfiqurasiya edin"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Dönüştürülmüş siyahıların buketlərinin yerini konfiqurasiya edin"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Təbriklər! Sizdə artıq ən son versiya var..."
+
+msgid "Conversion Failed!!!"
+msgstr "Dönüşüm alınmadı!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3-ə çevirin"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer-i çevirin"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "VİDEONU YÜKLƏSİN?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "GSTREAMER buketini çevirmək istəyirsiniz?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Buket IPTV-ni çevirmək istəyirsiniz?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Güncəlləməni ( %s ) indi quraşdırmaq istəyirsiniz?"
+
+msgid "Download Failed!!!"
+msgstr "Yükləmə uğursuz oldu!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Player M3U-da thumpics yükləyin (çox yavaşdır)?"
+
+msgid "Download thumpics?"
+msgstr "Thumpiklər endirilsin?"
+
+msgid "Empty Pic Cache"
+msgstr "Boş Şəkil Keşi"
+
+msgid "Enter Name"
+msgstr "Ad daxil edin"
+
+msgid "Enter pin code"
+msgstr "PİN kodu daxil edin"
+
+msgid "Error checking developer version: %s"
+msgstr "Developer versiyasını yoxlamaq xətası: %s"
+
+msgid "Error checking version: %s"
+msgstr "Versiya yoxlanarkən xəta: %s"
+
+msgid "Exit"
+msgstr "Çıx"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "M3U keçid regex növünü süzün"
+
+msgid "Filter this category..."
+msgstr "Bu kateqoriyanı filtrləyin..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Thumbpics üçün Qovluq Keşi:"
+
+msgid "Folder path %s"
+msgstr "Qovluq yolu %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u faylları olan qovluq yolu"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Avadanlıq(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa Sevimlilər Siyahısı silindi"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV buketlərinin yeri"
+
+msgid "Link in Extensions Menu:"
+msgstr "Genişləndirmələr menyusunda keçid:"
+
+msgid "Link in Main Menu:"
+msgstr "Əsas Menyuda Link:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u siyahı qovluğu aşkarlanmadı!"
+
+msgid "Ok"
+msgstr "tamam"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Yalnız VOD Filminə icazə verilir, ya yox. Ex Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Oyunçu qovluğu Siyahısı <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Lütfən, valideyn nəzarəti pin kodunu daxil edin"
+
+msgid "Really close without saving the settings?"
+msgstr "Parametrləri saxlamadan həqiqətən bağlanın?"
+
+msgid "Remove"
+msgstr "Sil"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Bütün S.T.V.C.L.-ləri silin. Sevimli Buket?"
+
+msgid "Save"
+msgstr "Saxla"
+
+msgid "Search"
+msgstr "Axtar"
+
+msgid "Select"
+msgstr "seçin"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Buketi seçin və əlavə etmək üçün OK düyməsini basın"
+
+msgid "Service Reference used %s"
+msgstr "Xidmət Referansı %s istifadə edildi"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Xidmətlər Player Referans növü"
+
+msgid "Set On for line link m3u full"
+msgstr "Xətt bağlantısı m3u dolu üçün On seçin"
+
+msgid "Settings saved correctly!"
+msgstr "Parametrlər düzgün saxlandı!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Əlavələr menyusunda plagini göstərin"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Əsas Menyuda Plugini göstərin"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Baş barmaq şəkilləri göstərilsin? Enigma yenidən başladılması tələb olunur"
+
+msgid "Show thumpics?"
+msgstr "Thumpiklər göstərilsin?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Davam edən Sevimli Siyahısını qarışdırın"
+
+msgid "Streamlink(5002)"
+msgstr "Yayım keçidi (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Daxil etdiyiniz pin kodu səhvdir."
+
+msgid "Update"
+msgstr "Yeniləyin"
+
+msgid "Update Aborted!"
+msgstr "Yeniləmə dayandırıldı!"
+
+msgid "Upgrading..."
+msgstr "Təkmilləşdirilir..."
+
+msgid "Wait please ..."
+msgstr "Gözləyin zəhmət olmasa..."
+
+msgid "You are already downloading!!!"
+msgstr "Artıq yükləyirsiniz!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl konfiqurasiyası"

@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:44+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Armenian\n"
+"Language: hy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Ավելացնել Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Քեշի բոլոր ծալքերը դատարկ են:"
+
+msgid "Back"
+msgstr "Ետ"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Ստուգեք ձեր Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Ծանոթացեք ֆավորիտների ցանկին..."
+
+msgid "Choose Directory"
+msgstr "Ընտրեք տեղեկատու"
+
+msgid "Choose Directory:"
+msgstr "Ընտրեք տեղեկատու."
+
+msgid "Configure Service Player Reference"
+msgstr "Կարգավորել ծառայության նվագարկչի տեղեկանքը"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Կարգավորեք դիրքի թղթապանակը ժամանակավոր Thumbpics-ի համար"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Կազմաձևեք փոխարկված ցուցակների ծաղկեփնջերի դիրքը"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Շնորհավորում եմ Դուք արդեն ունեք վերջին տարբերակը..."
+
+msgid "Conversion Failed!!!"
+msgstr "Փոխակերպումը ձախողվեց!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Փոխակերպել ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Փոխարկել Gstreamer-ը"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ՆԵՐԲԵՌՆԵԼ ՏԵՍԱՆՅՈՒԹԸ."
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Ցանկանու՞մ եք փոխակերպել ծաղկեփունջը GSTREAMER:"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Ցանկանու՞մ եք փոխակերպել IPTV-ի ծաղկեփունջը:"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ցանկանու՞մ եք տեղադրել թարմացումը ( %s ) հիմա:"
+
+msgid "Download Failed!!!"
+msgstr "Ներբեռնումը ձախողվեց!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Ներբեռնե՞լ thumpics-ը Player M3U-ում (շատ դանդաղ է):"
+
+msgid "Download thumpics?"
+msgstr "Ներբեռնե՞լ thumpics-ը:"
+
+msgid "Empty Pic Cache"
+msgstr "Դատարկ նկարների քեշը"
+
+msgid "Enter Name"
+msgstr "Մուտքագրեք Անունը"
+
+msgid "Enter pin code"
+msgstr "Մուտքագրեք փին կոդը"
+
+msgid "Error checking developer version: %s"
+msgstr "Սխալ՝ մշակողի տարբերակը ստուգելիս՝ %s"
+
+msgid "Error checking version: %s"
+msgstr "Չհաջողվեց ստուգել տարբերակը՝ %s"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Զտել M3U կապի ռեգեքսի տեսակը"
+
+msgid "Filter this category..."
+msgstr "Զտել այս կատեգորիան..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Թղթապանակի քեշը Thumbpics-ի համար."
+
+msgid "Folder path %s"
+msgstr "Թղթապանակի ճանապարհ %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Թղթապանակի ուղին, որը պարունակում է .m3u ֆայլեր"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Սարքավորում (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa-ի ընտրյալների ցանկը հեռացվել է"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV ծաղկեփնջերի գտնվելու վայրը"
+
+msgid "Link in Extensions Menu:"
+msgstr "Հղում Ընդլայնումների ընտրացանկում."
+
+msgid "Link in Main Menu:"
+msgstr "Հղում հիմնական ընտրացանկում."
+
+msgid "M3u list folder not detected!"
+msgstr "M3u ցուցակի թղթապանակը չի հայտնաբերվել:"
+
+msgid "Ok"
+msgstr "Լավ"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Միայն VOD ֆիլմը թույլատրվում է, թե ոչ .ext Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Խաղացողի թղթապանակների ցուցակ <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Խնդրում ենք մուտքագրել ծնողական հսկողության փին կոդը"
+
+msgid "Really close without saving the settings?"
+msgstr "Իսկապե՞ս փակել առանց կարգավորումները պահելու:"
+
+msgid "Remove"
+msgstr "Հեռացնել"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Հեռացրեք բոլոր S.T.V.C.L. Սիրած փունջ?"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Search"
+msgstr "Որոնում"
+
+msgid "Select"
+msgstr "Ընտրել"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Ընտրեք ծաղկեփունջը և սեղմեք OK՝ ավելացնելու համար"
+
+msgid "Service Reference used %s"
+msgstr "Օգտագործված ծառայության տեղեկանք՝ %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "Ծառայություններ խաղացողի տեղեկանքի տեսակը"
+
+msgid "Set On for line link m3u full"
+msgstr "Միացված է m3u լրիվ գծի հղման համար"
+
+msgid "Settings saved correctly!"
+msgstr "Կարգավորումները ճիշտ են պահվել:"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Ցույց տալ Plugin-ը Extensions ընտրացանկում"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Ցուցադրել Plugin-ը հիմնական ընտրացանկում"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Ցույց տալ thumbpics Enigma-ի վերագործարկումը պահանջվում է"
+
+msgid "Show thumpics?"
+msgstr "Ցույց տալ thumpics"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Ընթացքի մեջ գտնվող սիրելիների ցուցակը խառնել"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Ձեր մուտքագրած փին կոդը սխալ է:"
+
+msgid "Update"
+msgstr "Թարմացնել"
+
+msgid "Update Aborted!"
+msgstr "Թարմացումը ընդհատվեց:"
+
+msgid "Upgrading..."
+msgstr "Թարմացվում է..."
+
+msgid "Wait please ..."
+msgstr "Սպասիր խնդրում եմ..."
+
+msgid "You are already downloading!!!"
+msgstr "Դուք արդեն ներբեռնում եք!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr ""

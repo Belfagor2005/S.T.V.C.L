@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:58+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malayalam <smc-discuss@googlegroups.com>\n"
+"Language: ml\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "സ്ട്രീം IPTV ചേർക്കുക"
+
+msgid "All cache fold are empty!"
+msgstr "എല്ലാ കാഷെ ഫോളും ശൂന്യമാണ്!"
+
+msgid "Back"
+msgstr "തിരികെ"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "നിങ്ങളുടെ കോൺഫിഗറേഷൻ പ്ലഗിൻ - പാത്ത് മൂവി പരിശോധിക്കുക"
+
+msgid "Check out the favorites list ..."
+msgstr "പ്രിയപ്പെട്ടവ ലിസ്റ്റ് പരിശോധിക്കുക..."
+
+msgid "Choose Directory"
+msgstr "ഡയറക്ടറി തിരഞ്ഞെടുക്കുക"
+
+msgid "Choose Directory:"
+msgstr "ഡയറക്ടറി തിരഞ്ഞെടുക്കുക:"
+
+msgid "Configure Service Player Reference"
+msgstr "സർവീസ് പ്ലെയർ റഫറൻസ് കോൺഫിഗർ ചെയ്യുക"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "താൽക്കാലിക Thumbpics-നായി പൊസിഷൻ ഫോൾഡർ കോൺഫിഗർ ചെയ്യുക"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "പരിവർത്തനം ചെയ്ത ലിസ്റ്റുകളുടെ പൂച്ചെണ്ടുകളുടെ സ്ഥാനം ക്രമീകരിക്കുക"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "അഭിനന്ദനങ്ങൾ! നിങ്ങൾക്ക് ഇതിനകം ഏറ്റവും പുതിയ പതിപ്പുണ്ട്..."
+
+msgid "Conversion Failed!!!"
+msgstr "പരിവർത്തനം പരാജയപ്പെട്ടു!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 പരിവർത്തനം ചെയ്യുക"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer പരിവർത്തനം ചെയ്യുക"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "വീഡിയോ ഡൗൺലോഡ് ചെയ്യണോ?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "നിങ്ങൾക്ക് Bouquet GSTREAMER പരിവർത്തനം ചെയ്യണോ?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "നിങ്ങൾക്ക് Bouquet IPTV പരിവർത്തനം ചെയ്യണോ?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "നിങ്ങൾക്ക് ഇപ്പോൾ അപ്ഡേറ്റ് (%s ) ഇൻസ്റ്റാൾ ചെയ്യണോ?"
+
+msgid "Download Failed!!!"
+msgstr "ഡൗൺലോഡ് പരാജയപ്പെട്ടു!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Player M3U-ൽ thumpics ഡൗൺലോഡ് ചെയ്യണോ (വളരെ വേഗത കുറവാണ്)?"
+
+msgid "Download thumpics?"
+msgstr "thumpics ഡൗൺലോഡ് ചെയ്യണോ?"
+
+msgid "Empty Pic Cache"
+msgstr "Pic Cache ശൂന്യമാക്കുക"
+
+msgid "Enter Name"
+msgstr "പേര് നൽകുക"
+
+msgid "Enter pin code"
+msgstr "പിൻ കോഡ് നൽകുക"
+
+msgid "Error checking developer version: %s"
+msgstr "ഡെവലപ്പർ പതിപ്പ് പരിശോധിക്കുന്നതിൽ പിശക്: %s"
+
+msgid "Error checking version: %s"
+msgstr "പതിപ്പ് പരിശോധിക്കുന്നതിൽ പിശക്: %s"
+
+msgid "Exit"
+msgstr "പുറത്ത്"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "M3U ലിങ്ക് റീജക്സ് തരം ഫിൽട്ടർ ചെയ്യുക"
+
+msgid "Filter this category..."
+msgstr "ഈ വിഭാഗം ഫിൽട്ടർ ചെയ്യുക..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "തംബ്പിക്സിനുള്ള ഫോൾഡർ കാഷെ:"
+
+msgid "Folder path %s"
+msgstr "ഫോൾഡർ പാത %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u ഫയലുകൾ അടങ്ങുന്ന ഫോൾഡർ പാത്ത്"
+
+msgid "Gstreamer(5001)"
+msgstr "ജിസ്ട്രീമർ(5001)"
+
+msgid "Hardware(1)"
+msgstr "ഹാർഡ്‌വെയർ(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa പ്രിയപ്പെട്ടവ ലിസ്റ്റ് നീക്കം ചെയ്തു"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV പൂച്ചെണ്ടുകളുടെ സ്ഥാനം"
+
+msgid "Link in Extensions Menu:"
+msgstr "വിപുലീകരണ മെനുവിലെ ലിങ്ക്:"
+
+msgid "Link in Main Menu:"
+msgstr "പ്രധാന മെനുവിലെ ലിങ്ക്:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u ലിസ്റ്റ് ഫോൾഡർ കണ്ടെത്തിയില്ല!"
+
+msgid "Ok"
+msgstr "ശരി"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD മൂവി മാത്രം അനുവദനീയമോ ഇല്ലയോ .ext ഫിൽട്ടർ ചെയ്‌തു!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "പ്ലേയർ ഫോൾഡർ ലിസ്റ്റ് <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "രക്ഷാകർതൃ നിയന്ത്രണ പിൻ കോഡ് നൽകുക"
+
+msgid "Really close without saving the settings?"
+msgstr "ക്രമീകരണങ്ങൾ സംരക്ഷിക്കാതെ ശരിക്കും അടയ്ക്കണോ?"
+
+msgid "Remove"
+msgstr "നീക്കം ചെയ്യുക"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "എല്ലാ S.T.V.C.Lകളും നീക്കം ചെയ്യുക. പ്രിയപ്പെട്ട പൂച്ചെണ്ട്?"
+
+msgid "Save"
+msgstr "സംരക്ഷിക്കുക"
+
+msgid "Search"
+msgstr "തിരയുക"
+
+msgid "Select"
+msgstr "തിരഞ്ഞെടുക്കുക"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "ചേർക്കാൻ പൂച്ചെണ്ട് തിരഞ്ഞെടുത്ത് ശരി അമർത്തുക"
+
+msgid "Service Reference used %s"
+msgstr "സേവന റഫറൻസ് %s ഉപയോഗിച്ചു"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "സേവനങ്ങൾ പ്ലേയർ റഫറൻസ് തരം"
+
+msgid "Set On for line link m3u full"
+msgstr "m3u പൂർണ്ണമായ ലൈൻ ലിങ്കിനായി സജ്ജീകരിക്കുക"
+
+msgid "Settings saved correctly!"
+msgstr "ക്രമീകരണങ്ങൾ ശരിയായി സംരക്ഷിച്ചു!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "വിപുലീകരണ മെനുവിൽ പ്ലഗിൻ കാണിക്കുക"
+
+msgid "Show Plugin in Main Menu"
+msgstr "പ്രധാന മെനുവിൽ പ്ലഗിൻ കാണിക്കുക"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "തംബ്പിക്സ് കാണിക്കണോ? എനിഗ്മ പുനരാരംഭിക്കേണ്ടതുണ്ട്"
+
+msgid "Show thumpics?"
+msgstr "തുമ്പികൾ കാണിക്കണോ?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "പ്രിയപ്പെട്ട ലിസ്റ്റ് ഷഫിൾ ചെയ്യുക"
+
+msgid "Streamlink(5002)"
+msgstr "സ്ട്രീംലിങ്ക്(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "നിങ്ങൾ നൽകിയ പിൻ കോഡ് തെറ്റാണ്."
+
+msgid "Update"
+msgstr "അപ്ഡേറ്റ്"
+
+msgid "Update Aborted!"
+msgstr "അപ്ഡേറ്റ് നിർത്തലാക്കി!"
+
+msgid "Upgrading..."
+msgstr "നവീകരിക്കുന്നു..."
+
+msgid "Wait please ..."
+msgstr "ദയവായി കാത്തിരിക്കൂ..."
+
+msgid "You are already downloading!!!"
+msgstr "നിങ്ങൾ ഇതിനകം ഡൗൺലോഡ് ചെയ്യുന്നു!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl കോൺഫിഗറേഷൻ"

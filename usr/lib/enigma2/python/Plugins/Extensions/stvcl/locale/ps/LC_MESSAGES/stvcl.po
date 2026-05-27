@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:10+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Pashto\n"
+"Language: ps\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "سټریم IPTV اضافه کړئ"
+
+msgid "All cache fold are empty!"
+msgstr "ټول کیچ فولډ خالي دي!"
+
+msgid "Back"
+msgstr "شاته"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "خپل کنفیګ پلگ ان چیک کړئ - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "د خوښې لیست وګورئ ..."
+
+msgid "Choose Directory"
+msgstr "لارښود غوره کړئ"
+
+msgid "Choose Directory:"
+msgstr "لارښود غوره کړئ:"
+
+msgid "Configure Service Player Reference"
+msgstr "د خدمت پلیر حواله ترتیب کړئ"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "د لنډمهاله تومبیکونو لپاره د موقعیت فولډر تنظیم کړئ"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "د بدل شوي لیستونو د ګلونو موقعیت تنظیم کړئ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "مبارک شه! تاسو لا دمخه وروستۍ نسخه لرئ ..."
+
+msgid "Conversion Failed!!!"
+msgstr "تبادله ناکامه شوه!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 بدل کړئ"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer بدل کړئ"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ویډیو ډاونلوډ کړئ؟"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "ایا تاسو غواړۍ چې د بکسې GSTREAMER ته واړوئ؟"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "ایا تاسو غواړۍ چې د بکس IPTV بدل کړئ؟"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ایا تاسو غواړئ اوسمهال (%s) نصب کړئ؟"
+
+msgid "Download Failed!!!"
+msgstr "ډاونلوډ ناکام شو !!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "په پلیر M3U کې تومپکس ډاونلوډ کړئ (ډیر ورو دی)؟"
+
+msgid "Download thumpics?"
+msgstr "ټمپکس ډاونلوډ کړئ؟"
+
+msgid "Empty Pic Cache"
+msgstr "د عکس کیچ خالي کړئ"
+
+msgid "Enter Name"
+msgstr "نوم دننه کړئ"
+
+msgid "Enter pin code"
+msgstr "پن کوډ دننه کړئ"
+
+msgid "Error checking developer version: %s"
+msgstr "د پرمخ وړونکي نسخه چک کولو کې تېروتنه: %s"
+
+msgid "Error checking version: %s"
+msgstr "د نسخې چک کولو کې تېروتنه: %s"
+
+msgid "Exit"
+msgstr "وتل"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "د M3U لینک ریجیکس ډول فلټر کړئ"
+
+msgid "Filter this category..."
+msgstr "دا کټګوري فلټر کړئ..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "د ګوتو عکسونو لپاره د فولډر کیچ:"
+
+msgid "Folder path %s"
+msgstr "د فولډر لاره %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "د فولډر لاره چې د .m3u فایلونه لري"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "هارډویر(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "د HasBahCa د خوښې لیست لرې شوی"
+
+msgid "IPTV bouquets location"
+msgstr "د IPTV ګلدان ځای"
+
+msgid "Link in Extensions Menu:"
+msgstr "د توسیع مینو کې لینک:"
+
+msgid "Link in Main Menu:"
+msgstr "په مین مینو کې لینک:"
+
+msgid "M3u list folder not detected!"
+msgstr "د M3u لیست فولډر ندی موندل شوی!"
+
+msgid "Ok"
+msgstr "سمه ده"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "یوازې د VOD فلم اجازه لري یا نه .ext فلټر شوی!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "د پلیر فولډر لیست <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "مهرباني وکړئ د والدین کنټرول پن کوډ دننه کړئ"
+
+msgid "Really close without saving the settings?"
+msgstr "واقعیا د تنظیماتو خوندي کولو پرته نږدې؟"
+
+msgid "Remove"
+msgstr "لرې کړئ"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "ټول S.T.V.C.L لرې کړئ د خوښې ګلدستې؟"
+
+msgid "Save"
+msgstr "خوندي کړئ"
+
+msgid "Search"
+msgstr "لټون"
+
+msgid "Select"
+msgstr "وټاکئ"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "ګلدان غوره کړئ او د اضافه کولو لپاره OK فشار ورکړئ"
+
+msgid "Service Reference used %s"
+msgstr "د خدمت حواله %s کارول شوې"
+
+msgid "ServiceMp3(4097)"
+msgstr "خدمتMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "د خدماتو پلیر حوالې ډول"
+
+msgid "Set On for line link m3u full"
+msgstr "د لاین لینک m3u بشپړ لپاره تنظیم کړئ"
+
+msgid "Settings saved correctly!"
+msgstr "تنظیمات په سمه توګه خوندي شوي!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "د توسیع مینو کې پلگ ان وښایاست"
+
+msgid "Show Plugin in Main Menu"
+msgstr "په اصلي مینو کې پلگ ان وښایاست"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "د ګوتو نښې ښکاره کړئ؟ د اینیګما بیا پیل کول اړین دي"
+
+msgid "Show thumpics?"
+msgstr "ټمپکس ښکاره کړئ؟"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "د خوښې لیست په پرمختګ کې بدل کړئ"
+
+msgid "Streamlink(5002)"
+msgstr "سټریم لینک (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "هغه پن کوډ چې تاسو داخل کړی غلط دی."
+
+msgid "Update"
+msgstr "تازه کول"
+
+msgid "Update Aborted!"
+msgstr "تازه کول لغوه شوي!"
+
+msgid "Upgrading..."
+msgstr "لوړول..."
+
+msgid "Wait please ..."
+msgstr "مهرباني وکړئ انتظار وکړئ ..."
+
+msgid "You are already downloading!!!"
+msgstr "تاسو لا دمخه ډاونلوډ کوئ !!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "د stvcl تشکیل"

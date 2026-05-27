@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:22+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Thai <(nothing)>\n"
+"Language: th\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "เพิ่มสตรีม IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "พับแคชทั้งหมดว่างเปล่า!"
+
+msgid "Back"
+msgstr "กลับ"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "ตรวจสอบ Config Plugin - Path Movie ของคุณ"
+
+msgid "Check out the favorites list ..."
+msgstr "ตรวจสอบรายการโปรด ..."
+
+msgid "Choose Directory"
+msgstr "เลือกไดเรกทอรี"
+
+msgid "Choose Directory:"
+msgstr "เลือกไดเรกทอรี:"
+
+msgid "Configure Service Player Reference"
+msgstr "กำหนดค่าการอ้างอิงผู้เล่นบริการ"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "กำหนดค่าโฟลเดอร์ตำแหน่งสำหรับ Thumbpics ชั่วคราว"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "กำหนดตำแหน่งของช่อดอกไม้ของรายการที่แปลงแล้ว"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ยินดีด้วย! คุณมีเวอร์ชันล่าสุดแล้ว..."
+
+msgid "Conversion Failed!!!"
+msgstr "การแปลงล้มเหลว!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "แปลง ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "แปลง Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ดาวน์โหลดวิดีโอ?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "คุณต้องการแปลง Bouquet GSTREAMER หรือไม่?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "คุณต้องการแปลง Bouquet IPTV หรือไม่?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "คุณต้องการติดตั้งการอัปเดต ( %s ) ตอนนี้หรือไม่?"
+
+msgid "Download Failed!!!"
+msgstr "ดาวน์โหลดไม่สำเร็จ!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "ดาวน์โหลด thumpics ใน Player M3U (ช้ามาก) หรือไม่"
+
+msgid "Download thumpics?"
+msgstr "ดาวน์โหลด thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "แคช Pic ว่างเปล่า"
+
+msgid "Enter Name"
+msgstr "ป้อนชื่อ"
+
+msgid "Enter pin code"
+msgstr "ป้อนรหัสพิน"
+
+msgid "Error checking developer version: %s"
+msgstr "เกิดข้อผิดพลาดในการตรวจสอบเวอร์ชันของนักพัฒนา: %s"
+
+msgid "Error checking version: %s"
+msgstr "เกิดข้อผิดพลาดในการตรวจสอบเวอร์ชัน: %s"
+
+msgid "Exit"
+msgstr "ออก"
+
+msgid "Exteplayer3(5002)"
+msgstr "เอ็กซ์เทเพลเยอร์3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "กรองประเภท regex ลิงก์ M3U"
+
+msgid "Filter this category..."
+msgstr "กรองหมวดหมู่นี้..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "แคชโฟลเดอร์สำหรับ Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "เส้นทางโฟลเดอร์ %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "เส้นทางโฟลเดอร์ที่มีไฟล์ .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "กสตรีมเมอร์(5001)"
+
+msgid "Hardware(1)"
+msgstr "ฮาร์ดแวร์(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "รายการโปรดของ HasBahCa ถูกลบออกแล้ว"
+
+msgid "IPTV bouquets location"
+msgstr "ที่ตั้งช่อดอกไม้ IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "ลิงก์ในเมนูส่วนขยาย:"
+
+msgid "Link in Main Menu:"
+msgstr "ลิงค์ในเมนูหลัก:"
+
+msgid "M3u list folder not detected!"
+msgstr "ตรวจไม่พบโฟลเดอร์รายการ M3u!"
+
+msgid "Ok"
+msgstr "ตกลง"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "อนุญาตเฉพาะภาพยนตร์ VOD หรือไม่ .ext กรอง!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "รายการโฟลเดอร์ผู้เล่น <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "โปรดป้อนรหัสพินการควบคุมโดยผู้ปกครอง"
+
+msgid "Really close without saving the settings?"
+msgstr "ปิดโดยไม่บันทึกการตั้งค่าจริงหรือ"
+
+msgid "Remove"
+msgstr "ลบ"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "ลบ S.T.V.C.L. ทั้งหมด ช่อดอกไม้ที่ชอบ ?"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Search"
+msgstr "ค้นหา"
+
+msgid "Select"
+msgstr "เลือก"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "เลือกช่อดอกไม้แล้วกดตกลงเพื่อเพิ่ม"
+
+msgid "Service Reference used %s"
+msgstr "การอ้างอิงบริการที่ใช้ %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "บริการMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "ประเภทการอ้างอิงผู้เล่นบริการ"
+
+msgid "Set On for line link m3u full"
+msgstr "ตั้งค่าเปิดไลน์ลิงค์ m3u ตัวเต็ม"
+
+msgid "Settings saved correctly!"
+msgstr "บันทึกการตั้งค่าอย่างถูกต้อง!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "แสดงปลั๊กอินในเมนูส่วนขยาย"
+
+msgid "Show Plugin in Main Menu"
+msgstr "แสดงปลั๊กอินในเมนูหลัก"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "แสดงรูปขนาดย่อ ? จำเป็นต้องรีสตาร์ท Enigma"
+
+msgid "Show thumpics?"
+msgstr "โชว์โหดเหรอ?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "กำลังสุ่มรายชื่อรายการโปรด"
+
+msgid "Streamlink(5002)"
+msgstr "สตรีมลิงก์(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "รหัสพินที่คุณป้อนไม่ถูกต้อง"
+
+msgid "Update"
+msgstr "อัปเดต"
+
+msgid "Update Aborted!"
+msgstr "การอัปเดตถูกยกเลิก!"
+
+msgid "Upgrading..."
+msgstr "กำลังอัปเกรด..."
+
+msgid "Wait please ..."
+msgstr "กรุณารอสักครู่..."
+
+msgid "You are already downloading!!!"
+msgstr "คุณกำลังดาวน์โหลดแล้ว!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "การกำหนดค่า sttvcl"

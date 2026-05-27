@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:01+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Maltese <translation-team-mt@lists.sourceforge.net>\n"
+"Language: mt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Żid Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "It-tinja kollha tal-cache huma vojta!"
+
+msgid "Back"
+msgstr "Lura"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Iċċekkja fil-Config Plugin tiegħek - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Ara l-lista tal-favoriti..."
+
+msgid "Choose Directory"
+msgstr "Agħżel Direttorju"
+
+msgid "Choose Directory:"
+msgstr "Agħżel Direttorju:"
+
+msgid "Configure Service Player Reference"
+msgstr "Ikkonfigura r-Referenza tal-Plejer tas-Servizz"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Ikkonfigura folder tal-pożizzjoni għal Thumbpics temporanji"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Ikkonfigura l-pożizzjoni tal-bukketti tal-listi konvertiti"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Prosit! Diġà għandek l-aħħar verżjoni..."
+
+msgid "Conversion Failed!!!"
+msgstr "Il-konverżjoni falliet!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Ikkonverti ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Ikkonverti Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr ""
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Trid tikkonverti Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Trid tikkonverti Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Trid tinstalla l-aġġornament ( %s ) issa?"
+
+msgid "Download Failed!!!"
+msgstr "Niżżel fallut!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Niżżel thumpics fil-Plejer M3U (huwa Bil-mod ħafna)?"
+
+msgid "Download thumpics?"
+msgstr "Niżżel thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Vojta Pic Cache"
+
+msgid "Enter Name"
+msgstr "Daħħal Isem"
+
+msgid "Enter pin code"
+msgstr "Daħħal il-kodiċi tal-pin"
+
+msgid "Error checking developer version: %s"
+msgstr "Żball fil-verifika tal-verżjoni tal-iżviluppatur: %s"
+
+msgid "Error checking version: %s"
+msgstr "Żball fil-verifika tal-verżjoni: %s"
+
+msgid "Exit"
+msgstr "Ħruġ"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Iffiltra t-tip regex tal-link M3U"
+
+msgid "Filter this category..."
+msgstr "Iffiltra din il-kategorija..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Folder Cache għal Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Mogħdija tal-folder %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Mogħdija tal-folder li fiha l-fajls .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Ħardwer(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Lista tal-Favoriti HasBahCa tneħħiet"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV bukketti post"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link fil-Menu ta' Estensjonijiet:"
+
+msgid "Link in Main Menu:"
+msgstr "Link fil-Menu Prinċipali:"
+
+msgid "M3u list folder not detected!"
+msgstr "Folder tal-lista M3u mhux misjub!"
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Film VOD biss permess jew le .ext Iffiltrat!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Lista tal-folders tal-plejers <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Jekk jogħġbok daħħal il-kodiċi tal-pin tal-kontroll tal-ġenituri"
+
+msgid "Really close without saving the settings?"
+msgstr "Tassew tagħlaq mingħajr ma tissejvja s-settings?"
+
+msgid "Remove"
+msgstr "Neħħi"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Neħħi l-S.T.V.C.L. Bukkett favorit?"
+
+msgid "Save"
+msgstr "Ħlief"
+
+msgid "Search"
+msgstr "Fittex"
+
+msgid "Select"
+msgstr "Agħżel"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Agħżel il-Bukkett u agħfas OK biex iżżid"
+
+msgid "Service Reference used %s"
+msgstr "Referenza tas-Servizz użat %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServizzMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Servizzi Tip ta' referenza tal-Plejer"
+
+msgid "Set On for line link m3u full"
+msgstr "Issettja Fuq għal line link m3u sħiħa"
+
+msgid "Settings saved correctly!"
+msgstr "Settings salvati b'mod korrett!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Uri Plugin fil-Menu tal-Estensjonijiet"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Uri Plugin fil-Menu Prinċipali"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Uri Thumbpics? Restart Enigma meħtieġ"
+
+msgid "Show thumpics?"
+msgstr "Uri thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Shuffle Lista Favoriti fil-Progress"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Il-kodiċi tal-pin li daħħalt huwa żbaljat."
+
+msgid "Update"
+msgstr "Aġġornament"
+
+msgid "Update Aborted!"
+msgstr "Aġġornament Abortat!"
+
+msgid "Upgrading..."
+msgstr "Taġġorna..."
+
+msgid "Wait please ..."
+msgstr "Stenna jekk jogħġbok..."
+
+msgid "You are already downloading!!!"
+msgstr "Diġà qed tniżżel!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl Konfigurazzjoni"

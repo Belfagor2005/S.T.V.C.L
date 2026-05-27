@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Norwegian Bokmal <l10n-no@lister.huftis.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Legg til Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "All cache-fold er tom!"
+
+msgid "Back"
+msgstr "Tilbake"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Sjekk inn Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Sjekk ut favorittlisten..."
+
+msgid "Choose Directory"
+msgstr "Velg Katalog"
+
+msgid "Choose Directory:"
+msgstr "Velg katalog:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurer Service Player Reference"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Konfigurer posisjonsmappe for midlertidige Thumbpics"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfigurer plasseringen av bukettene til de konverterte listene"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Gratulerer! Du har allerede den nyeste versjonen..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertering mislyktes!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Konverter ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Konverter Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "LAST NED VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Ønsker du å konvertere Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Vil du konvertere Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vil du installere oppdatering ( %s ) nå?"
+
+msgid "Download Failed!!!"
+msgstr "Nedlasting mislyktes!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Last ned thumpics i Player M3U (er veldig sakte)?"
+
+msgid "Download thumpics?"
+msgstr "Last ned thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Tøm bildebuffer"
+
+msgid "Enter Name"
+msgstr "Skriv inn navn"
+
+msgid "Enter pin code"
+msgstr "Skriv inn pinkode"
+
+msgid "Error checking developer version: %s"
+msgstr "Feil under kontroll av utviklerversjon: %s"
+
+msgid "Error checking version: %s"
+msgstr "Feil under kontroll av versjon: %s"
+
+msgid "Exit"
+msgstr "Gå"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Filter M3U link regulært uttrykk type"
+
+msgid "Filter this category..."
+msgstr "Filtrer denne kategorien..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Mappebuffer for miniatyrbilder:"
+
+msgid "Folder path %s"
+msgstr "Mappebane %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Mappebane som inneholder .m3u-filene"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Maskinvare (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa-favorittlisten er fjernet"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV buketter plassering"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link i utvidelsesmenyen:"
+
+msgid "Link in Main Menu:"
+msgstr "Link i hovedmenyen:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u-listemappen ble ikke oppdaget!"
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Kun VOD-film tillatt eller ikke .ext filtrert!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Spillermappeliste <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Vennligst skriv inn PIN-koden for foreldrekontroll"
+
+msgid "Really close without saving the settings?"
+msgstr "Virkelig lukke uten å lagre innstillingene?"
+
+msgid "Remove"
+msgstr "Fjerne"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Fjern alle S.T.V.C.L. Favoritt bukett?"
+
+msgid "Save"
+msgstr "Spare"
+
+msgid "Search"
+msgstr "Søk"
+
+msgid "Select"
+msgstr "Velge"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Velg buketten og trykk OK for å legge til"
+
+msgid "Service Reference used %s"
+msgstr "Tjenestereferanse brukt %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Tjenester Spillerreferansetype"
+
+msgid "Set On for line link m3u full"
+msgstr "Sett På for linjekobling m3u full"
+
+msgid "Settings saved correctly!"
+msgstr "Innstillinger lagret riktig!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Vis plugin i utvidelsesmenyen"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Vis plugin i hovedmenyen"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Vise miniatyrbilder? Enigma omstart kreves"
+
+msgid "Show thumpics?"
+msgstr "Vise thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Bland favorittlisten pågår"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "PIN-koden du skrev inn er feil."
+
+msgid "Update"
+msgstr "Oppdater"
+
+msgid "Update Aborted!"
+msgstr "Oppdatering avbrutt!"
+
+msgid "Upgrading..."
+msgstr "Oppgraderer..."
+
+msgid "Wait please ..."
+msgstr "Vent, vær så snill..."
+
+msgid "You are already downloading!!!"
+msgstr "Du laster allerede ned!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl konfig"

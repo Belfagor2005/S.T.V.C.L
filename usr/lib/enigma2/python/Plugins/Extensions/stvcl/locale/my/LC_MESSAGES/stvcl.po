@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:02+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Burmese\n"
+"Language: my\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "တိုက်ရိုက်လွှင့် IPTV ထည့်ပါ။"
+
+msgid "All cache fold are empty!"
+msgstr "ကက်ရှ် ခေါက်အားလုံးသည် ဗလာဖြစ်နေသည်။"
+
+msgid "Back"
+msgstr "ကျော"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "သင်၏ Config Plugin - Path Movie ကိုစစ်ဆေးပါ။"
+
+msgid "Check out the favorites list ..."
+msgstr "အကြိုက်ဆုံးစာရင်းကိုကြည့်ပါ ..."
+
+msgid "Choose Directory"
+msgstr "လမ်းညွှန်ကို ရွေးပါ။"
+
+msgid "Choose Directory:"
+msgstr "လမ်းညွှန်ကို ရွေးပါ-"
+
+msgid "Configure Service Player Reference"
+msgstr "Service Player ရည်ညွှန်းချက်ကို စီစဉ်သတ်မှတ်ပါ။"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "ယာယီ Thumbpics အတွက် တည်နေရာဖိုင်တွဲကို စီစဉ်သတ်မှတ်ပါ။"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "ပြောင်းထားသောစာရင်းများ၏ ပန်းစည်းများ၏ အနေအထားကို စီစဉ်သတ်မှတ်ပါ။"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "ဂုဏ်ပြုပါသည်။ သင့်တွင် နောက်ဆုံးထွက်ဗားရှင်းရှိနေပြီဖြစ်သည်။"
+
+msgid "Conversion Failed!!!"
+msgstr "ပြောင်းလဲခြင်း မအောင်မြင်ပါ!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 ကိုပြောင်းပါ။"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer ပြောင်းပါ။"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ဗီဒီယိုကို ဒေါင်းလုဒ်လုပ်မလား။"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Bouquet GSTREAMER ပြောင်းလိုပါသလား။"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "ပန်းစည်း IPTV ပြောင်းလိုပါသလား။"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "အပ်ဒိတ် (%s) ကို ယခု ထည့်သွင်းလိုပါသလား။"
+
+msgid "Download Failed!!!"
+msgstr "ဒေါင်းလုဒ် မအောင်မြင်ပါ!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Player M3U တွင် thumpics ဒေါင်းလုဒ်လုပ်ခြင်း (အလွန်နှေးသည်)။"
+
+msgid "Download thumpics?"
+msgstr "ပုံများကို ဒေါင်းလုဒ်လုပ်မလား။"
+
+msgid "Empty Pic Cache"
+msgstr "ပုံသဏ္ဍာန်ကက်ရှ်"
+
+msgid "Enter Name"
+msgstr "အမည်ထည့်ပါ။"
+
+msgid "Enter pin code"
+msgstr "ပင်နံပါတ်ထည့်ပါ။"
+
+msgid "Error checking developer version: %s"
+msgstr "ဆော့ဖ်ဝဲရေးသားသူဗားရှင်းကို စစ်ဆေးရာတွင် အမှားအယွင်းရှိနေသည်- %s"
+
+msgid "Error checking version: %s"
+msgstr "ဗားရှင်းစစ်ဆေးရာတွင် အမှားအယွင်းရှိနေသည်- %s"
+
+msgid "Exit"
+msgstr "ထွက်ပေါက်"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Filter M3U လင့်ခ် regex အမျိုးအစား"
+
+msgid "Filter this category..."
+msgstr "ဤအမျိုးအစားကို စစ်ထုတ်ပါ..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Thumbpics အတွက် ဖိုင်တွဲ ကက်ရှ်-"
+
+msgid "Folder path %s"
+msgstr "ဖိုင်တွဲလမ်းကြောင်း %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u ဖိုင်များပါဝင်သော ဖိုင်တွဲလမ်းကြောင်း"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "ဟာ့ဒ်ဝဲ(၁)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa အကြိုက်ဆုံးစာရင်းကို ဖယ်ရှားလိုက်ပါပြီ။"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV ပန်းစည်းတည်နေရာ"
+
+msgid "Link in Extensions Menu:"
+msgstr "တိုးချဲ့မှုများ မီနူးရှိ လင့်ခ်-"
+
+msgid "Link in Main Menu:"
+msgstr "ပင်မမီနူးရှိ လင့်ခ်-"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u စာရင်းဖိုင်တွဲကို ရှာမတွေ့ပါ။"
+
+msgid "Ok"
+msgstr "အိုကေ"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD Movie များကိုသာ ခွင့်ပြုသည် သို့မဟုတ် .ext ကို စစ်ထုတ်ထားသည်!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "ကစားသမား ဖိုဒါစာရင်း <.m3u>-"
+
+msgid "Please enter the parental control pin code"
+msgstr "ကျေးဇူးပြု၍ မိဘထိန်းချုပ်မှုပင်နံပါတ်ကို ထည့်ပါ။"
+
+msgid "Really close without saving the settings?"
+msgstr "ဆက်တင်များကို မသိမ်းဆည်းဘဲ အမှန်တကယ် ပိတ်ပါသလား။"
+
+msgid "Remove"
+msgstr "ဖယ်ရှားပါ။"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "S.T.V.C.L အားလုံးကို ဖယ်ရှားပါ။ အကြိုက်ဆုံးပန်းစည်း?"
+
+msgid "Save"
+msgstr "သိမ်းဆည်းပါ။"
+
+msgid "Search"
+msgstr "ရှာရန်"
+
+msgid "Select"
+msgstr "ရွေးချယ်ပါ။"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "ပန်းစည်းကိုရွေးချယ်ပြီး ထည့်ရန် OK ကိုနှိပ်ပါ။"
+
+msgid "Service Reference used %s"
+msgstr "ဝန်ဆောင်မှုအကိုးအကား %s ကို အသုံးပြုထားသည်။"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Services Player ရည်ညွှန်းချက် အမျိုးအစား"
+
+msgid "Set On for line link m3u full"
+msgstr "လိုင်းလင့်ခ် m3u အပြည့်အစုံအတွက် On သတ်မှတ်ပါ။"
+
+msgid "Settings saved correctly!"
+msgstr "ဆက်တင်များကို မှန်ကန်စွာ သိမ်းဆည်းထားသည်။"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "တိုးချဲ့မှုများ မီနူးတွင် ပလပ်အင်ကို ပြပါ။"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Main Menu တွင် Plugin ကိုပြသပါ။"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Thumbpics ပြမလား။ စကားဝှက် ပြန်လည်စတင်ရန် လိုအပ်သည်။"
+
+msgid "Show thumpics?"
+msgstr "ပုံများကို ပြမလား။"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "လောလောဆယ်တွင် အကြိုက်ဆုံးစာရင်းကို မွှေနှောက်ပါ။"
+
+msgid "Streamlink(5002)"
+msgstr "တိုက်ရိုက်လင့်ခ်(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "သင်ထည့်လိုက်သော ပင်နံပါတ် မှားနေပါသည်။"
+
+msgid "Update"
+msgstr "အပ်ဒိတ်"
+
+msgid "Update Aborted!"
+msgstr "အပ်ဒိတ်ကို ဖျက်သိမ်းလိုက်ပါပြီ။"
+
+msgid "Upgrading..."
+msgstr "အဆင့်မြှင့်တင်နေသည်..."
+
+msgid "Wait please ..."
+msgstr "ကျေးဇူးပြုပြီး စောင့်ပါ..."
+
+msgid "You are already downloading!!!"
+msgstr "ဒေါင်းလုဒ်ဆွဲနေပြီ!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr ""

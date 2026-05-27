@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:49+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Georgian <(nothing)>\n"
+"Language: ka\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "დაამატეთ Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "ქეშის ყველა ნაკეცი ცარიელია!"
+
+msgid "Back"
+msgstr "უკან"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "შეამოწმეთ თქვენი Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "ნახეთ ფავორიტების სია..."
+
+msgid "Choose Directory"
+msgstr "აირჩიეთ დირექტორია"
+
+msgid "Choose Directory:"
+msgstr "აირჩიეთ დირექტორია:"
+
+msgid "Configure Service Player Reference"
+msgstr "სერვისის მოთამაშის მითითების კონფიგურაცია"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "პოზიციის საქაღალდის კონფიგურაცია დროებითი Thumbpics-ისთვის"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "კონფიგურირებული სიების თაიგულების პოზიციის კონფიგურაცია"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "გილოცავ! თქვენ უკვე გაქვთ უახლესი ვერსია..."
+
+msgid "Conversion Failed!!!"
+msgstr "კონვერტაცია ვერ მოხერხდა!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3-ის კონვერტაცია"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer-ის კონვერტაცია"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ჩამოტვირთეთ ვიდეო?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "გსურთ GSTREAMER-ის ბუკეტის კონვერტაცია?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "გსურთ გადაიყვანოთ ბუკეტი IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "გსურთ განახლების ( %s) ინსტალაცია ახლა?"
+
+msgid "Download Failed!!!"
+msgstr "ჩამოტვირთვა ვერ მოხერხდა!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "ჩამოტვირთეთ thumpics Player M3U-ში (ძალიან ნელია)?"
+
+msgid "Download thumpics?"
+msgstr "ჩამოტვირთეთ thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "ცარიელი სურათების ქეში"
+
+msgid "Enter Name"
+msgstr "შეიყვანეთ სახელი"
+
+msgid "Enter pin code"
+msgstr "შეიყვანეთ პინის კოდი"
+
+msgid "Error checking developer version: %s"
+msgstr "შეცდომა დეველოპერის ვერსიის შემოწმებისას: %s"
+
+msgid "Error checking version: %s"
+msgstr "შეცდომა ვერსიის შემოწმებისას: %s"
+
+msgid "Exit"
+msgstr "გასვლა"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "გაფილტრეთ M3U ბმულის რეგექსის ტიპი"
+
+msgid "Filter this category..."
+msgstr "ამ კატეგორიის გაფილტვრა..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "საქაღალდის ქეში Thumbpics-ისთვის:"
+
+msgid "Folder path %s"
+msgstr "საქაღალდის გზა %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "საქაღალდის გზა, რომელიც შეიცავს .m3u ფაილებს"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "აპარატურა (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa ფავორიტების სია ამოღებულია"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV თაიგულების ადგილმდებარეობა"
+
+msgid "Link in Extensions Menu:"
+msgstr "ბმული გაფართოებების მენიუში:"
+
+msgid "Link in Main Menu:"
+msgstr "ბმული მთავარ მენიუში:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u სიის საქაღალდე არ არის აღმოჩენილი!"
+
+msgid "Ok"
+msgstr "კარგი"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "მხოლოდ VOD ფილმი დაშვებულია თუ არა .ext Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "მოთამაშის საქაღალდის სია <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "გთხოვთ, შეიყვანოთ მშობლის კონტროლის პინ კოდი"
+
+msgid "Really close without saving the settings?"
+msgstr "ნამდვილად დაიხურება პარამეტრების შენახვის გარეშე?"
+
+msgid "Remove"
+msgstr "ამოღება"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "ამოიღეთ ყველა S.T.V.C.L. საყვარელი თაიგული?"
+
+msgid "Save"
+msgstr "შენახვა"
+
+msgid "Search"
+msgstr "ძიება"
+
+msgid "Select"
+msgstr "აირჩიეთ"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "აირჩიეთ ბუკეტი და დასამატებლად დააჭირეთ OK"
+
+msgid "Service Reference used %s"
+msgstr "სერვისის მითითება გამოყენებულია %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "სერვისების მოთამაშის მითითების ტიპი"
+
+msgid "Set On for line link m3u full"
+msgstr "დააყენეთ ჩართვა m3u სრული ბმულისთვის"
+
+msgid "Settings saved correctly!"
+msgstr "პარამეტრები შენახულია სწორად!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "დანამატის ჩვენება გაფართოებების მენიუში"
+
+msgid "Show Plugin in Main Menu"
+msgstr "მოდულის ჩვენება მთავარ მენიუში"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "თითების ჩვენება? საჭიროა Enigma გადატვირთვა"
+
+msgid "Show thumpics?"
+msgstr "აჩვენე ქუდები?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "მიმდინარეობს ფავორიტების სიის შერწყმა"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "თქვენ მიერ შეყვანილი პინ კოდი არასწორია."
+
+msgid "Update"
+msgstr "განახლება"
+
+msgid "Update Aborted!"
+msgstr "განახლება შეწყდა!"
+
+msgid "Upgrading..."
+msgstr "განახლება..."
+
+msgid "Wait please ..."
+msgstr "დაელოდე გთხოვ..."
+
+msgid "You are already downloading!!!"
+msgstr "თქვენ უკვე ტვირთავთ!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl კონფიგურაცია"

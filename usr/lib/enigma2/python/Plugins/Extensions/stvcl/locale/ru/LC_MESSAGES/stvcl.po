@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:13+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Добавить потоковое IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Все кэши пусты!"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Проверьте свой плагин конфигурации — Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Посмотрите список избранных..."
+
+msgid "Choose Directory"
+msgstr "Выберите каталог"
+
+msgid "Choose Directory:"
+msgstr "Выберите каталог:"
+
+msgid "Configure Service Player Reference"
+msgstr "Настройка справочника по сервисному проигрывателю"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Настроить папку расположения для временных миниатюр"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Настроить положение букетов преобразованных списков"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Поздравляю! У вас уже установлена ​​последняя версия..."
+
+msgid "Conversion Failed!!!"
+msgstr "Конвертация не удалась!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Конвертировать ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Конвертировать Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "СКАЧАТЬ ВИДЕО?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Хотите конвертировать букет GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Хотите конвертировать Букет IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Вы хотите установить обновление ( %s ) сейчас?"
+
+msgid "Download Failed!!!"
+msgstr "Загрузка не удалась!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Скачать Thumpics в Player M3U (очень медленно)?"
+
+msgid "Download thumpics?"
+msgstr "Скачать тампики?"
+
+msgid "Empty Pic Cache"
+msgstr "Очистить кэш изображений"
+
+msgid "Enter Name"
+msgstr "Введите имя"
+
+msgid "Enter pin code"
+msgstr "Введите пин-код"
+
+msgid "Error checking developer version: %s"
+msgstr "Ошибка проверки версии разработчика: %s"
+
+msgid "Error checking version: %s"
+msgstr "Ошибка проверки версии: %s"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Exteplayer3(5002)"
+msgstr "Экстеплеер3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Фильтровать тип регулярного выражения ссылки M3U"
+
+msgid "Filter this category..."
+msgstr "Отфильтровать эту категорию..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Кэш папки для миниатюр:"
+
+msgid "Folder path %s"
+msgstr "Путь к папке %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Путь к папке, содержащей файлы .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "Гстример(5001)"
+
+msgid "Hardware(1)"
+msgstr "Аппаратное обеспечение(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Список избранного HasBahCa удален."
+
+msgid "IPTV bouquets location"
+msgstr "Расположение букетов IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Ссылка в меню расширений:"
+
+msgid "Link in Main Menu:"
+msgstr "Ссылка в главном меню:"
+
+msgid "M3u list folder not detected!"
+msgstr "Папка списка M3u не обнаружена!"
+
+msgid "Ok"
+msgstr "Хорошо"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Разрешены только фильмы по запросу или нет. Фильтрация .ext!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Список папок плеера <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Пожалуйста, введите пин-код родительского контроля"
+
+msgid "Really close without saving the settings?"
+msgstr "Неужели закрыть без сохранения настроек?"
+
+msgid "Remove"
+msgstr "Удалять"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Удалить все S.T.V.C.L. Любимый букет?"
+
+msgid "Save"
+msgstr "Сохранять"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Select"
+msgstr "Выбирать"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Выберите букет и нажмите ОК, чтобы добавить."
+
+msgid "Service Reference used %s"
+msgstr "Ссылка на сервис используется %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "СервисMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Тип ссылки на проигрыватель сервисов"
+
+msgid "Set On for line link m3u full"
+msgstr "Установите значение «Вкл.» для линейного соединения m3u Full."
+
+msgid "Settings saved correctly!"
+msgstr "Настройки сохранены правильно!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Показать плагин в меню расширений"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Показать плагин в главном меню"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Показать миниатюры? Требуется перезапуск Энигмы"
+
+msgid "Show thumpics?"
+msgstr "Показать тампики?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Выполняется перемешивание списка избранного"
+
+msgid "Streamlink(5002)"
+msgstr "Стримлинк(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Введенный вами пин-код неверен."
+
+msgid "Update"
+msgstr "Обновлять"
+
+msgid "Update Aborted!"
+msgstr "Обновление прервано!"
+
+msgid "Upgrading..."
+msgstr "Обновление..."
+
+msgid "Wait please ..."
+msgstr "Подождите, пожалуйста..."
+
+msgid "You are already downloading!!!"
+msgstr "Вы уже скачиваете!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "Конфигурация stvcl"

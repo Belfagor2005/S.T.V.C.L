@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:57+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Latvian <translation-team-lv@lists.sourceforge.net>\n"
+"Language: lv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Pievienojiet straumēšanas IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Viss kešatmiņas pārsegs ir tukšs!"
+
+msgid "Back"
+msgstr "Atpakaļ"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Pārbaudiet savu konfigurācijas spraudni — Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Apskati favorītu sarakstu..."
+
+msgid "Choose Directory"
+msgstr "Izvēlieties direktoriju"
+
+msgid "Choose Directory:"
+msgstr "Izvēlieties direktoriju:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurējiet pakalpojuma atskaņotāja atsauci"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Konfigurējiet pozīcijas mapi pagaidu Thumbpics"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfigurējiet konvertēto sarakstu pušķu pozīciju"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Apsveicam! Jums jau ir jaunākā versija..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertēšana neizdevās!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Pārvērst ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Konvertējiet Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "LEJUPIELĀDĒT VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Vai vēlaties pārvērst pušķi GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Vai vēlaties pārvērst Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Vai vēlaties instalēt atjauninājumu ( %s ) tūlīt?"
+
+msgid "Download Failed!!!"
+msgstr "Lejupielāde neizdevās!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Lejupielādēt thumpics atskaņotājā M3U (ir ļoti lēns)?"
+
+msgid "Download thumpics?"
+msgstr "Lejupielādēt thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Iztukšojiet attēlu kešatmiņu"
+
+msgid "Enter Name"
+msgstr "Ievadiet Vārdu"
+
+msgid "Enter pin code"
+msgstr "Ievadiet PIN kodu"
+
+msgid "Error checking developer version: %s"
+msgstr "Pārbaudot izstrādātāja versiju, radās kļūda: %s"
+
+msgid "Error checking version: %s"
+msgstr "Pārbaudot versiju, radās kļūda: %s"
+
+msgid "Exit"
+msgstr "Iziet"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filtra M3U saites regulārā izteiksmes veids"
+
+msgid "Filter this category..."
+msgstr "Filtrēt šo kategoriju..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Mapju kešatmiņa Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Mapes ceļš %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Mapes ceļš, kurā ir .m3u faili"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Aparatūra (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa izlases saraksts ir noņemts"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV pušķu atrašanās vieta"
+
+msgid "Link in Extensions Menu:"
+msgstr "Saite paplašinājumu izvēlnē:"
+
+msgid "Link in Main Menu:"
+msgstr "Saite galvenajā izvēlnē:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u saraksta mape nav noteikta!"
+
+msgid "Ok"
+msgstr "Labi"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Atļauts vai nav atļauts tikai VOD filmas .ext Filtrēts!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Atskaņotāja mapju saraksts <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Lūdzu, ievadiet vecāku kontroles PIN kodu"
+
+msgid "Really close without saving the settings?"
+msgstr "Vai tiešām aizvērt, nesaglabājot iestatījumus?"
+
+msgid "Remove"
+msgstr "Noņemt"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Noņemiet visus S.T.V.C.L. Mīļākais pušķis?"
+
+msgid "Save"
+msgstr "Saglabāt"
+
+msgid "Search"
+msgstr "Meklēt"
+
+msgid "Select"
+msgstr "Izvēlieties"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Atlasiet pušķi un nospiediet OK, lai pievienotu"
+
+msgid "Service Reference used %s"
+msgstr "Izmantota pakalpojuma atsauce %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Pakalpojumi Spēlētāja atsauces veids"
+
+msgid "Set On for line link m3u full"
+msgstr "Iestatīt On, lai līnijas saite m3u pilna"
+
+msgid "Settings saved correctly!"
+msgstr "Iestatījumi saglabāti pareizi!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Rādīt spraudni paplašinājumu izvēlnē"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Rādīt spraudni galvenajā izvēlnē"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Parādīt Thumbpics? Nepieciešama Enigma restartēšana"
+
+msgid "Show thumpics?"
+msgstr "Rādīt tumbus?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Notiek izlases saraksta jaukšana"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Ievadītais PIN kods ir nepareizs."
+
+msgid "Update"
+msgstr "Atjaunināt"
+
+msgid "Update Aborted!"
+msgstr "Atjaunināšana pārtraukta!"
+
+msgid "Upgrading..."
+msgstr "Notiek jaunināšana..."
+
+msgid "Wait please ..."
+msgstr "Pagaidi lūdzu..."
+
+msgid "You are already downloading!!!"
+msgstr "Jūs jau lejupielādējat!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr "stvcl konfigurācija"

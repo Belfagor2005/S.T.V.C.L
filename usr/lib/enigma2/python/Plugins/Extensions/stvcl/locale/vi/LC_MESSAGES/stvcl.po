@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:31+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Vietnamese <translation-team-vi@lists.sourceforge.net>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Add Stream IPTV"
+msgstr "Thêm luồng IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Tất cả các nếp gấp bộ đệm đều trống!"
+
+msgid "Back"
+msgstr "Mặt sau"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Kiểm tra Plugin cấu hình của bạn - Phim đường dẫn"
+
+msgid "Check out the favorites list ..."
+msgstr "Kiểm tra danh sách yêu thích ..."
+
+msgid "Choose Directory"
+msgstr "Chọn thư mục"
+
+msgid "Choose Directory:"
+msgstr "Chọn thư mục:"
+
+msgid "Configure Service Player Reference"
+msgstr "Định cấu hình tham chiếu trình phát dịch vụ"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Định cấu hình thư mục vị trí cho Thumbpics tạm thời"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Định cấu hình vị trí của các bó hoa trong danh sách đã chuyển đổi"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Xin chúc mừng! Bạn đã có phiên bản mới nhất..."
+
+msgid "Conversion Failed!!!"
+msgstr "Chuyển đổi không thành công!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Chuyển đổi ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Chuyển đổi Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "TẢI XUỐNG VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Bạn có muốn Chuyển đổi Bó hoa GSTREAMER không?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Bạn có muốn chuyển đổi Bó hoa IPTV không?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Bạn có muốn cài đặt bản cập nhật ( %s ) ngay bây giờ không?"
+
+msgid "Download Failed!!!"
+msgstr "Tải xuống không thành công!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Tải xuống thumpics trong Player M3U (rất chậm)?"
+
+msgid "Download thumpics?"
+msgstr "Tải về thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Bộ đệm ảnh trống"
+
+msgid "Enter Name"
+msgstr "Nhập tên"
+
+msgid "Enter pin code"
+msgstr "Nhập mã pin"
+
+msgid "Error checking developer version: %s"
+msgstr "Lỗi kiểm tra phiên bản nhà phát triển: %s"
+
+msgid "Error checking version: %s"
+msgstr "Lỗi kiểm tra phiên bản: %s"
+
+msgid "Exit"
+msgstr "Ra"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Lọc loại biểu thức chính quy liên kết M3U"
+
+msgid "Filter this category..."
+msgstr "Lọc danh mục này..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Bộ đệm thư mục cho hình thu nhỏ:"
+
+msgid "Folder path %s"
+msgstr "Đường dẫn thư mục %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Đường dẫn thư mục chứa file .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "Trình truyền phát(5001)"
+
+msgid "Hardware(1)"
+msgstr "Phần cứng(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Danh sách yêu thích HasBahCa đã bị xóa"
+
+msgid "IPTV bouquets location"
+msgstr "Vị trí bó hoa IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Liên kết trong Menu Tiện ích mở rộng:"
+
+msgid "Link in Main Menu:"
+msgstr "Liên kết trong Menu chính:"
+
+msgid "M3u list folder not detected!"
+msgstr "Thư mục danh sách M3u không được phát hiện!"
+
+msgid "Ok"
+msgstr "Được rồi"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Chỉ cho phép Phim VOD hoặc không được lọc .ext!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Danh sách thư mục trình phát <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Vui lòng nhập mã pin kiểm soát của phụ huynh"
+
+msgid "Really close without saving the settings?"
+msgstr "Thực sự đóng mà không lưu cài đặt?"
+
+msgid "Remove"
+msgstr "Di dời"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Loại bỏ tất cả S.T.V.C.L. Bó hoa yêu thích?"
+
+msgid "Save"
+msgstr "Cứu"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Select"
+msgstr "Lựa chọn"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Chọn Bó hoa và nhấn OK để thêm"
+
+msgid "Service Reference used %s"
+msgstr "Tham chiếu dịch vụ được sử dụng %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "Dịch vụMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Loại tham chiếu của người chơi dịch vụ"
+
+msgid "Set On for line link m3u full"
+msgstr "Bật cho đường link m3u full"
+
+msgid "Settings saved correctly!"
+msgstr "Cài đặt đã được lưu chính xác!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Hiển thị Plugin trong Menu Tiện ích mở rộng"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Hiển thị Plugin trong Menu chính"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Hiển thị hình thu nhỏ ? Yêu cầu khởi động lại Enigma"
+
+msgid "Show thumpics?"
+msgstr "Hiển thị tiếng đập mạnh?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Đang xáo trộn danh sách yêu thích"
+
+msgid "Streamlink(5002)"
+msgstr "Liên kết truyền phát(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Mã pin bạn nhập sai."
+
+msgid "Update"
+msgstr "Cập nhật"
+
+msgid "Update Aborted!"
+msgstr "Cập nhật bị hủy bỏ!"
+
+msgid "Upgrading..."
+msgstr "Đang nâng cấp..."
+
+msgid "Wait please ..."
+msgstr "Xin vui lòng chờ đợi..."
+
+msgid "You are already downloading!!!"
+msgstr "Bạn đã tải xuống rồi!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "cấu hình stvcl"

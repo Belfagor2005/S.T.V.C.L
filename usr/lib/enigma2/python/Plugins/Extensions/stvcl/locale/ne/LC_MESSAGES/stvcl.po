@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:04+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Nepali <translation-team-ne@lists.sourceforge.net>\n"
+"Language: ne\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "स्ट्रिम IPTV थप्नुहोस्"
+
+msgid "All cache fold are empty!"
+msgstr "सबै क्यास फोल्ड खाली छन्!"
+
+msgid "Back"
+msgstr "पछाडि"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "आफ्नो कन्फिग प्लगइन जाँच गर्नुहोस् - पथ चलचित्र"
+
+msgid "Check out the favorites list ..."
+msgstr "मनपर्ने सूची हेर्नुहोस् ..."
+
+msgid "Choose Directory"
+msgstr "निर्देशिका छान्नुहोस्"
+
+msgid "Choose Directory:"
+msgstr "निर्देशिका छान्नुहोस्:"
+
+msgid "Configure Service Player Reference"
+msgstr "सेवा प्लेयर सन्दर्भ कन्फिगर गर्नुहोस्"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "अस्थायी थम्बपिक्सको लागि स्थिति फोल्डर कन्फिगर गर्नुहोस्"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "रूपान्तरित सूचीहरूको गुलदस्ताको स्थिति कन्फिगर गर्नुहोस्"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "बधाई छ! तपाईंसँग पहिले नै नवीनतम संस्करण छ..."
+
+msgid "Conversion Failed!!!"
+msgstr "रूपान्तरण असफल !!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3 लाई रूपान्तरण गर्नुहोस्"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer लाई रूपान्तरण गर्नुहोस्"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "भिडियो डाउनलोड गर्ने?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "के तपाई Bouquet GSTREAMER लाई रूपान्तरण गर्न चाहनुहुन्छ?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "तपाईं गुलदस्ता IPTV रूपान्तरण गर्न चाहनुहुन्छ?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "के तपाई अहिले अपडेट (%s) स्थापना गर्न चाहनुहुन्छ?"
+
+msgid "Download Failed!!!"
+msgstr "डाउनलोड असफल !!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "प्लेयर M3U मा थम्पिक्स डाउनलोड गर्नुहोस् (धेरै ढिलो छ)?"
+
+msgid "Download thumpics?"
+msgstr "थम्पिक्स डाउनलोड गर्ने?"
+
+msgid "Empty Pic Cache"
+msgstr "खाली Pic क्यास"
+
+msgid "Enter Name"
+msgstr "नाम प्रविष्ट गर्नुहोस्"
+
+msgid "Enter pin code"
+msgstr "पिन कोड प्रविष्ट गर्नुहोस्"
+
+msgid "Error checking developer version: %s"
+msgstr "विकासकर्ता संस्करण जाँच गर्दा त्रुटि: %s"
+
+msgid "Error checking version: %s"
+msgstr "संस्करण जाँच गर्दा त्रुटि: %s"
+
+msgid "Exit"
+msgstr "बाहिर निस्कनुहोस्"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "फिल्टर M3U लिङ्क regex प्रकार"
+
+msgid "Filter this category..."
+msgstr "यो श्रेणी फिल्टर गर्नुहोस्..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "थम्बपिक्सका लागि फोल्डर क्यास:"
+
+msgid "Folder path %s"
+msgstr "फोल्डर मार्ग %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u फाइलहरू समावेश भएको फोल्डर मार्ग"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "हार्डवेयर(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa मनपर्ने सूची हटाइयो"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV गुलदस्ता स्थान"
+
+msgid "Link in Extensions Menu:"
+msgstr "विस्तार मेनुमा लिङ्क:"
+
+msgid "Link in Main Menu:"
+msgstr "मुख्य मेनुमा लिङ्क:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u सूची फोल्डर पत्ता लागेन!"
+
+msgid "Ok"
+msgstr "ठीक छ"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD चलचित्र मात्र अनुमति छ वा छैन। ext फिल्टर गरिएको छ !!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "प्लेयर फोल्डर सूची <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "कृपया अभिभावकीय नियन्त्रण पिन कोड प्रविष्ट गर्नुहोस्"
+
+msgid "Really close without saving the settings?"
+msgstr "सेटिङ्हरू बचत नगरी साँच्चै बन्द गर्ने हो?"
+
+msgid "Remove"
+msgstr "हटाउनुहोस्"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "सबै S.T.V.C.L हटाउनुहोस् मनपर्ने गुलदस्ता?"
+
+msgid "Save"
+msgstr "बचत गर्नुहोस्"
+
+msgid "Search"
+msgstr "खोज्नुहोस्"
+
+msgid "Select"
+msgstr "चयन गर्नुहोस्"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "गुलदस्ता चयन गर्नुहोस् र थप्न ठीक थिच्नुहोस्"
+
+msgid "Service Reference used %s"
+msgstr "सेवा सन्दर्भ %s प्रयोग गरियो"
+
+msgid "ServiceMp3(4097)"
+msgstr "सेवाएमपी३(४०९७)"
+
+msgid "Services Player Reference type"
+msgstr "सेवा प्लेयर सन्दर्भ प्रकार"
+
+msgid "Set On for line link m3u full"
+msgstr "लाइन लिङ्क m3u पूर्णको लागि सेट गर्नुहोस्"
+
+msgid "Settings saved correctly!"
+msgstr "सेटिङहरू सही रूपमा सुरक्षित गरियो!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "विस्तार मेनुमा प्लगइन देखाउनुहोस्"
+
+msgid "Show Plugin in Main Menu"
+msgstr "मुख्य मेनुमा प्लगइन देखाउनुहोस्"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "थम्बपिक्स देखाउनुहोस्? एनिग्मा रिस्टार्ट आवश्यक छ"
+
+msgid "Show thumpics?"
+msgstr "थम्पिक्स देखाउने?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "प्रगतिमा मनपर्ने सूची फेरबदल"
+
+msgid "Streamlink(5002)"
+msgstr "स्ट्रिमलिंक(५००२)"
+
+msgid "The pin code you entered is wrong."
+msgstr "तपाईंले प्रविष्ट गर्नुभएको पिन कोड गलत छ।"
+
+msgid "Update"
+msgstr "अपडेट गर्नुहोस्"
+
+msgid "Update Aborted!"
+msgstr "अपडेट रद्द गरियो!"
+
+msgid "Upgrading..."
+msgstr "स्तरवृद्धि गर्दै..."
+
+msgid "Wait please ..."
+msgstr "कृपया प्रतीक्षा गर्नुहोस् ..."
+
+msgid "You are already downloading!!!"
+msgstr "तपाईं पहिले नै डाउनलोड गर्दै हुनुहुन्छ !!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri(८१९३)"
+
+msgid "stvcl Config"
+msgstr "stvcl कन्फिगरेसन"

@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:38+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Scottish Gaelic <fios@foramnagaidhlig.net>\n"
+"Language: gd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Cuir ris Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Tha a h-uile pasgan tasgadan falamh!"
+
+msgid "Back"
+msgstr "Air ais"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Thoir sùil a-steach don Plugin Config agad - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Thoir sùil air an liosta as fheàrr leat ..."
+
+msgid "Choose Directory"
+msgstr "Tagh Directory"
+
+msgid "Choose Directory:"
+msgstr "Tagh Directory:"
+
+msgid "Configure Service Player Reference"
+msgstr "Dèan rèiteachadh air iomradh cluicheadair seirbheis"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Dèan rèiteachadh air pasgan suidheachaidh airson Thumbpics sealach"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Dèan rèiteachadh air suidheachadh bouquets nan liostaichean tionndaidh"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Mealaibh ur naidheachd! Tha an tionndadh as ùire agad mu thràth ..."
+
+msgid "Conversion Failed!!!"
+msgstr "Dh'fhàillig an tionndadh !!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Tionndadh ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Tionndadh Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "Luchdaich sìos bhidio?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "A bheil thu airson Bouquet GSTREAMER a thionndadh?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "A bheil thu airson Bouquet IPTV a thionndadh?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "A bheil thu airson ùrachadh ( %s ) a stàladh an-dràsta?"
+
+msgid "Download Failed!!!"
+msgstr "Dh'fhàillig an luchdachadh sìos !!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Luchdaich sìos thumpics ann an Player M3U (gu math slaodach)?"
+
+msgid "Download thumpics?"
+msgstr "Luchdaich sìos thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Cache Pic falamh"
+
+msgid "Enter Name"
+msgstr "Cuir a-steach Ainm"
+
+msgid "Enter pin code"
+msgstr "Cuir a-steach còd pin"
+
+msgid "Error checking developer version: %s"
+msgstr "Mearachd a' sgrùdadh tionndadh an leasaiche: %s"
+
+msgid "Error checking version: %s"
+msgstr "Thachair mearachd le sgrùdadh an tionndaidh: %s"
+
+msgid "Exit"
+msgstr "Ar-a-mach"
+
+msgid "Exteplayer3(5002)"
+msgstr "Cluicheadair 3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filter ceangal M3U seòrsa regex"
+
+msgid "Filter this category..."
+msgstr "Criathraich an roinn seo..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Cache Folder airson Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Slighe pasgan %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Slighe fillte anns a bheil na faidhlichean .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Bathar-cruaidh(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Chaidh Liosta Favorites HasBahCa a thoirt air falbh"
+
+msgid "IPTV bouquets location"
+msgstr "Àite bouquets IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Ceangal sa chlàr-taice leudachain:"
+
+msgid "Link in Main Menu:"
+msgstr "Ceangal sa phrìomh chlàr:"
+
+msgid "M3u list folder not detected!"
+msgstr "Cha deach pasgan liosta M3u a lorg!"
+
+msgid "Ok"
+msgstr "Ceart gu leòr"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Is e dìreach film VOD a tha ceadaichte no nach eil .ext Filtered !!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Liosta pasgan cluicheadair <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Feuch an cuir thu a-steach còd prìne smachd phàrantan"
+
+msgid "Really close without saving the settings?"
+msgstr "Dìreach dùin gun na roghainnean a shàbhaladh?"
+
+msgid "Remove"
+msgstr "Thoir air falbh"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Thoir air falbh a h-uile S.T.V.C.L. Bouquet as fheàrr leat?"
+
+msgid "Save"
+msgstr "Sàbhail"
+
+msgid "Search"
+msgstr "Rannsaich"
+
+msgid "Select"
+msgstr "Tagh"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Tagh am Bouquet agus brùth OK gus a chur ris"
+
+msgid "Service Reference used %s"
+msgstr "Chaidh iomradh seirbheis a chleachdadh %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "Seirbheis Mp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Seòrsa iomraidh cluicheadair seirbheis"
+
+msgid "Set On for line link m3u full"
+msgstr "Suidhich air adhart airson ceangal loidhne m3u làn"
+
+msgid "Settings saved correctly!"
+msgstr "Suidhichidhean air an sàbhaladh gu ceart!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Seall plugan ann an clàr leudachain"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Seall Plugin sa phrìomh chlàr"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Seall Thumbpics? Enigma ath-thòiseachadh a dhìth"
+
+msgid "Show thumpics?"
+msgstr "Seall thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Suidhich an liosta as fheàrr leotha a’ dol air adhart"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Tha an còd prìne a chuir thu a-steach ceàrr."
+
+msgid "Update"
+msgstr "Ùraich"
+
+msgid "Update Aborted!"
+msgstr "Ùrachadh air a sguireadh!"
+
+msgid "Upgrading..."
+msgstr "Ag ùrachadh..."
+
+msgid "Wait please ..."
+msgstr "Fuirich mas e do thoil e ..."
+
+msgid "You are already downloading!!!"
+msgstr "Tha thu mu thràth a’ luchdachadh sìos !!!"
+
+msgid "eServiceUri(8193)"
+msgstr "e-sheirbheis Uri(8193)"
+
+msgid "stvcl Config"
+msgstr "Stvcl Config"

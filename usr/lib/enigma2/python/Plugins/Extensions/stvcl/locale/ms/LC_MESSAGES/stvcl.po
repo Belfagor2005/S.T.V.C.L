@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:00+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Malay <translation-team-ms@lists.sourceforge.net>\n"
+"Language: ms\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Tambah Strim IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Semua lipatan cache kosong!"
+
+msgid "Back"
+msgstr "belakang"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Semak dalam Config Plugin - Path Movie anda"
+
+msgid "Check out the favorites list ..."
+msgstr "Semak senarai kegemaran..."
+
+msgid "Choose Directory"
+msgstr "Pilih Direktori"
+
+msgid "Choose Directory:"
+msgstr "Pilih Direktori:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurasi Rujukan Pemain Perkhidmatan"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Konfigurasikan folder kedudukan untuk Thumbpics sementara"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfigurasikan kedudukan jambangan senarai yang ditukar"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "tahniah! Anda sudah mempunyai versi terkini..."
+
+msgid "Conversion Failed!!!"
+msgstr "Penukaran Gagal!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Tukar ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Tukar Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "MUAT TURUN VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Adakah anda mahu Tukar Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Adakah anda ingin Menukar IPTV Bouquet?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Adakah anda mahu memasang kemas kini ( %s ) sekarang?"
+
+msgid "Download Failed!!!"
+msgstr "Muat turun Gagal!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Muat turun thumpics dalam Player M3U (sangat Lambat)?"
+
+msgid "Download thumpics?"
+msgstr "Muat turun thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Kosongkan Cache Gambar"
+
+msgid "Enter Name"
+msgstr "Masukkan Nama"
+
+msgid "Enter pin code"
+msgstr "Masukkan kod pin"
+
+msgid "Error checking developer version: %s"
+msgstr "Ralat semasa menyemak versi pembangun: %s"
+
+msgid "Error checking version: %s"
+msgstr "Ralat menyemak versi: %s"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Tapis jenis regex pautan M3U"
+
+msgid "Filter this category..."
+msgstr "Tapis kategori ini..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Cache Folder untuk Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Laluan folder %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Laluan folder yang mengandungi fail .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Perkakasan(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Senarai Kegemaran HasBahCa telah dialih keluar"
+
+msgid "IPTV bouquets location"
+msgstr "Lokasi jambangan IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Pautan dalam Menu Sambungan:"
+
+msgid "Link in Main Menu:"
+msgstr "Pautan dalam Menu Utama:"
+
+msgid "M3u list folder not detected!"
+msgstr "Folder senarai M3u tidak dikesan!"
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Hanya Filem VOD dibenarkan atau tidak .ext Ditapis!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Senarai folder pemain <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Sila masukkan kod pin kawalan ibu bapa"
+
+msgid "Really close without saving the settings?"
+msgstr "Benar-benar tutup tanpa menyimpan tetapan?"
+
+msgid "Remove"
+msgstr "Alih keluar"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Alih keluar semua S.T.V.C.L. Bouquet Kegemaran ?"
+
+msgid "Save"
+msgstr "Jimat"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Pilih Bouquet dan tekan OK untuk menambah"
+
+msgid "Service Reference used %s"
+msgstr "Rujukan Perkhidmatan digunakan %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Jenis Rujukan Pemain Perkhidmatan"
+
+msgid "Set On for line link m3u full"
+msgstr "Tetapkan Hidupkan untuk pautan talian m3u penuh"
+
+msgid "Settings saved correctly!"
+msgstr "Tetapan disimpan dengan betul!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Tunjukkan Pemalam dalam Menu Sambungan"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Tunjukkan Pemalam dalam Menu Utama"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Tunjukkan Thumbpics ? Enigma dimulakan semula diperlukan"
+
+msgid "Show thumpics?"
+msgstr "Tunjukkan gemuruh?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Kocok Senarai Kegemaran dalam Proses"
+
+msgid "Streamlink(5002)"
+msgstr "Pautan strim(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Kod pin yang anda masukkan salah."
+
+msgid "Update"
+msgstr "Kemas kini"
+
+msgid "Update Aborted!"
+msgstr "Kemas Kini Dibatalkan!"
+
+msgid "Upgrading..."
+msgstr "Menaik taraf..."
+
+msgid "Wait please ..."
+msgstr "Tolong tunggu..."
+
+msgid "You are already downloading!!!"
+msgstr "Anda sudah memuat turun!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

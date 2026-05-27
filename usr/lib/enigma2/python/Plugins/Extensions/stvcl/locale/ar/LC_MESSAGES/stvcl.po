@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:18+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Arabic <(nothing)>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "إضافة تيار IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "كل طيات ذاكرة التخزين المؤقت فارغة!"
+
+msgid "Back"
+msgstr "خلف"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "تحقق من مكون التهيئة الإضافي - مسار الفيلم"
+
+msgid "Check out the favorites list ..."
+msgstr "تعرف على قائمة المفضلة..."
+
+msgid "Choose Directory"
+msgstr "اختر الدليل"
+
+msgid "Choose Directory:"
+msgstr "اختر الدليل:"
+
+msgid "Configure Service Player Reference"
+msgstr "تكوين مرجع مشغل الخدمة"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "قم بتكوين مجلد الموضع لـ Thumbpics المؤقتة"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "تكوين موضع باقات القوائم المحولة"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "تهاني! لديك بالفعل الإصدار الأخير ..."
+
+msgid "Conversion Failed!!!"
+msgstr "فشل التحويل !!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "تحويل ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "تحويل جي ستريمر"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "هل تريد تنزيل الفيديو؟"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "هل تريد تحويل باقة GSTREAMER؟"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "هل تريد تحويل باقة IPTV ؟"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "هل تريد تثبيت التحديث ( %s ) الآن؟"
+
+msgid "Download Failed!!!"
+msgstr "فشل التحميل!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "هل تريد تنزيل thumpics في Player M3U (بطيء جدًا)؟"
+
+msgid "Download thumpics?"
+msgstr "تحميل ثومكس؟"
+
+msgid "Empty Pic Cache"
+msgstr "ذاكرة التخزين المؤقت للصور فارغة"
+
+msgid "Enter Name"
+msgstr "أدخل الاسم"
+
+msgid "Enter pin code"
+msgstr "أدخل الرمز السري"
+
+msgid "Error checking developer version: %s"
+msgstr "خطأ في التحقق من إصدار المطور: %s"
+
+msgid "Error checking version: %s"
+msgstr "خطأ في التحقق من الإصدار: %s"
+
+msgid "Exit"
+msgstr "مخرج"
+
+msgid "Exteplayer3(5002)"
+msgstr "اكستيبلاير3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "قم بتصفية نوع regex لرابط M3U"
+
+msgid "Filter this category..."
+msgstr "تصفية هذه الفئة..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "ذاكرة التخزين المؤقت للمجلد لـ Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "مسار المجلد %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "مسار المجلد الذي يحتوي على ملفات .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "جي ستريمر(5001)"
+
+msgid "Hardware(1)"
+msgstr "الأجهزة(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "تمت إزالة قائمة المفضلة HasBahCa"
+
+msgid "IPTV bouquets location"
+msgstr "موقع باقات IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "الرابط في قائمة الإضافات:"
+
+msgid "Link in Main Menu:"
+msgstr "الرابط في القائمة الرئيسية:"
+
+msgid "M3u list folder not detected!"
+msgstr "لم يتم الكشف عن مجلد قائمة M3u!"
+
+msgid "Ok"
+msgstr "نعم"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "يُسمح فقط بفيلم VOD أم لا. تمت تصفيته !!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "قائمة مجلدات المشغل <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "الرجاء إدخال الرقم السري الخاص بالرقابة الأبوية"
+
+msgid "Really close without saving the settings?"
+msgstr "إغلاق حقا دون حفظ الإعدادات؟"
+
+msgid "Remove"
+msgstr "يزيل"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "قم بإزالة كافة S.T.V.C.L. الباقة المفضلة؟"
+
+msgid "Save"
+msgstr "يحفظ"
+
+msgid "Search"
+msgstr "يبحث"
+
+msgid "Select"
+msgstr "يختار"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "حدد الباقة واضغط على موافق للإضافة"
+
+msgid "Service Reference used %s"
+msgstr "مرجع الخدمة المستخدم %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "خدمةMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "نوع مرجع مشغل الخدمات"
+
+msgid "Set On for line link m3u full"
+msgstr "اضبط على خط الارتباط m3u الكامل"
+
+msgid "Settings saved correctly!"
+msgstr "تم حفظ الإعدادات بشكل صحيح!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "إظهار البرنامج المساعد في قائمة الملحقات"
+
+msgid "Show Plugin in Main Menu"
+msgstr "إظهار البرنامج المساعد في القائمة الرئيسية"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "إظهار الإبهام؟ يلزم إعادة تشغيل اللغز"
+
+msgid "Show thumpics?"
+msgstr "إظهار الضربات؟"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "خلط القائمة المفضلة قيد التقدم"
+
+msgid "Streamlink(5002)"
+msgstr "ستريملينك(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "الرقم السري الذي أدخلته خاطئ."
+
+msgid "Update"
+msgstr "تحديث"
+
+msgid "Update Aborted!"
+msgstr "تم إحباط التحديث!"
+
+msgid "Upgrading..."
+msgstr "جارٍ الترقية..."
+
+msgid "Wait please ..."
+msgstr "انتظر من فضلك..."
+
+msgid "You are already downloading!!!"
+msgstr "أنت تقوم بالتحميل بالفعل !!!"
+
+msgid "eServiceUri(8193)"
+msgstr "الخدمة الإلكترونية(8193)"
+
+msgid "stvcl Config"
+msgstr "التكوين ستفكل"

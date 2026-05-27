@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:16+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Afrikaans <i18n@af.org.za>\n"
+"Language: af\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Voeg Stream IPTV by"
+
+msgid "All cache fold are empty!"
+msgstr "Alle kasvou is leeg!"
+
+msgid "Back"
+msgstr "Terug"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Kyk in jou Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Kyk na die gunsteling lys ..."
+
+msgid "Choose Directory"
+msgstr "Kies Gids"
+
+msgid "Choose Directory:"
+msgstr "Kies gids:"
+
+msgid "Configure Service Player Reference"
+msgstr "Stel diensspelerverwysing op"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Stel posisielêer op vir tydelike duimprente"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Stel die posisie van die ruikers van die omgeskakelde lyste op"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Geluk! Jy het reeds die nuutste weergawe..."
+
+msgid "Conversion Failed!!!"
+msgstr "Omskakeling het misluk!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Skakel ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Skakel Gstreamer om"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "LAAI VIDEO AF?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Wil jy Bouquet GSTREAMER omskep?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Wil u Bouquet IPTV omskakel?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Wil jy nou opdatering ( %s ) installeer?"
+
+msgid "Download Failed!!!"
+msgstr "Aflaai het misluk!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Laai thumpics af in Player M3U (is baie stadig)?"
+
+msgid "Download thumpics?"
+msgstr "Laai thumpics af?"
+
+msgid "Empty Pic Cache"
+msgstr "Leë fotokas"
+
+msgid "Enter Name"
+msgstr "Voer Naam in"
+
+msgid "Enter pin code"
+msgstr "Voer pinkode in"
+
+msgid "Error checking developer version: %s"
+msgstr "Kon nie ontwikkelaarweergawe nagaan nie: %s"
+
+msgid "Error checking version: %s"
+msgstr "Kon nie weergawe nagaan nie: %s"
+
+msgid "Exit"
+msgstr "Verlaat"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filter M3U skakel regex tipe"
+
+msgid "Filter this category..."
+msgstr "Filtreer hierdie kategorie..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Vouerkas vir duimprente:"
+
+msgid "Folder path %s"
+msgstr "Vouerpad %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Vouerpad wat die .m3u-lêers bevat"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Hardeware (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa-gunstelingelys is verwyder"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV ruikers ligging"
+
+msgid "Link in Extensions Menu:"
+msgstr "Skakel in Uitbreidingskieslys:"
+
+msgid "Link in Main Menu:"
+msgstr "Skakel in hoofkieslys:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u lys gids nie bespeur nie!"
+
+msgid "Ok"
+msgstr "Goed"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Slegs VOD-fliek toegelaat of nie .ext gefiltreer nie!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Spelergidslys <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Voer asseblief die ouerkontrole-pinkode in"
+
+msgid "Really close without saving the settings?"
+msgstr "Regtig toe sonder om die instellings te stoor?"
+
+msgid "Remove"
+msgstr "Verwyder"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Verwyder alle S.T.V.C.L. Gunsteling boeket?"
+
+msgid "Save"
+msgstr "Stoor"
+
+msgid "Search"
+msgstr "Soek"
+
+msgid "Select"
+msgstr "Kies"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Kies die boeket en druk OK om by te voeg"
+
+msgid "Service Reference used %s"
+msgstr "Diensverwysing gebruik %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "DiensMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Dienste Speler Verwysing tipe"
+
+msgid "Set On for line link m3u full"
+msgstr "Stel Aan vir lynskakel m3u vol"
+
+msgid "Settings saved correctly!"
+msgstr "Instellings is korrek gestoor!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Wys inprop in uitbreidingskieslys"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Wys inprop in hoofkieslys"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Wys duimprente? Enigma herbegin vereis"
+
+msgid "Show thumpics?"
+msgstr "Wys thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Skommel gunstelinglys aan die gang"
+
+msgid "Streamlink(5002)"
+msgstr "Stroomskakel (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Die pinkode wat jy ingevoer het, is verkeerd."
+
+msgid "Update"
+msgstr "Dateer op"
+
+msgid "Update Aborted!"
+msgstr "Opdatering gestop!"
+
+msgid "Upgrading..."
+msgstr "Gradeer tans op …"
+
+msgid "Wait please ..."
+msgstr "Wag asseblief..."
+
+msgid "You are already downloading!!!"
+msgstr "Jy laai reeds af!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

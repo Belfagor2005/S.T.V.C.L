@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Amharic\n"
+"Language: am\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "ዥረት IPTV ያክሉ"
+
+msgid "All cache fold are empty!"
+msgstr "ሁሉም የመሸጎጫ እጥፎች ባዶ ናቸው!"
+
+msgid "Back"
+msgstr "ተመለስ"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "የእርስዎን Config Plugin - Path Movie ይመልከቱ"
+
+msgid "Check out the favorites list ..."
+msgstr "የተወዳጆችን ዝርዝር ይመልከቱ..."
+
+msgid "Choose Directory"
+msgstr "ማውጫ ይምረጡ"
+
+msgid "Choose Directory:"
+msgstr "ማውጫ ይምረጡ፡-"
+
+msgid "Configure Service Player Reference"
+msgstr "የአገልግሎት ማጫወቻ ማጣቀሻን ያዋቅሩ"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "ለጊዜያዊ Thumbpics የቦታ አቃፊን ያዋቅሩ"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "የተቀየሩ ዝርዝሮች እቅፍ አበባዎችን አቀማመጥ ያዋቅሩ"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "እንኳን ደስ ያለህ! ቀድሞውንም የቅርብ ጊዜ ስሪት አለህ..."
+
+msgid "Conversion Failed!!!"
+msgstr "መለወጥ አልተሳካም !!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3ን ቀይር"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamer ቀይር"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ቪዲዮ አውርድ?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Bouquet GSTREAMERን መለወጥ ይፈልጋሉ?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Bouquet IPTV ን መቀየር ይፈልጋሉ?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "ማሻሻያ (%s) አሁን መጫን ይፈልጋሉ?"
+
+msgid "Download Failed!!!"
+msgstr "ማውረድ አልተሳካም !!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "thumpics በተጫዋች M3U አውርድ (በጣም ቀርፋፋ ነው)?"
+
+msgid "Download thumpics?"
+msgstr "thumpics አውርድ?"
+
+msgid "Empty Pic Cache"
+msgstr "ባዶ የምስል መሸጎጫ"
+
+msgid "Enter Name"
+msgstr "ስም አስገባ"
+
+msgid "Enter pin code"
+msgstr "ፒን ኮድ አስገባ"
+
+msgid "Error checking developer version: %s"
+msgstr "የገንቢ ሥሪትን መፈተሽ ላይ ስህተት፡%s"
+
+msgid "Error checking version: %s"
+msgstr "ስሪቱን በመፈተሽ ላይ ስህተት፡%s"
+
+msgid "Exit"
+msgstr "ውጣ"
+
+msgid "Exteplayer3(5002)"
+msgstr "ኤክስቴፕለር 3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "ማጣሪያ M3U አገናኝ regex አይነት"
+
+msgid "Filter this category..."
+msgstr "ይህን ምድብ አጣራ..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "ለTumbpics የአቃፊ መሸጎጫ፡"
+
+msgid "Folder path %s"
+msgstr "የአቃፊ መንገድ %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "የ.m3u ፋይሎችን የያዘ የአቃፊ መንገድ"
+
+msgid "Gstreamer(5001)"
+msgstr "ጂስትሬተር (5001)"
+
+msgid "Hardware(1)"
+msgstr "ሃርድዌር(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa ተወዳጆች ዝርዝር ተወግዷል"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV እቅፍ አበባዎች አካባቢ"
+
+msgid "Link in Extensions Menu:"
+msgstr "በቅጥያዎች ምናሌ ውስጥ ያለው አገናኝ፡-"
+
+msgid "Link in Main Menu:"
+msgstr "በዋናው ሜኑ ውስጥ ያለው አገናኝ፡-"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u ዝርዝር አቃፊ አልተገኘም!"
+
+msgid "Ok"
+msgstr "እሺ"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "ቪኦዲ ፊልም ብቻ ይፈቀዳል ወይም አይፈቀድም .ext ተጣርቶ !!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "የተጫዋች አቃፊ ዝርዝር <.m3u>፡"
+
+msgid "Please enter the parental control pin code"
+msgstr "እባክዎ የወላጅ ቁጥጥር ፒን ኮድ ያስገቡ"
+
+msgid "Really close without saving the settings?"
+msgstr "ቅንብሮቹን ሳታስቀምጥ በእርግጥ ይዘጋል?"
+
+msgid "Remove"
+msgstr "አስወግድ"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "ሁሉንም S.T.V.C.L አስወግድ. ተወዳጅ ቡኬት?"
+
+msgid "Save"
+msgstr "አስቀምጥ"
+
+msgid "Search"
+msgstr "ፈልግ"
+
+msgid "Select"
+msgstr "ይምረጡ"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "ቡኬቱን ይምረጡ እና ለመጨመር እሺን ይጫኑ"
+
+msgid "Service Reference used %s"
+msgstr "የአገልግሎት ማጣቀሻ %s ተጠቅሟል"
+
+msgid "ServiceMp3(4097)"
+msgstr "አገልግሎትMp3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "የአገልግሎቶች ማጫወቻ ማጣቀሻ አይነት"
+
+msgid "Set On for line link m3u full"
+msgstr "የመስመር ማገናኛ m3u ሙሉ አዘጋጅ"
+
+msgid "Settings saved correctly!"
+msgstr "ቅንብሮች በትክክል ተቀምጠዋል!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "ፕለጊን በቅጥያዎች ምናሌ ውስጥ አሳይ"
+
+msgid "Show Plugin in Main Menu"
+msgstr "በዋናው ሜኑ ውስጥ ተሰኪን አሳይ"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Thumbpics አሳይ? Enigma ዳግም ማስጀመር ያስፈልጋል"
+
+msgid "Show thumpics?"
+msgstr "ትርምስ አሳይ?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "በሂደት ላይ ያለውን ተወዳጅ ዝርዝር በውዝ"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "ያስገቡት ፒን ኮድ ስህተት ነው።"
+
+msgid "Update"
+msgstr "አዘምን"
+
+msgid "Update Aborted!"
+msgstr "ዝማኔ ተቋርጧል!"
+
+msgid "Upgrading..."
+msgstr "በማሻሻል ላይ..."
+
+msgid "Wait please ..."
+msgstr "ቆይ እባክህ..."
+
+msgid "You are already downloading!!!"
+msgstr "ቀድሞውንም እያወረድክ ነው!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl ማዋቀር"

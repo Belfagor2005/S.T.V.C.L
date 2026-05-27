@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Greek <team@lists.gnome.gr>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Προσθήκη ροής IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Όλη η κρυφή μνήμη είναι άδεια!"
+
+msgid "Back"
+msgstr "Πίσω"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Ελέγξτε την προσθήκη Config - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Δείτε τη λίστα με τα αγαπημένα..."
+
+msgid "Choose Directory"
+msgstr "Επιλέξτε Κατάλογος"
+
+msgid "Choose Directory:"
+msgstr "Επιλέξτε Κατάλογο:"
+
+msgid "Configure Service Player Reference"
+msgstr "Ρύθμιση παραμέτρων αναφοράς προγράμματος αναπαραγωγής υπηρεσίας"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Διαμόρφωση φακέλου θέσης για προσωρινά Thumbpics"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Διαμορφώστε τη θέση των ανθοδεσμών των λιστών που έχουν μετατραπεί"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Συγχαρητήρια! Έχετε ήδη την πιο πρόσφατη έκδοση..."
+
+msgid "Conversion Failed!!!"
+msgstr "Η μετατροπή απέτυχε!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Μετατροπή ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Μετατροπή Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ΛΗΨΗ ΒΙΝΤΕΟ;"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Θέλετε να μετατρέψετε το μπουκέτο GSTREAMER;"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Θέλετε να μετατρέψετε μπουκέτο IPTV;"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Θέλετε να εγκαταστήσετε την ενημέρωση ( %s ) τώρα;"
+
+msgid "Download Failed!!!"
+msgstr "Η λήψη απέτυχε!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Λήψη thumpics στο Player M3U (είναι πολύ αργό);"
+
+msgid "Download thumpics?"
+msgstr "Λήψη thumpics;"
+
+msgid "Empty Pic Cache"
+msgstr "Κενή προσωρινή μνήμη φωτογραφιών"
+
+msgid "Enter Name"
+msgstr "Εισαγάγετε Όνομα"
+
+msgid "Enter pin code"
+msgstr "Εισαγάγετε τον κωδικό PIN"
+
+msgid "Error checking developer version: %s"
+msgstr "Σφάλμα κατά τον έλεγχο της έκδοσης προγραμματιστή: %s"
+
+msgid "Error checking version: %s"
+msgstr "Σφάλμα κατά τον έλεγχο της έκδοσης: %s"
+
+msgid "Exit"
+msgstr "Εξοδος"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Φιλτράρισμα τύπου regex σύνδεσης M3U"
+
+msgid "Filter this category..."
+msgstr "Φιλτράρισμα αυτής της κατηγορίας..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Προσωρινή μνήμη φακέλου για Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Διαδρομή φακέλου %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Διαδρομή φακέλου που περιέχει τα αρχεία .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Υλικό (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Η λίστα αγαπημένων HasBahCa έχει αφαιρεθεί"
+
+msgid "IPTV bouquets location"
+msgstr "Τοποθεσία ανθοδέσμων IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Σύνδεσμος στο μενού επεκτάσεων:"
+
+msgid "Link in Main Menu:"
+msgstr "Σύνδεσμος στο Κύριο Μενού:"
+
+msgid "M3u list folder not detected!"
+msgstr "Ο φάκελος λίστας M3u δεν εντοπίστηκε!"
+
+msgid "Ok"
+msgstr "Εντάξει"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Επιτρέπεται μόνο η ταινία VOD ή όχι .ext Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Λίστα φακέλων προγράμματος αναπαραγωγής <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Εισαγάγετε τον κωδικό pin γονικού ελέγχου"
+
+msgid "Really close without saving the settings?"
+msgstr "Πραγματικά κλείσιμο χωρίς αποθήκευση των ρυθμίσεων;"
+
+msgid "Remove"
+msgstr "Αφαιρώ"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Αφαιρέστε όλα τα S.T.V.C.L. Αγαπημένο μπουκέτο;"
+
+msgid "Save"
+msgstr "Εκτός"
+
+msgid "Search"
+msgstr "Ερευνα"
+
+msgid "Select"
+msgstr "Επιλέγω"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Επιλέξτε το Μπουκέτο και πατήστε OK για προσθήκη"
+
+msgid "Service Reference used %s"
+msgstr "Αναφορά υπηρεσίας που χρησιμοποιείται %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Τύπος αναφοράς προγράμματος αναπαραγωγής υπηρεσιών"
+
+msgid "Set On for line link m3u full"
+msgstr "Ρυθμίστε το On για σύνδεση γραμμής m3u full"
+
+msgid "Settings saved correctly!"
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν σωστά!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Εμφάνιση προσθήκης στο μενού επεκτάσεων"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Εμφάνιση προσθήκης στο κύριο μενού"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Εμφάνιση Thumbpics ; Απαιτείται επανεκκίνηση του Enigma"
+
+msgid "Show thumpics?"
+msgstr "Εμφάνιση thumpics;"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Τυχαία αναπαραγωγή λίστας αγαπημένων σε εξέλιξη"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Ο κωδικός PIN που εισαγάγατε είναι λάθος."
+
+msgid "Update"
+msgstr "Εκσυγχρονίζω"
+
+msgid "Update Aborted!"
+msgstr "Η ενημέρωση ματαιώθηκε!"
+
+msgid "Upgrading..."
+msgstr "Επιμόρφωση προσωπικού..."
+
+msgid "Wait please ..."
+msgstr "Περίμενε παρακαλώ..."
+
+msgid "You are already downloading!!!"
+msgstr "Κάνετε ήδη λήψη!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

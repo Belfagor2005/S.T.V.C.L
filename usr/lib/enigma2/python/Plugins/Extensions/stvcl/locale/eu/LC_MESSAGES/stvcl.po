@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:32+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Basque <translation-team-eu@googlegroups.com>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Gehitu Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Cache tolestura guztiak hutsik daude!"
+
+msgid "Back"
+msgstr "Itzuli"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Egiaztatu zure Config Plugin - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Begiratu gogokoen zerrenda..."
+
+msgid "Choose Directory"
+msgstr "Aukeratu Direktorioa"
+
+msgid "Choose Directory:"
+msgstr "Aukeratu direktorioa:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfiguratu Service Player Erreferentzia"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Konfiguratu posizio-karpeta aldi baterako Thumbpics-etarako"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfiguratu bihurtutako zerrenden sorten posizioa"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Zorionak! Dagoeneko duzu azken bertsioa..."
+
+msgid "Conversion Failed!!!"
+msgstr "Bihurketak huts egin du!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Bihurtu ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Bihurtu Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "BIDEOA DESKARGATU?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Bouquet GSTREAMER bihurtu nahi duzu?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Bouquet IPTV bihurtu nahi al duzu?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Eguneraketa ( %s ) instalatu nahi duzu orain?"
+
+msgid "Download Failed!!!"
+msgstr "Deskargatu huts egin du!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Deskargatu thumpics Player M3U-n (oso motela da)?"
+
+msgid "Download thumpics?"
+msgstr "thumpics deskargatu?"
+
+msgid "Empty Pic Cache"
+msgstr "Hustu irudien cachea"
+
+msgid "Enter Name"
+msgstr "Sartu Izena"
+
+msgid "Enter pin code"
+msgstr "Sartu pin kodea"
+
+msgid "Error checking developer version: %s"
+msgstr "Errore bat gertatu da garatzailearen bertsioa egiaztatzean: %s"
+
+msgid "Error checking version: %s"
+msgstr "Errorea bertsioa egiaztatzean: %s"
+
+msgid "Exit"
+msgstr "Irten"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Iragazi M3U estekaren erregulazio mota"
+
+msgid "Filter this category..."
+msgstr "Iragazi kategoria hau..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Thumbpics-en karpetako cachea:"
+
+msgid "Folder path %s"
+msgstr "%s karpetaren bidea"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u fitxategiak dituen karpeta-bidea"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Hardwarea (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa gogokoen zerrenda kendu da"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV sortak kokapena"
+
+msgid "Link in Extensions Menu:"
+msgstr "Esteka Luzapenen menuan:"
+
+msgid "Link in Main Menu:"
+msgstr "Esteka menu nagusian:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u zerrenda karpeta ez da detektatu!"
+
+msgid "Ok"
+msgstr "Ados"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "VOD filma bakarrik onartzen da edo ez .ext filtratua!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Jokalari karpeta zerrenda <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Mesedez, idatzi gurasoen kontrolaren PIN kodea"
+
+msgid "Really close without saving the settings?"
+msgstr "Benetan itxi ezarpenak gorde gabe?"
+
+msgid "Remove"
+msgstr "Kendu"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Kendu S.T.V.C.L guztiak. Sorta gogokoena?"
+
+msgid "Save"
+msgstr "Gorde"
+
+msgid "Search"
+msgstr "Bilatu"
+
+msgid "Select"
+msgstr "Hautatu"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Hautatu sorta eta sakatu Ados gehitzeko"
+
+msgid "Service Reference used %s"
+msgstr "Zerbitzu-erreferentzia erabili da %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ZerbitzuaMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "Zerbitzuak Jokalari Erreferentzia mota"
+
+msgid "Set On for line link m3u full"
+msgstr "Ezarri Aktibatu M3u-ren esteka osoa"
+
+msgid "Settings saved correctly!"
+msgstr "Ezarpenak behar bezala gorde dira!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Erakutsi plugina Luzapenen menuan"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Erakutsi plugina menu nagusian"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Erakutsi Thumbpics? Enigma berrabiarazi behar da"
+
+msgid "Show thumpics?"
+msgstr "Thumpics erakutsi?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Nahastu gogokoen zerrenda abian"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Sartu duzun PIN kodea okerra da."
+
+msgid "Update"
+msgstr "Eguneratu"
+
+msgid "Update Aborted!"
+msgstr "Eguneratzea bertan behera utzi da!"
+
+msgid "Upgrading..."
+msgstr "Berritzen..."
+
+msgid "Wait please ..."
+msgstr "Itxaron mesedez..."
+
+msgid "You are already downloading!!!"
+msgstr "Jada deskargatzen ari zara!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr "stvcl konfigurazioa"

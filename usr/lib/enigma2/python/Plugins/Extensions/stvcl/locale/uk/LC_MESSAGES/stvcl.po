@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:29+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Ukrainian <trans-uk@lists.fedoraproject.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Додати потокове IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Усі кеш-пам'яті порожні!"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Перевірте свій плагін конфігурації - фільм шляху"
+
+msgid "Check out the favorites list ..."
+msgstr "Перегляньте список улюблених..."
+
+msgid "Choose Directory"
+msgstr "Виберіть Довідник"
+
+msgid "Choose Directory:"
+msgstr "Виберіть каталог:"
+
+msgid "Configure Service Player Reference"
+msgstr "Налаштувати довідник програвача служби"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Налаштувати папку розташування для тимчасових зображень"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Налаштуйте розташування букетів перетворених списків"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Вітаю! У вас вже є остання версія..."
+
+msgid "Conversion Failed!!!"
+msgstr "Перетворення не вдалося!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Перетворення ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Перетворення Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ЗАВАНТАЖИТИ ВІДЕО?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Ви хочете конвертувати Bouquet GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Ви хочете конвертувати Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Бажаєте встановити оновлення ( %s ) зараз?"
+
+msgid "Download Failed!!!"
+msgstr "Помилка завантаження!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Завантажити thumpics у Player M3U (дуже повільно)?"
+
+msgid "Download thumpics?"
+msgstr "Завантажити thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Очистити кеш зображень"
+
+msgid "Enter Name"
+msgstr "Введіть ім'я"
+
+msgid "Enter pin code"
+msgstr "Введіть пін-код"
+
+msgid "Error checking developer version: %s"
+msgstr "Помилка перевірки версії розробника: %s"
+
+msgid "Error checking version: %s"
+msgstr "Помилка перевірки версії: %s"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Тип регулярного виразу посилання фільтра M3U"
+
+msgid "Filter this category..."
+msgstr "Відфільтрувати цю категорію..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Кеш папки для Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Шлях до папки %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Шлях до папки, що містить файли .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr "Обладнання(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Список уподобань HasBahCa видалено"
+
+msgid "IPTV bouquets location"
+msgstr "Розташування букетів IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Посилання в меню розширень:"
+
+msgid "Link in Main Menu:"
+msgstr "Посилання в головному меню:"
+
+msgid "M3u list folder not detected!"
+msgstr "Папка списку M3u не виявлена!"
+
+msgid "Ok"
+msgstr "добре"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Дозволяється лише фільм VOD або не фільтрується .ext!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Список папок плеєра <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Введіть пін-код батьківського контролю"
+
+msgid "Really close without saving the settings?"
+msgstr "Справді закрити без збереження налаштувань?"
+
+msgid "Remove"
+msgstr "видалити"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Видалити всі S.T.V.C.L. Улюблений букет?"
+
+msgid "Save"
+msgstr "зберегти"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Select"
+msgstr "Виберіть"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Виберіть букет і натисніть OK, щоб додати"
+
+msgid "Service Reference used %s"
+msgstr "Посилання на службу використано %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Сервіси Player Reference type"
+
+msgid "Set On for line link m3u full"
+msgstr "Встановіть Увімк. для лінії посилання m3u full"
+
+msgid "Settings saved correctly!"
+msgstr "Налаштування збережені правильно!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Показати плагін у меню розширень"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Показати плагін у головному меню"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Показати мітки? Потрібен перезапуск Enigma"
+
+msgid "Show thumpics?"
+msgstr "Показати удари?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Виконується перемішування списку улюблених"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Ви ввели неправильний PIN-код."
+
+msgid "Update"
+msgstr "оновлення"
+
+msgid "Update Aborted!"
+msgstr "Оновлення скасовано!"
+
+msgid "Upgrading..."
+msgstr "Оновлення..."
+
+msgid "Wait please ..."
+msgstr "Зачекайте, будь ласка..."
+
+msgid "You are already downloading!!!"
+msgstr "Ви вже завантажуєте!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "Конфігурація stvcl"

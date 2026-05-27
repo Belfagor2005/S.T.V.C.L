@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:28+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: German <translation-team-de@lists.sourceforge.net>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Stream IPTV hinzufügen"
+
+msgid "All cache fold are empty!"
+msgstr "Alle Cache-Fächer sind leer!"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Checken Sie Ihr Konfigurations-Plugin – Path Movie ein"
+
+msgid "Check out the favorites list ..."
+msgstr "Schauen Sie sich die Favoritenliste an ..."
+
+msgid "Choose Directory"
+msgstr "Wählen Sie Verzeichnis"
+
+msgid "Choose Directory:"
+msgstr "Wählen Sie Verzeichnis:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigurieren Sie die Service-Player-Referenz"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Positionsordner für temporäre Miniaturbilder konfigurieren"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfigurieren Sie die Position der Blumensträuße der konvertierten Listen"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Glückwunsch! Sie haben bereits die neueste Version..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertierung fehlgeschlagen!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Konvertieren Sie ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Konvertieren Sie Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "VIDEO HERUNTERLADEN?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Möchten Sie Bouquet GSTREAMER konvertieren?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Möchten Sie Bouquet IPTV konvertieren?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Möchten Sie das Update ( %s ) jetzt installieren?"
+
+msgid "Download Failed!!!"
+msgstr "Download fehlgeschlagen!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Thumpics im Player M3U herunterladen (ist sehr langsam)?"
+
+msgid "Download thumpics?"
+msgstr "Thumpics herunterladen?"
+
+msgid "Empty Pic Cache"
+msgstr "Leeren Sie den Bildcache"
+
+msgid "Enter Name"
+msgstr "Geben Sie den Namen ein"
+
+msgid "Enter pin code"
+msgstr "PIN-Code eingeben"
+
+msgid "Error checking developer version: %s"
+msgstr "Fehler beim Überprüfen der Entwicklerversion: %s"
+
+msgid "Error checking version: %s"
+msgstr "Fehler beim Überprüfen der Version: %s"
+
+msgid "Exit"
+msgstr "Ausfahrt"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Filtern Sie den Regex-Typ des M3U-Links"
+
+msgid "Filter this category..."
+msgstr "Filtern Sie diese Kategorie..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Ordner-Cache für Miniaturbilder:"
+
+msgid "Folder path %s"
+msgstr "Ordnerpfad %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Ordnerpfad, der die .m3u-Dateien enthält"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr ""
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Die HasBahCa-Favoritenliste wurde entfernt"
+
+msgid "IPTV bouquets location"
+msgstr "Standort der IPTV-Blumensträuße"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link im Erweiterungsmenü:"
+
+msgid "Link in Main Menu:"
+msgstr "Link im Hauptmenü:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u-Listenordner nicht erkannt!"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Nur VOD-Filme erlaubt oder nicht. .ext-gefiltert!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Player-Ordnerliste <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Bitte geben Sie den PIN-Code für die Kindersicherung ein"
+
+msgid "Really close without saving the settings?"
+msgstr "Wirklich schließen, ohne die Einstellungen zu speichern?"
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Entfernen Sie alle S.T.V.C.L. Lieblingsstrauß?"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Select"
+msgstr "Wählen"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Wählen Sie den Blumenstrauß aus und drücken Sie OK, um ihn hinzuzufügen"
+
+msgid "Service Reference used %s"
+msgstr "Dienstreferenz verwendet %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Referenztyp des Dienste-Players"
+
+msgid "Set On for line link m3u full"
+msgstr "Auf „Ein“ setzen, wenn die Leitungsverbindung m3u voll ist"
+
+msgid "Settings saved correctly!"
+msgstr "Einstellungen korrekt gespeichert!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Plugin im Erweiterungsmenü anzeigen"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Plugin im Hauptmenü anzeigen"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Miniaturbilder anzeigen? Enigma-Neustart erforderlich"
+
+msgid "Show thumpics?"
+msgstr "Thumpics anzeigen?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Favoritenliste mischen läuft"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Der von Ihnen eingegebene PIN-Code ist falsch."
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Update Aborted!"
+msgstr "Update abgebrochen!"
+
+msgid "Upgrading..."
+msgstr "Aktualisierung..."
+
+msgid "Wait please ..."
+msgstr "Bitte warten..."
+
+msgid "You are already downloading!!!"
+msgstr "Sie laden bereits herunter!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl-Konfiguration"

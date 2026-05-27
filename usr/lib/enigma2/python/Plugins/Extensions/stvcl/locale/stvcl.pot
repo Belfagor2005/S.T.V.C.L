@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: ekekaz@gmail.com [lululla]\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Add Stream IPTV"
+msgstr ""
+
+msgid "All cache fold are empty!"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr ""
+
+msgid "Check out the favorites list ..."
+msgstr ""
+
+msgid "Choose Directory"
+msgstr ""
+
+msgid "Choose Directory:"
+msgstr ""
+
+msgid "Configure Service Player Reference"
+msgstr ""
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr ""
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr ""
+
+msgid "Congrats! You already have the latest version..."
+msgstr ""
+
+msgid "Conversion Failed!!!"
+msgstr ""
+
+msgid "Convert ExtePlayer3"
+msgstr ""
+
+msgid "Convert Gstreamer"
+msgstr ""
+
+msgid "DOWNLOAD VIDEO?"
+msgstr ""
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr ""
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr ""
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr ""
+
+msgid "Download Failed!!!"
+msgstr ""
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr ""
+
+msgid "Download thumpics?"
+msgstr ""
+
+msgid "Empty Pic Cache"
+msgstr ""
+
+msgid "Enter Name"
+msgstr ""
+
+msgid "Enter pin code"
+msgstr ""
+
+msgid "Error checking developer version: %s"
+msgstr ""
+
+msgid "Error checking version: %s"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr ""
+
+msgid "Filter this category..."
+msgstr ""
+
+msgid "Folder Cache for Thumbpics:"
+msgstr ""
+
+msgid "Folder path %s"
+msgstr ""
+
+msgid "Folder path containing the .m3u files"
+msgstr ""
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr ""
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr ""
+
+msgid "IPTV bouquets location"
+msgstr ""
+
+msgid "Link in Extensions Menu:"
+msgstr ""
+
+msgid "Link in Main Menu:"
+msgstr ""
+
+msgid "M3u list folder not detected!"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr ""
+
+msgid "Player folder List <.m3u>:"
+msgstr ""
+
+msgid "Please enter the parental control pin code"
+msgstr ""
+
+msgid "Really close without saving the settings?"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select the Bouquet and press OK to add"
+msgstr ""
+
+msgid "Service Reference used %s"
+msgstr ""
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr ""
+
+msgid "Set On for line link m3u full"
+msgstr ""
+
+msgid "Settings saved correctly!"
+msgstr ""
+
+msgid "Show Plugin in Extensions Menu"
+msgstr ""
+
+msgid "Show Plugin in Main Menu"
+msgstr ""
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr ""
+
+msgid "Show thumpics?"
+msgstr ""
+
+msgid "Shuffle Favorite List in Progress"
+msgstr ""
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update Aborted!"
+msgstr ""
+
+msgid "Upgrading..."
+msgstr ""
+
+msgid "Wait please ..."
+msgstr ""
+
+msgid "You are already downloading!!!"
+msgstr ""
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

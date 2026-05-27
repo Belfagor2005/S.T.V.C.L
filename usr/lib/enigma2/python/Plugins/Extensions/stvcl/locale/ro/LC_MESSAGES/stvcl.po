@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:12+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Romanian <translation-team-ro@lists.sourceforge.net>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
+
+msgid "Add Stream IPTV"
+msgstr "Adăugați Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Toate paginile cache sunt goale!"
+
+msgid "Back"
+msgstr "Spate"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Verificați Pluginul de configurare - Filmul Calea"
+
+msgid "Check out the favorites list ..."
+msgstr "Vezi lista de favorite..."
+
+msgid "Choose Directory"
+msgstr "Alegeți Director"
+
+msgid "Choose Directory:"
+msgstr "Alegeți directorul:"
+
+msgid "Configure Service Player Reference"
+msgstr "Configurați Referința Playerului Service"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Configurați folderul de poziție pentru Thumbpics temporare"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Configurați poziția buchetelor din listele convertite"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Felicitari! Ai deja cea mai recentă versiune..."
+
+msgid "Conversion Failed!!!"
+msgstr "Conversia a eșuat!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Convertiți ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Convertiți Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "DESCARCĂ VIDEO?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Doriți să convertiți Buchetul GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Doriți să convertiți Bouquet IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Doriți să instalați actualizarea ( %s ) acum?"
+
+msgid "Download Failed!!!"
+msgstr "Descărcarea eșuată!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Descărcați thumpics în Player M3U (este foarte lent)?"
+
+msgid "Download thumpics?"
+msgstr "Descărcați thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Goliți memoria cache a imaginilor"
+
+msgid "Enter Name"
+msgstr "Introduceți Nume"
+
+msgid "Enter pin code"
+msgstr "Introdu codul PIN"
+
+msgid "Error checking developer version: %s"
+msgstr "Eroare la verificarea versiunii de dezvoltator: %s"
+
+msgid "Error checking version: %s"
+msgstr "Eroare la verificarea versiunii: %s"
+
+msgid "Exit"
+msgstr "Ieșire"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "Filtrați tipul regex al legăturii M3U"
+
+msgid "Filter this category..."
+msgstr "Filtrați această categorie..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Folder Cache pentru Thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Calea dosarului %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Calea folderului care conține fișierele .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr ""
+
+msgid "Hardware(1)"
+msgstr ""
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Lista de favorite HasBahCa a fost eliminată"
+
+msgid "IPTV bouquets location"
+msgstr "Locația buchetelor IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Link în meniul Extensii:"
+
+msgid "Link in Main Menu:"
+msgstr "Link în meniul principal:"
+
+msgid "M3u list folder not detected!"
+msgstr "Dosarul cu listă M3u nu a fost detectat!"
+
+msgid "Ok"
+msgstr "Bine"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Numai filmul VOD este permis sau nu .ext filtrat!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Lista folderelor jucătorului <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Vă rugăm să introduceți codul PIN de control parental"
+
+msgid "Really close without saving the settings?"
+msgstr "Chiar se închid fără a salva setările?"
+
+msgid "Remove"
+msgstr "Elimina"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Eliminați toate S.T.V.C.L. Buchetul preferat?"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Search"
+msgstr "Căutare"
+
+msgid "Select"
+msgstr "Selecta"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Selectați Buchetul și apăsați OK pentru a adăuga"
+
+msgid "Service Reference used %s"
+msgstr "Referința serviciului a folosit %s"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Servicii Tip de referință pentru jucător"
+
+msgid "Set On for line link m3u full"
+msgstr "Setați Activat pentru link-ul de linie m3u complet"
+
+msgid "Settings saved correctly!"
+msgstr "Setările au fost salvate corect!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Afișați pluginul în meniul Extensii"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Afișați pluginul în meniul principal"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Afișați imagini cu miniaturi? Este necesară repornirea Enigma"
+
+msgid "Show thumpics?"
+msgstr "Arătați thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Amestecă lista de favorite în curs"
+
+msgid "Streamlink(5002)"
+msgstr ""
+
+msgid "The pin code you entered is wrong."
+msgstr "Codul PIN introdus este greșit."
+
+msgid "Update"
+msgstr "Actualizare"
+
+msgid "Update Aborted!"
+msgstr "Actualizare a fost anulată!"
+
+msgid "Upgrading..."
+msgstr "Se actualizează..."
+
+msgid "Wait please ..."
+msgstr "Așteaptă te rog..."
+
+msgid "You are already downloading!!!"
+msgstr "Descarci deja!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr ""

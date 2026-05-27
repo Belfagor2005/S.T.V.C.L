@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Serbian <(nothing)>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Додајте Стреам ИПТВ"
+
+msgid "All cache fold are empty!"
+msgstr "Сви кеш преклопници су празни!"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Проверите свој Цонфиг Плугин - Патх Мовие"
+
+msgid "Check out the favorites list ..."
+msgstr "Погледајте листу фаворита..."
+
+msgid "Choose Directory"
+msgstr "Изаберите Именик"
+
+msgid "Choose Directory:"
+msgstr "Изаберите именик:"
+
+msgid "Configure Service Player Reference"
+msgstr "Конфигуришите референцу за сервисни плејер"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Конфигуришите фолдер позиције за привремене сличице"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Конфигуришите позицију букета конвертованих листа"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Цонгратс! Већ имате најновију верзију..."
+
+msgid "Conversion Failed!!!"
+msgstr "Цонверсион Фаилед!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Цонверт ЕктеПлаиер3"
+
+msgid "Convert Gstreamer"
+msgstr "Конвертујте Гстреамер"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ПРЕУЗМИТЕ ВИДЕО?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Да ли желите да претворите букет ГСТРЕАМЕР?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Да ли желите да претворите букет ИПТВ?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Да ли желите да инсталирате ажурирање ( %с ) сада?"
+
+msgid "Download Failed!!!"
+msgstr "Преузимање није успело!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Преузмите тхумпицс у Плаиер М3У (је веома споро)?"
+
+msgid "Download thumpics?"
+msgstr "Довнлоад тхумпицс?"
+
+msgid "Empty Pic Cache"
+msgstr "Испразни кеш слике"
+
+msgid "Enter Name"
+msgstr "Унесите име"
+
+msgid "Enter pin code"
+msgstr "Унесите пин код"
+
+msgid "Error checking developer version: %s"
+msgstr "Грешка при провери верзије програмера: %с"
+
+msgid "Error checking version: %s"
+msgstr "Грешка при провери верзије: %с"
+
+msgid "Exit"
+msgstr "Изађи"
+
+msgid "Exteplayer3(5002)"
+msgstr "Ектеплаиер3(5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Филтер М3У тип редовног израза везе"
+
+msgid "Filter this category..."
+msgstr "Филтрирај ову категорију..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Кеш фолдера за сличице:"
+
+msgid "Folder path %s"
+msgstr "Путања до фасцикле %с"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Путања фасцикле која садржи .м3у датотеке"
+
+msgid "Gstreamer(5001)"
+msgstr "Гстреамер(5001)"
+
+msgid "Hardware(1)"
+msgstr "хардвер(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "ХасБахЦа листа фаворита је уклоњена"
+
+msgid "IPTV bouquets location"
+msgstr "Локација ИПТВ букета"
+
+msgid "Link in Extensions Menu:"
+msgstr "Веза у менију екстензија:"
+
+msgid "Link in Main Menu:"
+msgstr "Линк у главном менију:"
+
+msgid "M3u list folder not detected!"
+msgstr "Мапа листе М3у није откривена!"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Дозвољен или не само ВОД филм .ект Филтеред!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Листа фасцикли плејера <.м3у>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Унесите ПИН код родитељске контроле"
+
+msgid "Really close without saving the settings?"
+msgstr "Стварно затворите без чувања подешавања?"
+
+msgid "Remove"
+msgstr "Уклони"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Уклоните све С.Т.В.Ц.Л. Омиљени букет?"
+
+msgid "Save"
+msgstr "Сачувај"
+
+msgid "Search"
+msgstr "Тражи"
+
+msgid "Select"
+msgstr "Изаберите"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Изаберите букет и притисните ОК да додате"
+
+msgid "Service Reference used %s"
+msgstr "Коришћена референца услуге %с"
+
+msgid "ServiceMp3(4097)"
+msgstr "СервицеМп3(4097)"
+
+msgid "Services Player Reference type"
+msgstr "Сервицес Плаиер Тип референце"
+
+msgid "Set On for line link m3u full"
+msgstr "Поставите Он за линијску везу м3у пуна"
+
+msgid "Settings saved correctly!"
+msgstr "Подешавања су исправно сачувана!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Прикажи додатак у менију проширења"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Прикажи додатак у главном менију"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Схов Тхумбпицс ? Потребно је поновно покретање Енигме"
+
+msgid "Show thumpics?"
+msgstr "Схов тхумпицс?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Промена листе фаворита је у току"
+
+msgid "Streamlink(5002)"
+msgstr "Стреамлинк(5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "ПИН код који сте унели је погрешан."
+
+msgid "Update"
+msgstr "Ажурирај"
+
+msgid "Update Aborted!"
+msgstr "Ажурирање је прекинуто!"
+
+msgid "Upgrading..."
+msgstr "Надоградња..."
+
+msgid "Wait please ..."
+msgstr "Сачекај молим те..."
+
+msgid "You are already downloading!!!"
+msgstr "Већ преузимате!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "еСервицеУри(8193)"
+
+msgid "stvcl Config"
+msgstr "ствцл Цонфиг"

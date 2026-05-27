@@ -1,0 +1,228 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 19:56+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Lithuanian <komp_lt@konferencijos.lt>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add Stream IPTV"
+msgstr "Pridėti srautinį IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Visas talpyklos aplankas tuščias!"
+
+msgid "Back"
+msgstr "Atgal"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Patikrinkite savo konfigūracijos papildinį – Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Peržiūrėkite mėgstamiausių sąrašą..."
+
+msgid "Choose Directory"
+msgstr "Pasirinkite Katalogas"
+
+msgid "Choose Directory:"
+msgstr "Pasirinkite katalogą:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfigūruoti paslaugų grotuvo nuorodą"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Sukonfigūruokite laikinųjų miniatiūrų padėties aplanką"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfigūruokite konvertuotų sąrašų puokščių padėtį"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Sveikiname! Jau turite naujausią versiją..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertavimas nepavyko!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Konvertuoti ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Konvertuoti Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "ATSISIŲSTI VAIZDO ĮRAŠĄ?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Ar norite konvertuoti puokštę GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Ar norite konvertuoti puokštę IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Ar norite įdiegti naujinimą ( %s ) dabar?"
+
+msgid "Download Failed!!!"
+msgstr "Atsisiųsti nepavyko!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Atsisiųsti thumpics į Player M3U (labai lėtas)?"
+
+msgid "Download thumpics?"
+msgstr "Atsisiųsti tmpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Tuščia nuotraukų talpykla"
+
+msgid "Enter Name"
+msgstr "Įveskite vardą"
+
+msgid "Enter pin code"
+msgstr "Įveskite PIN kodą"
+
+msgid "Error checking developer version: %s"
+msgstr "Klaida tikrinant kūrėjo versiją: %s"
+
+msgid "Error checking version: %s"
+msgstr "Klaida tikrinant versiją: %s"
+
+msgid "Exit"
+msgstr "Išeiti"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filtruoti M3U nuorodos reguliariojo reiškinio tipą"
+
+msgid "Filter this category..."
+msgstr "Filtruoti šią kategoriją..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Aplanko talpykla mini paveikslams:"
+
+msgid "Folder path %s"
+msgstr "Aplanko kelias %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Aplanko kelias, kuriame yra .m3u failai"
+
+msgid "Gstreamer(5001)"
+msgstr "„Gstreamer“ (5001)"
+
+msgid "Hardware(1)"
+msgstr "Aparatinė įranga (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa mėgstamiausių sąrašas buvo pašalintas"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV puokščių vieta"
+
+msgid "Link in Extensions Menu:"
+msgstr "Nuoroda plėtinių meniu:"
+
+msgid "Link in Main Menu:"
+msgstr "Nuoroda pagrindiniame meniu:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u sąrašo aplankas neaptiktas!"
+
+msgid "Ok"
+msgstr "Gerai"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Leidžiamas tik VOD filmas arba ne .ext Filtruotas!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Leistuvo aplankų sąrašas <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Įveskite tėvų kontrolės PIN kodą"
+
+msgid "Really close without saving the settings?"
+msgstr "Tikrai uždaryti neišsaugoję nustatymų?"
+
+msgid "Remove"
+msgstr "Pašalinti"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Pašalinti visus S.T.V.C.L. Mėgstamiausia puokštė?"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Search"
+msgstr "Ieškoti"
+
+msgid "Select"
+msgstr "Pasirinkite"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Pasirinkite puokštę ir paspauskite OK, kad pridėtumėte"
+
+msgid "Service Reference used %s"
+msgstr "Naudota paslaugos nuoroda %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "Paslaugos Grotuvo nuorodos tipas"
+
+msgid "Set On for line link m3u full"
+msgstr "Nustatyti Įjungta, kad eilutės saitas m3u pilnas"
+
+msgid "Settings saved correctly!"
+msgstr "Nustatymai išsaugoti teisingai!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Rodyti papildinį plėtinių meniu"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Rodyti papildinį pagrindiniame meniu"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Rodyti nykščius? Reikia iš naujo paleisti „Enigma“."
+
+msgid "Show thumpics?"
+msgstr "Rodyti timpus?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Vykdomas mėgstamiausių sąrašo maišymas"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Įvestas PIN kodas neteisingas."
+
+msgid "Update"
+msgstr "Atnaujinti"
+
+msgid "Update Aborted!"
+msgstr "Atnaujinimas nutrauktas!"
+
+msgid "Upgrading..."
+msgstr "Naujovinama..."
+
+msgid "Wait please ..."
+msgstr "Palauk prašau..."
+
+msgid "You are already downloading!!!"
+msgstr "Jūs jau atsisiunčiate!!!"
+
+msgid "eServiceUri(8193)"
+msgstr "eServiceUri (8193)"
+
+msgid "stvcl Config"
+msgstr "stvcl konfigūracija"

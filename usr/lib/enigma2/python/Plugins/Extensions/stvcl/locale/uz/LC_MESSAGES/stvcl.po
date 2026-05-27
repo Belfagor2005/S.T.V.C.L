@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:30+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Uzbek\n"
+"Language: uz\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Stream IPTV qo'shing"
+
+msgid "All cache fold are empty!"
+msgstr "Barcha kesh katlamalari bo'sh!"
+
+msgid "Back"
+msgstr "Orqaga"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Konfiguratsiya plaginini tekshiring - Yo'l filmi"
+
+msgid "Check out the favorites list ..."
+msgstr "Sevimlilar ro'yxatini ko'rib chiqing ..."
+
+msgid "Choose Directory"
+msgstr "Katalogni tanlang"
+
+msgid "Choose Directory:"
+msgstr "Katalogni tanlang:"
+
+msgid "Configure Service Player Reference"
+msgstr "Xizmat pleyeri ma'lumotnomasini sozlang"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Vaqtinchalik Thumbpics uchun joylashuv papkasini sozlang"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "O'zgartirilgan ro'yxatlar guldastalarining joylashishini sozlang"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "Tabriklaymiz! Sizda allaqachon oxirgi versiya mavjud..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertatsiya amalga oshmadi!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "ExtePlayer3-ni o'zgartiring"
+
+msgid "Convert Gstreamer"
+msgstr "Gstreamerni aylantiring"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "VIDEONI YUKLAB OLINGMI?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "GSTREAMER guldastasini aylantirmoqchimisiz?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Buket IPTV-ni o'zgartirmoqchimisiz?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Yangilanishni ( %s ) hozir oʻrnatmoqchimisiz?"
+
+msgid "Download Failed!!!"
+msgstr "Yuklab bo'lmadi!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "M3U pleyerida thumpicsni yuklab oling (juda sekin)?"
+
+msgid "Download thumpics?"
+msgstr "Thumpiklar yuklab olinsinmi?"
+
+msgid "Empty Pic Cache"
+msgstr "Rasm keshi bo'sh"
+
+msgid "Enter Name"
+msgstr "Ismni kiriting"
+
+msgid "Enter pin code"
+msgstr "PIN kodni kiriting"
+
+msgid "Error checking developer version: %s"
+msgstr "Dasturchi versiyasini tekshirishda xatolik yuz berdi: %s"
+
+msgid "Error checking version: %s"
+msgstr "Versiyani tekshirishda xatolik yuz berdi: %s"
+
+msgid "Exit"
+msgstr "Chiqish"
+
+msgid "Exteplayer3(5002)"
+msgstr ""
+
+msgid "Filter M3U link regex type"
+msgstr "M3U havolasining regex turini filtrlang"
+
+msgid "Filter this category..."
+msgstr "Ushbu turkumni filtrlash..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Thumbpics uchun papka keshi:"
+
+msgid "Folder path %s"
+msgstr "%s jild yoʻli"
+
+msgid "Folder path containing the .m3u files"
+msgstr ".m3u fayllarini o'z ichiga olgan jild yo'li"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Uskuna(1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "HasBahCa Sevimlilar roʻyxati olib tashlandi"
+
+msgid "IPTV bouquets location"
+msgstr "IPTV kviling joylashuvi"
+
+msgid "Link in Extensions Menu:"
+msgstr "Kengaytmalar menyusidagi havola:"
+
+msgid "Link in Main Menu:"
+msgstr "Asosiy menyudagi havola:"
+
+msgid "M3u list folder not detected!"
+msgstr "M3u ro'yxati jildi aniqlanmadi!"
+
+msgid "Ok"
+msgstr "Kelishdikmi"
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Faqat VOD filmiga ruxsat beriladi yoki yo'q .ext Filtrlangan!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "O'yinchi jildi ro'yxati <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Ota-ona nazorati pin kodini kiriting"
+
+msgid "Really close without saving the settings?"
+msgstr "Haqiqatan ham sozlamalarni saqlamasdan yopilsinmi?"
+
+msgid "Remove"
+msgstr "O'chirish"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Barcha S.T.V.C.L.ni olib tashlang. Sevimli guldasta?"
+
+msgid "Save"
+msgstr "Saqlash"
+
+msgid "Search"
+msgstr "Qidiruv"
+
+msgid "Select"
+msgstr "Tanlang"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Guldastani tanlang va qo'shish uchun OK tugmasini bosing"
+
+msgid "Service Reference used %s"
+msgstr "%s xizmatidan foydalanilgan"
+
+msgid "ServiceMp3(4097)"
+msgstr ""
+
+msgid "Services Player Reference type"
+msgstr "Xizmatlar o'yinchisiga havola turi"
+
+msgid "Set On for line link m3u full"
+msgstr "m3u to'liq chiziqli havola uchun Yoqilgan"
+
+msgid "Settings saved correctly!"
+msgstr "Sozlamalar toʻgʻri saqlangan!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Kengaytmalar menyusida plaginni ko'rsatish"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Asosiy menyuda plaginni ko'rsatish"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Bosh barmoq rasmlari koʻrsatilsinmi? Enigma-ni qayta ishga tushirish kerak"
+
+msgid "Show thumpics?"
+msgstr "Thumpiklar ko'rsatilsinmi?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Sevimlilar roʻyxatini aralashtirish davom etmoqda"
+
+msgid "Streamlink(5002)"
+msgstr "Streamlink (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Siz kiritgan pin kod noto'g'ri."
+
+msgid "Update"
+msgstr "Yangilash"
+
+msgid "Update Aborted!"
+msgstr "Yangilash bekor qilindi!"
+
+msgid "Upgrading..."
+msgstr "Yangilanmoqda..."
+
+msgid "Wait please ..."
+msgstr "Kutib turing, iltimos..."
+
+msgid "You are already downloading!!!"
+msgstr "Siz allaqachon yuklab olyapsiz!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl konfiguratsiyasi"

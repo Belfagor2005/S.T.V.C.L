@@ -1,0 +1,227 @@
+# stvcl translations
+# Copyright (C) 2025 Lululla Team
+# This file is distributed under the same license as the Lululla package.
+# [lululla] <ekekaz@gmail.com>, 2025.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: stvcl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2026-05-27 20:17+0000\n"
+"Last-Translator:  <EMAIL@ADDRESS>\n"
+"Language-Team: Language sq-AL\n"
+"Language: sq-AL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Add Stream IPTV"
+msgstr "Shto Stream IPTV"
+
+msgid "All cache fold are empty!"
+msgstr "Të gjitha palosjet e memories janë bosh!"
+
+msgid "Back"
+msgstr "Mbrapa"
+
+msgid "Check in your Config Plugin - Path Movie"
+msgstr "Kontrolloni në shtojcën tuaj të konfigurimit - Path Movie"
+
+msgid "Check out the favorites list ..."
+msgstr "Shikoni listën e të preferuarave..."
+
+msgid "Choose Directory"
+msgstr "Zgjidhni Drejtorinë"
+
+msgid "Choose Directory:"
+msgstr "Zgjidhni Drejtorinë:"
+
+msgid "Configure Service Player Reference"
+msgstr "Konfiguro referencën e lojtarit të shërbimit"
+
+msgid "Configure position folder for temporary Thumbpics"
+msgstr "Konfiguro dosjen e pozicionit për Thumbpics të përkohshëm"
+
+msgid "Configure position of the bouquets of the converted lists"
+msgstr "Konfiguro pozicionin e buqetave të listave të konvertuara"
+
+msgid "Congrats! You already have the latest version..."
+msgstr "urime! Ju tashmë keni versionin më të fundit..."
+
+msgid "Conversion Failed!!!"
+msgstr "Konvertimi dështoi!!!"
+
+msgid "Convert ExtePlayer3"
+msgstr "Konvertoni ExtePlayer3"
+
+msgid "Convert Gstreamer"
+msgstr "Konvertoni Gstreamer"
+
+msgid "DOWNLOAD VIDEO?"
+msgstr "SHKARKONI VIDEON?"
+
+msgid "Do you want to Convert Bouquet GSTREAMER?"
+msgstr "Dëshiron të konvertosh buqetën GSTREAMER?"
+
+msgid "Do you want to Convert Bouquet IPTV?"
+msgstr "Dëshironi të konvertoni buqetën IPTV?"
+
+msgid "Do you want to install update ( %s ) now?"
+msgstr "Dëshiron të instalosh përditësimin ( %s ) tani?"
+
+msgid "Download Failed!!!"
+msgstr "Shkarkimi dështoi!!!"
+
+msgid "Download thumpics in Player M3U (is very Slow)?"
+msgstr "Të shkarkohet thumpics në Player M3U (është shumë i ngadalshëm)?"
+
+msgid "Download thumpics?"
+msgstr "Të shkarkohet thumpics?"
+
+msgid "Empty Pic Cache"
+msgstr "Bosh memorien e fotografive"
+
+msgid "Enter Name"
+msgstr "Shkruani Emrin"
+
+msgid "Enter pin code"
+msgstr "Fut kodin pin"
+
+msgid "Error checking developer version: %s"
+msgstr "Gabim gjatë kontrollit të versionit të zhvilluesit: %s"
+
+msgid "Error checking version: %s"
+msgstr "Gabim gjatë kontrollit të versionit: %s"
+
+msgid "Exit"
+msgstr "Dilni"
+
+msgid "Exteplayer3(5002)"
+msgstr "Exteplayer3 (5002)"
+
+msgid "Filter M3U link regex type"
+msgstr "Filtro llojin regex të lidhjes M3U"
+
+msgid "Filter this category..."
+msgstr "Filtro këtë kategori..."
+
+msgid "Folder Cache for Thumbpics:"
+msgstr "Cache e dosjeve për thumbpics:"
+
+msgid "Folder path %s"
+msgstr "Rruga e dosjes %s"
+
+msgid "Folder path containing the .m3u files"
+msgstr "Rruga e dosjes që përmban skedarët .m3u"
+
+msgid "Gstreamer(5001)"
+msgstr "Gstreamer (5001)"
+
+msgid "Hardware(1)"
+msgstr "Hardware (1)"
+
+msgid "HasBahCa Favorites List have been removed"
+msgstr "Lista e të preferuarave të HasBahCa është hequr"
+
+msgid "IPTV bouquets location"
+msgstr "Vendndodhja e buqetave IPTV"
+
+msgid "Link in Extensions Menu:"
+msgstr "Lidhja në menynë e shtesave:"
+
+msgid "Link in Main Menu:"
+msgstr "Lidhja në menynë kryesore:"
+
+msgid "M3u list folder not detected!"
+msgstr "Dosja e listës M3u nuk u zbulua!"
+
+msgid "Ok"
+msgstr ""
+
+msgid "Only VOD Movie allowed or not .ext Filtered!!!"
+msgstr "Lejohet vetëm film VOD ose jo .ext Filtered!!!"
+
+msgid "Player folder List <.m3u>:"
+msgstr "Lista e dosjeve të luajtësit <.m3u>:"
+
+msgid "Please enter the parental control pin code"
+msgstr "Fut kodin pin të kontrollit prindëror"
+
+msgid "Really close without saving the settings?"
+msgstr "Vërtet mbyllet pa i ruajtur cilësimet?"
+
+msgid "Remove"
+msgstr "Hiq"
+
+msgid "Remove all S.T.V.C.L. Favorite Bouquet ?"
+msgstr "Hiq të gjitha S.T.V.C.L. Buqeta e preferuar?"
+
+msgid "Save"
+msgstr "Ruaj"
+
+msgid "Search"
+msgstr "Kërko"
+
+msgid "Select"
+msgstr "Zgjidhni"
+
+msgid "Select the Bouquet and press OK to add"
+msgstr "Zgjidhni Buqetën dhe shtypni OK për ta shtuar"
+
+msgid "Service Reference used %s"
+msgstr "Referenca e shërbimit të përdorur %s"
+
+msgid "ServiceMp3(4097)"
+msgstr "ServiceMp3 (4097)"
+
+msgid "Services Player Reference type"
+msgstr "Lloji i referencës së lojtarit të shërbimeve"
+
+msgid "Set On for line link m3u full"
+msgstr "Cakto On për lidhjen e linjës m3u full"
+
+msgid "Settings saved correctly!"
+msgstr "Cilësimet u ruajtën saktë!"
+
+msgid "Show Plugin in Extensions Menu"
+msgstr "Shfaq shtojcën në menynë e shtesave"
+
+msgid "Show Plugin in Main Menu"
+msgstr "Shfaq shtojcën në menynë kryesore"
+
+msgid "Show Thumbpics ? Enigma restart required"
+msgstr "Shfaq gishtat ? Kërkohet rinisja e enigmës"
+
+msgid "Show thumpics?"
+msgstr "Të shfaqen thumpics?"
+
+msgid "Shuffle Favorite List in Progress"
+msgstr "Përziejeni listën e të preferuarave në vazhdim"
+
+msgid "Streamlink(5002)"
+msgstr "Lidhja e transmetimit (5002)"
+
+msgid "The pin code you entered is wrong."
+msgstr "Kodi pin që fute është i gabuar."
+
+msgid "Update"
+msgstr "Përditëso"
+
+msgid "Update Aborted!"
+msgstr "Përditësimi u ndërpre!"
+
+msgid "Upgrading..."
+msgstr "Po përmirësohet..."
+
+msgid "Wait please ..."
+msgstr "Prit te lutem..."
+
+msgid "You are already downloading!!!"
+msgstr "Ju tashmë jeni duke shkarkuar!!!"
+
+msgid "eServiceUri(8193)"
+msgstr ""
+
+msgid "stvcl Config"
+msgstr "stvcl Konfigurimi"
