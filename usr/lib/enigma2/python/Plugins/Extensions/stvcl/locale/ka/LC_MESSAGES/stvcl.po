@@ -221,7 +221,7 @@ msgid "You are already downloading!!!"
 msgstr "თქვენ უკვე ტვირთავთ!!!"
 
 msgid "eServiceUri(8193)"
-msgstr ""
+msgstr "eServiceUri (8193)"
 
 msgid "stvcl Config"
 msgstr "stvcl კონფიგურაცია"

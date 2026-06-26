@@ -53,7 +53,7 @@ msgid "Conversion Failed!!!"
 msgstr "轉換失敗！ ！ ！"
 
 msgid "Convert ExtePlayer3"
-msgstr ""
+msgstr "轉換ExtePlayer3"
 
 msgid "Convert Gstreamer"
 msgstr "轉換 Gstreamer"

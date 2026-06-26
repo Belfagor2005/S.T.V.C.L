@@ -53,7 +53,7 @@ msgid "Conversion Failed!!!"
 msgstr "轉換失敗！ ！ ！"
 
 msgid "Convert ExtePlayer3"
-msgstr ""
+msgstr "轉換ExtePlayer3"
 
 msgid "Convert Gstreamer"
 msgstr "轉換 Gstreamer"
@@ -77,7 +77,7 @@ msgid "Download thumpics in Player M3U (is very Slow)?"
 msgstr "在 Player M3U 中下載 thumpics（非常慢）？"
 
 msgid "Download thumpics?"
-msgstr ""
+msgstr "下載圖釘？"
 
 msgid "Empty Pic Cache"
 msgstr "清空圖片快取"
@@ -113,7 +113,7 @@ msgid "Folder path %s"
 msgstr "資料夾路徑 %s"
 
 msgid "Folder path containing the .m3u files"
-msgstr ""
+msgstr "包含 .m3u 檔案的資料夾路徑"
 
 msgid "Gstreamer(5001)"
 msgstr ""
@@ -176,10 +176,10 @@ msgid "ServiceMp3(4097)"
 msgstr "服務Mp3(4097)"
 
 msgid "Services Player Reference type"
-msgstr ""
+msgstr "服務播放器參考類型"
 
 msgid "Set On for line link m3u full"
-msgstr ""
+msgstr "為線路連結 m3u full 設定為 On"
 
 msgid "Settings saved correctly!"
 msgstr "設定已正確儲存！"

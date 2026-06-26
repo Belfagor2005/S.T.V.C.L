@@ -98,7 +98,7 @@ msgid "Exit"
 msgstr "બહાર નીકળો"
 
 msgid "Exteplayer3(5002)"
-msgstr ""
+msgstr "એક્સટપ્લેયર3(5002)"
 
 msgid "Filter M3U link regex type"
 msgstr "M3U લિંક રેજેક્સ પ્રકારને ફિલ્ટર કરો"
