@@ -138,7 +138,7 @@ msgid "M3u list folder not detected!"
 msgstr "M3u loendi kausta ei tuvastatud!"
 
 msgid "Ok"
-msgstr ""
+msgstr "Okei"
 
 msgid "Only VOD Movie allowed or not .ext Filtered!!!"
 msgstr "Ainult VOD film on lubatud või mitte .ext Filtered!!!"
