@@ -99,7 +99,7 @@ msgid "Exit"
 msgstr "Gå"
 
 msgid "Exteplayer3(5002)"
-msgstr ""
+msgstr "Exteplayer3 (5002)"
 
 msgid "Filter M3U link regex type"
 msgstr "Filter M3U link regulært uttrykk type"
