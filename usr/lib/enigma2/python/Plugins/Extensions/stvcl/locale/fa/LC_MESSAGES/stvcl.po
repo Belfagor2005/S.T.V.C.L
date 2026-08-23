@@ -200,7 +200,7 @@ msgid "Shuffle Favorite List in Progress"
 msgstr "به هم ریختن لیست مورد علاقه در حال انجام است"
 
 msgid "Streamlink(5002)"
-msgstr ""
+msgstr "Streamlink (5002)"
 
 msgid "The pin code you entered is wrong."
 msgstr "پین کدی که وارد کردید اشتباه است."
